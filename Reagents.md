@@ -1,1 +1,3 @@
 - $\ce{Pt / Pd / Ni + H_{2} is a very strong \mathrm{Re}ducer}$
+- $\ce{H_{2} /Pd-C is a reducing agent but because of C(inhibitor) reaction stops at alkene}$
+- $\ce{H_{2} + Na in liq. NH_{3} is also a strong reductant due to solvated electrons}$ 
