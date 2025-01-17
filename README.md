@@ -10,3 +10,7 @@ Hello
 
 >>>>>>> origin/main
 github 
+
+
+
+git commit add all
