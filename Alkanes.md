@@ -1,2 +1,2 @@
-# Formation of alkanes
-[[Formation of alkanes]]
+# Formation of Alkanes
+![[All formulas#Alkenes/Alkynes to Alkanes]]
