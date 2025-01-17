@@ -6,3 +6,9 @@
 - This Reaction is known as 'Hydrogenation'.
 - For $\ce{Pt}$ and $\ce{Pd}$ reaction can occur at room temp. But for $\ce{Ni}$ we need high temp.
 
+## From Alkyl Halides
+![[All formulas#^fromalkylhalidestoalkanes]]
+
+```smiles
+C1=CC=CC=C1.ClCl>>C1=CC=CC=C1Cl
+```
