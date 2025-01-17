@@ -6,7 +6,5 @@ hello world
  YETTTTTTTTTTTTTTT 
 =======
 
-Hello
-
->>>>>>> origin/main
-github 
+Helo world
+VISHWESH CAN YOU SEE THIS
