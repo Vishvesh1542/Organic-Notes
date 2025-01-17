@@ -1,2 +1,6 @@
 # Organic-Notes
-Organic Chemistry
+Organic Chemistry.
+
+credits: 
+	Vishvesh Raj
+	Abhiram Singh
