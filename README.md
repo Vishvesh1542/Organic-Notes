@@ -13,4 +13,4 @@ github
 
 
 
-git commit add all
+- [ ] git commit add all
