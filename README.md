@@ -6,6 +6,7 @@ hello world
  YETTTTTTTTTTTTTTT 
 =======
 
-Hell
+Hello
+
 >>>>>>> origin/main
 github 
