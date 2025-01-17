@@ -1,2 +1,3 @@
 # Formation of Alkanes
-![[All formulas#Alkenes/Alkynes to Alkanes]]
+## From Alkenes/Alkynes
+![[All formulas#^fromalkenestoalkanes]]
