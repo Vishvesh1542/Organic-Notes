@@ -11,6 +11,11 @@ In both the reactions the reagents are strong reductants but both are requires f
 
 
 ## From Alkyl Halides
+<<<<<<< HEAD
+$\ce{CH_{3}-CHBr-CH_{3} ->[Alcoholic KOH][\Delta]} CH_{3}-CH=CH_{2}+HBr$^fromalkylhalidestoalkenes
+- **Abhiram please draw in excalidraw stuff here! and wherever neessary**
+
+=======
 $\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]} CH_{3}-CH=CH_{2}+HBr$^fromalkylhalidestoalkenes
 
 
@@ -34,3 +39,4 @@ C1=CC=CC=C1>>O=CC=O.O=CC=O.O=CC=O
 - In the above reaction, all $\pi$ bonds broke and attach $\ce{O}$ to all $\ce{C}$
 ### Mechanism
 ![[Reductive Ozonolysis]]
+>>>>>>> origin/main
