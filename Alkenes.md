@@ -12,3 +12,4 @@ In both the reactions the reagents are strong reductants but both are requires f
 
 ## From Alkyl Halides
 $\ce{CH_{3}-CHBr-CH_{3} ->[Alcoholic KOH][\Delta]} CH_{3}-CH=CH_{2}+HBr$^fromalkylhalidestoalkenes
+- **Abhiram please draw in excalidraw stuff here! and wherever neessary**
