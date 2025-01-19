@@ -1,4 +1,4 @@
 # Toluene
 ```smiles
-C1=CC=CC==C1C
+C1=C-C(C)=C-C=C1
 ```
