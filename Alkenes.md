@@ -12,7 +12,6 @@ In both the reactions the reagents are strong reductants but both are requires f
 
 ## From Alkyl Halides
 $\ce{CH_{3}-CHBr-CH_{3} ->[Alcoholic KOH][\Delta]} CH_{3}-CH=CH_{2}+HBr$^fromalkylhalidestoalkenes
-- **Abhiram please draw in excalidraw stuff here! and wherever neessary**
 
 $\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]} CH_{3}-CH=CH_{2}+HBr$^fromalkylhalidestoalkenes
 
@@ -20,7 +19,8 @@ $\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]} CH_{3}-CH=CH_{2}+HBr$^froma
 # Chemical reactions of Alkenes
 
 ## Ozonolysis
-### Reductive Ozonolysis (default)
+
+### Reductive Ozonolysis ( default )
 $\ce{CH_{3}-CH=CH_{2} ->[(i) O_{3}][(ii) Zn-H_{2}O] CH_{3}-CH=O + CH_{2}=O}$ ^ozonolysisofalkenes
 - Break the $\ce{=}$ bond and add $\ce{=O}$ to both the $\ce{C}$ atom.
 
@@ -37,3 +37,22 @@ C1=CC=CC=C1>>O=CC=O.O=CC=O.O=CC=O
 - In the above reaction, all $\pi$ bonds broke and attach $\ce{O}$ to all $\ce{C}$
 ### Mechanism
 ![[Reductive Ozonolysis]]
+## To Alcohols
+- There are three ways to convert Alkenes to Alcohols.
+  1. $\ce{H_{2}O / H+}$ ( from Acids )
+  2. $\ce{Hg(OAC)2 / H_{2}O / NaBH_{4}}$
+  3. $\ce{B_{2}H_{6} , THF / H_{2}O_{2} / OH-}$
+### Hydration
+$\ce{CH_{3}-CH=CH_{2} ->[H_{2}O / H+] CH_{3}-COH-CH_{3}}$ ^hydrationofalkenes
+- This is a $\ce{C+}$ pathway!
+#### Mechanism
+![[Hydration]]
+### Oxymercuration-Demercuration
+
+
+$\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}] CH_{3}-CH(OH)-CH_{3}}$ ^oxymercurationdemercuration
+
+- $\ce{OH}$ always attaches to the $\ce{C}$ which has the lower number of $\ce{H}$ attached
+- Also called "Marconikoff product"
+
+#### Mechanism
