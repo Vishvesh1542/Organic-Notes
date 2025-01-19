@@ -14,6 +14,8 @@
 3. ![[Alkenes#^fromalkylhalidestoalkenes]]
 ## Reactions 
 1. ![[Alkenes#^ozonolysisofalkenes]]
+2. ![[Alkenes#^hydrationofalkenes]]
+3. ![[Alkenes#^oxymercurationdemercuration]]
 
 
 # Alkynes
