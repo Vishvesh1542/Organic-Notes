@@ -4,7 +4,8 @@
 1. ![[Alkanes#^fromalkenestoalkanes]]
 2. ![[Alkanes#^wurtzreaction]]
 3.  ![[Alkanes#^fromalkylhalidestoalkanes]]
-
+4.  ![[Alkanes#^fromcarboxylicacidstoalkanes]]
+ 5. ![[Alkanes#^fromcarboxylicacidstoalkanes2]]
 
 # Alkenes
 ## Formation

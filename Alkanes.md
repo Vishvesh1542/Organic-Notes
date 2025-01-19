@@ -25,24 +25,27 @@ $\ce{R-X + H_{2} ->[Zn][H+]R-H}$ ^fromalkylhalidestoalkanes
 For this we have 2 types of reactions via different methods
 ### Kolbe's Electrolysis ( Electrical Method )
 
-$\ce{2RCOONa + 2H_{2}O ->[Kolbe's][Electrolysis] R-R + 2CO_{2} + 2NaOH + H_{2}}$
+$\ce{2RCOONa + 2H_{2}O ->[Kolbe's][Electrolysis] R-R + 2CO_{2} + 2NaOH + H_{2}}$^fromcarboxylicacidstoalkanes
 
 - Reason for using Sodium salt of carboxylic acids is that it dissociates completely in water ( Strong Electrolyte)
 - pH of beaker increases as reaction proceeds
 - Reaction proceeds via Radical Pathway 
 - The reaction is called Decarboxylation
 #### Mechanism
-mechanism.exe
+
+![[Kolbe's Electrolysis Mechanism]]
 #### Notes about Kolbe's Electrolysis
+
 - It is electrical method of decarboxylation
 - It is good method for preparing alkanes with even no. of $\ce{C}$ atoms
 - It is a BAD method for preparation of alkanes with odd no. of $\ce{C}$ atoms as when they are found they are not pure
 - **$\ce{CH_{4}}$ can never be prepared**
-### Soda-Lime Decarboxylation(Chemical Method)
+### Soda-Lime Decarboxylation ( Chemical Method )
 
-$\ce{RCOONa + NaOH ->[CaO] Na_{2}CO_{3} + R }$
+$\ce{RCOONa + NaOH ->[CaO] Na_{2}CO_{3} + RH }$^fromcarboxylicacidstoalkanes2
 
 - Reason for using Sodium salt of carboxylic acids is that it dissociates completely in water ( Strong Electrolyte )
 - Its called Soda Lime method as reagents are Caustic Soda ($\ce{NaOH}$) and Quick Lime ($\ce{CaO}$) in the **mole ratio 3:1** 
 #### Mechanism
-Mexhanism.exe
+
+![[Soda-Lime Decarboxylation Mechanism.excalidraw]]
