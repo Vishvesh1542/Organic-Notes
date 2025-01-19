@@ -31,6 +31,6 @@ C1=CC=CC=C1C=C>>C1=CC=CC=C1C=O.C=O
 ```smiles
 C1=CC=CC=C1>>O=CC=O.O=CC=O.O=CC=O
 ```
-- In the above reaction, all $\pi$ bonds broke and attach $\ce{O}$ to all C
+- In the above reaction, all $\pi$ bonds broke and attach $\ce{O}$ to all $\ce{C}$
 ### Mechanism
 ![[Reductive Ozonolysis]]
