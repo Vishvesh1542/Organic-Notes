@@ -57,6 +57,7 @@ $\ce{RCOONa + NaOH ->[CaO] Na_{2}CO_{3} + RH }$^fromcarboxylicacidstoalkanes2
 #### Mechanism
 
 ![[Soda-Lime Decarboxylation Mechanism]]
+<<<<<<< HEAD
 # Chemical Reactions of Alkanes
 
 - Alkane shows **Addition reaction**
@@ -81,3 +82,5 @@ $\ce{R-H + Cl_{2} ->[h\nu][or Sunlight] R-Cl + HCl}$^halogenationsubstitutionofa
 
 
 
+=======
+>>>>>>> origin/main

@@ -56,3 +56,22 @@ $\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}] CH_{
 - Also called "Marconikoff product"
 
 #### Mechanism
+![[oxymercuration-demercuration]]
+### Hydroboration-Oxidation
+$\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-] CH_{3}-CH_{2}-CH_{2}-OH}$ ^hydroborationoxidation
+- This is "Anti Marconikoff product". OH attaches to that C atom which has the higher number of H attached to it.
+
+## To Alkyl Halides
+
+$\ce{CH_{3}-CH=CH_{2} ->[HX] CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylhalides
+
+- Example reaction:
+- $\ce{CH_{3}-CH=CH_{2} ->[HX] CH_{3}-CH(X)-CH_{3}}$ 
+### Mechanism
+- Electrophilic addition reaction
+![[Alkenes to Alkyl Halides]]
+### Peroxides
+- for now ignore peroxides.
+- **Don't ignore HBr peroxide**
+- For $\ce{HBr}$ always Anti Marconikoff product. ( No Rearrangement )
+  1. This is known as the Marconikoff effect, Peroxide effect, Kharasch effect.
