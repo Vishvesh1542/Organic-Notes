@@ -16,6 +16,9 @@
 1. ![[Alkenes#^ozonolysisofalkenes]]
 2. ![[Alkenes#^hydrationofalkenes]]
 3. ![[Alkenes#^oxymercurationdemercuration]]
+4. ![[Alkenes#^hydroborationoxidation]]
+5. ![[Alkenes#^alkenestoalkylhalides]]
+6. 
 
 
 # Alkynes

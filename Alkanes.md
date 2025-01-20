@@ -48,4 +48,4 @@ $\ce{RCOONa + NaOH ->[CaO] Na_{2}CO_{3} + RH }$^fromcarboxylicacidstoalkanes2
 - Its called Soda Lime method as reagents are Caustic Soda ($\ce{NaOH}$) and Quick Lime ($\ce{CaO}$) in the **mole ratio 3:1** 
 #### Mechanism
 
-![[Soda-Lime Decarboxylation Mechanism.excalidraw]]
+![[Soda-Lime Decarboxylation Mechanism]]
