@@ -75,3 +75,7 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX] CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylhalides
 - **Don't ignore HBr peroxide**
 - For $\ce{HBr}$ always Anti Marconikoff product. ( No Rearrangement )
   1. This is known as the Marconikoff effect, Peroxide effect, Kharasch effect.
+#### Source of Peroxide
+1. $\ce{H_{2}O_{2}}$
+2. $\ce{R-O-O-R}$
+3. $\ce{C_{6}H_{5}-C(=O)-O-O-C(=O)-C_{6}H_{5}}$ -> Benzoic Peroxide
