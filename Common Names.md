@@ -12,3 +12,11 @@ O1C=CC=C1
 ```smiles
 O1CCCC1
 ```
+# Hydrazine
+```smiles
+N-N
+```
+# Ethylene Glycol
+```smiles
+O-C-C-O
+```

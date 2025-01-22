@@ -7,6 +7,7 @@
 3.  ![[Alkanes#^fromalkylhalidestoalkanes]]
 4.  ![[Alkanes#^fromcarboxylicacidstoalkanes]]
  5. ![[Alkanes#^fromcarboxylicacidstoalkanes2]]
+ 6. ![[Alkanes from Aldehydes and Ketones]]
 
 ## Chemical Reactions
 

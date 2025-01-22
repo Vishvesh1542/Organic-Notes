@@ -2,7 +2,7 @@
 node_size: 25
 ---
 # Organic-Notes
-Organic Chemistry.
+**Organic Chemistry** - Addicting yet Frustrating
 
 All related files:
 [[Exceptions]]
@@ -15,7 +15,7 @@ All related files:
 [[Reactions.canvas|Reactions]]
 
 
-credits: 
-	Vishvesh Raj
+Credits: 
+	Vishvesh Raj ( Born in Dubai )
 	Abhiram Singh
 
