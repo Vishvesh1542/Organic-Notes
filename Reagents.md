@@ -1,5 +1,7 @@
 - $\ce{Pt / Pd / Ni + H_{2}}$ is a very strong reducer.
-- $\ce{H_{2} /Pd-C}$ is a reducing agent but because of C(inhibitor) reaction stops at alkene.
+- $\ce{H_{2} /Pd-C}$ is a reducing agent but because of C( inhibitor ) reaction stops at alkene.
 - $\ce{H_{2} + Na in liq. NH_{3}}$ is also a strong reductant due to solvated electrons.
 - $\ce{Zn + H+}$ (Due to acids) is a reducing agent.
 - $\ce{O_{3} + Zn-H_{2}O}$ (Zinc water) is a reducing agent
+- $\ce{Zn-Hg}$ with conc. $\ce{HCl}$ is Clemmenson's reduction reagent 
+- $\ce{NH_{2}NH_{2}}$ or Hydrazine along with ethylene glycol ( $\ce{{(CH_{2}OH)}_{2}}$ ) $\ce{KOH}$ and heat ( $\Delta$ ) is Wolff-Kishner's reduction reagent

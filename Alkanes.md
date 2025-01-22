@@ -57,6 +57,12 @@ $\ce{RCOONa + NaOH ->[CaO] Na_{2}CO_{3} + RH }$^fromcarboxylicacidstoalkanes2
 #### Mechanism
 
 ![[Soda-Lime Decarboxylation Mechanism]]
+## From Aldehydes and Ketones
+
+- There are two methods in preparing Alkanes from Aldehydes and Ketones
+![[Alkanes from Aldehydes and Ketones]]
+- First one is called **Clemmenson Reduction** and second one is called **Wolff-Kishner** 
+
 # Chemical Reactions of Alkanes
 
 - Alkane shows **Addition reaction**
@@ -72,4 +78,29 @@ $\ce{R-H + Cl_{2} ->[h\nu][or Sunlight] R-Cl + HCl}$^halogenationsubstitutionofa
 - Mechanism is divided into 3 steps, Initiation, Propagation and Termination
 
 ![[Free Radical Halogenation Mechanism]]
+
+#### Deciding Major products in halogenation of Alkanes-
+
+- To decide major products in Halogenation of alkanes we use **Selectivity Ratios**
+- Selectivity Ratios only exist for $\ce{Br_{2} and Cl_{2}}$
+- Major product is the Carbon replacement that has highest of
+$$
+\text{No. of H of a given degree} \times \text{Selectivity Number of that degree}
+$$
+- We can also calculate Yield percentage using the following formula
+$$
+\frac{\text{No. of H of a given degree} \times \text{Selectivity Number of that degree}}{\Sigma \; \text{No. of H of a given degree} \times \text{Selectivity Number of that degree (for all degress) } } \times 100
+$$
+- Selectivity ratios for $\ce{Cl_{2}}$ are given as follows
+
+| **Degree of $\ce{H}$** | 1°  | 2°  | 3°  |
+| ---------------------- | --- | --- | --- |
+| **Selectivity Number** | 1   | 3.8 | 5   |
+- Selectivity ratios for $\ce{Br_{2}}$ are given as follows
+
+| **Degree of $\ce{H}$** | 1°  | 2°  | 3°   |
+| ---------------------- | --- | --- | ---- |
+| **Selectivity Number** | 1   | 82  | 1600 |
+- For $\ce{Br_{2}}$ the difference between the numbers is very large hence as a shortcut we can use stability of radical formed to determine the major product
+
 
