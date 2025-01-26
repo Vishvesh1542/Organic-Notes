@@ -33,7 +33,7 @@ C1=CC=CC=C1>>O=CC=O.O=CC=O.O=CC=O
 ```
 - In the above reaction, all $\pi$ bonds broke and attach $\ce{O}$ to all $\ce{C}$
 ##### Mechanism
-![[Reductive Ozonolysis]]
+- [[Reductive Ozonolysis]]
 ## To Alcohols
 - There are three ways to convert Alkenes to Alcohols.
   1. $\ce{H_{2}O / H+}$ ( from Acids )
@@ -44,8 +44,7 @@ C1=CC=CC=C1>>O=CC=O.O=CC=O.O=CC=O
 $\ce{CH_{3}-CH=CH_{2} ->[H_{2}O / H+] CH_{3}-C(OH)-CH_{3}}$ ^hydrationofalkenes
 - This is a $\ce{C+}$ pathway!
 ##### Mechanism
-![[Hydration]]
-
+[[Hydration]]
 
 #### Oxymercuration-Demercuration
 
@@ -54,9 +53,9 @@ $\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}] CH_{
 
 - $\ce{OH}$ always attaches to the $\ce{C}$ which has the lower number of $\ce{H}$ attached
 - Also called "Marconikoff product"
-
 ##### Mechanism
-![[oxymercuration-demercuration]]
+- [[oxymercuration-demercuration]]
+
 #### Hydroboration-Oxidation
 $\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-] CH_{3}-CH_{2}-CH_{2}-OH}$ ^hydroborationoxidation
 - This is "Anti Marconikoff product". OH attaches to that C atom which has the higher number of H attached to it.
@@ -69,7 +68,7 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX] CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylhalides
 - $\ce{CH_{3}-CH=CH_{2} ->[HX] CH_{3}-CH(X)-CH_{3}}$ 
 ##### Mechanism
 - Electrophilic addition reaction
-![[Alkenes to Alkyl Halides]]
+- [[Alkenes to Alkyl Halides]]
 
 
 ### Peroxides

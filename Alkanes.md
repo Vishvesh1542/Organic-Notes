@@ -33,8 +33,7 @@ $\ce{2RCOONa + 2H_{2}O ->[Kolbe's][Electrolysis] R-R + 2CO_{2} + 2NaOH + H_{2}}$
 - pH of beaker increases as reaction proceeds
 - Reaction proceeds via Radical Pathway 
 - The reaction is called Decarboxylation
-##### Mechanism
-![[Kolbe's Electrolysis Mechanism]]
+- Read the mechanism [[Kolbe's Electrolysis Mechanism|here]]
 ###### Notes about Kolbe's Electrolysis
 - It is electrical method of decarboxylation,
 - It is good method for preparing alkanes with even no. of $\ce{C}$ atoms
@@ -51,9 +50,7 @@ $\ce{RCOONa + NaOH ->[CaO] Na_{2}CO_{3} + RH }$^fromcarboxylicacidstoalkanes2
 - $\ce{NaOH}$ is VERY important for this reaction as it
   - consumes the $\ce{CO_{2}}$ formed making the slow step faster
   - $\ce{RCOO-}$ wants $\ce{H+}$ from water to form stable $\ce{RCOOH}$ but $\ce{NaOH}$ prevents this and forms $\ce{RCOONa}$ to get pure product
-##### Mechanism
-![[Soda-Lime Decarboxylation Mechanism]]
-
+- Read the mechanism [[Soda-Lime Decarboxylation Mechanism|here]]
 
 ## From Aldehydes and Ketones
 ![[Alkanes from Aldehydes and Ketones]] ^fromaldehydesandketonestoalkanes
@@ -67,11 +64,7 @@ $\ce{RCOONa + NaOH ->[CaO] Na_{2}CO_{3} + RH }$^fromcarboxylicacidstoalkanes2
 $\ce{R-H + Cl_{2} ->[h\nu] R-Cl + HCl}$^halogenationsubstitutionofalkanes
 
 - Reactivity order -> $\ce{F_{2} > Cl_{2} > Br_{2} \gg I_{2}}$
-
-##### Mechanism
-- Mechanism is divided into 3 steps, Initiation, Propagation and Termination
-
-![[Free Radical Halogenation Mechanism]]
+- Read the mechanism [[Free Radical Halogenation Mechanism|here]]
 
 ##### Deciding Major products in halogenation of Alkanes-
 - To decide major products in Halogenation of alkanes we use **Selectivity Ratios**
