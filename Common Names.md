@@ -21,10 +21,9 @@ C1=CC=CC=C1C(=O)OOC(=O)C2=CC=CC=C2
 ```
 # Hydrazine
 ```smiles
-N-N
+N-N.N-N
 ```
 # Ethylene Glycol
 ```smiles
-O-C-C-O
->>>>>>> origin/main
+O-C-C-O.O-C-C-O
 ```
