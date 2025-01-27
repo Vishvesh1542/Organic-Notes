@@ -12,7 +12,7 @@
 	3. $\ce{I_{2}}$ reaction are reversible so doesn't matter
 # Alkenes
 - $\ce{CH_{4}}$ can never be prepared from Kolbe's electrolysis
-	  in ![[Alkanes#^fromalkylhalidestoalkanes]]
+	  in ![[Alkanes#^fromalkylhalidestoalkanes]] **This is not Kolbe's Electrolysis @Abhiram. Fix it if it is a mistake!**
 
 - $\ce{CH_{4}}$ can never be prepared from Kolbe's electrolysis
 	![[Alkanes#^fromcarboxylicacidstoalkanes]]
