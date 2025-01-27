@@ -3,27 +3,42 @@
 ## Formation
 
 1. ![[Alkanes#^fromalkenestoalkanes]]
+___
 2. ![[Alkanes#^wurtzreaction]]
+___
 3.  ![[Alkanes#^fromalkylhalidestoalkanes]]
+___
 4.  ![[Alkanes#^fromcarboxylicacidstoalkanes]]
- 5. ![[Alkanes#^fromcarboxylicacidstoalkanes2]]
- 6. ![[Alkanes from Aldehydes and Ketones]]
+---
+5. ![[Alkanes#^fromcarboxylicacidstoalkanes2]]
+---
+6. ![[Alkanes#^fromaldehydesandketonestoalkanes]]
+
 
 ## Chemical Reactions
 
 1. ![[Alkanes#^halogenationsubstitutionofalkanes]]
+
+
 # Alkenes
 ## Formation
 
 1.  ![[Alkenes#^fromalkynestocisalkenes]]
+---
 2. ![[Alkenes#^fromalkynestotransalkenes]]
+---
 3. ![[Alkenes#^fromalkylhalidestoalkenes]]
+
 ## Reactions 
 
 1. ![[Alkenes#^ozonolysisofalkenes]]
+---
 2. ![[Alkenes#^hydrationofalkenes]]
+---
 3. ![[Alkenes#^oxymercurationdemercuration]]
+---
 4. ![[Alkenes#^hydroborationoxidation]]
+---
 5. ![[Alkenes#^alkenestoalkylhalides]]
 
 
@@ -33,4 +48,5 @@
 ## Formation
 
 1. ![[Benzene#^fittingreaction]]
+---
 2. ![[Benzene#^wurtzfittingreaction]]

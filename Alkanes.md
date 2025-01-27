@@ -58,9 +58,8 @@ $\ce{RCOONa + NaOH ->[CaO] Na_{2}CO_{3} + RH }$^fromcarboxylicacidstoalkanes2
 
 ![[Soda-Lime Decarboxylation Mechanism]]
 ## From Aldehydes and Ketones
-
+![[Alkanes from Aldehydes and Ketones]] ^fromaldehydesandketonestoalkanes
 - There are two methods in preparing Alkanes from Aldehydes and Ketones
-![[Alkanes from Aldehydes and Ketones]]
 - First one is called **Clemmenson Reduction** and second one is called **Wolff-Kishner** 
 
 # Chemical Reactions of Alkanes
@@ -69,7 +68,7 @@ $\ce{RCOONa + NaOH ->[CaO] Na_{2}CO_{3} + RH }$^fromcarboxylicacidstoalkanes2
 
 ## Free Radical Halogenation Disproportionation ( Substitution ) Reaction
 
-$\ce{R-H + Cl_{2} ->[h\nu][or Sunlight] R-Cl + HCl}$^halogenationsubstitutionofalkanes
+$\ce{R-H + Cl_{2} ->[h\nu] R-Cl + HCl}$^halogenationsubstitutionofalkanes
 
 - Reactivity order -> $\ce{F_{2} > Cl_{2} > Br_{2} \gg I_{2}}$
 
