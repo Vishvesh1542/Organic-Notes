@@ -4,4 +4,8 @@
 - $\ce{Zn + H+}$ (Due to acids) is a reducing agent.
 - $\ce{O_{3} + Zn-H_{2}O}$ (Zinc water) is a reducing agent
 - $\ce{Zn-Hg}$ with conc. $\ce{HCl}$ is Clemmenson's reduction reagent 
+<<<<<<< HEAD
+- $\ce{NH_{2}NH_{2}}$ or Hydrazine along with ethylene glycol ( $\ce{{(CH_{2}OH)}_{2}}$ ) $\ce{KOH}$ and heat ( $\Delta$ ) is Wolff-Kishner's reduction reagent
+=======
 - $\ce{NH_{2}-NH_{2}}$ or Hydrazine along with ethylene glycol ( $\ce{OH-CH_{2}-CH_{2}-OH}$) $\ce{KOH}$ and heat ( $\Delta$ ) is Wolff-Kishner's reduction reagent
+>>>>>>> origin/main
