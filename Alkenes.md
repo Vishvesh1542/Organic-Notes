@@ -1,16 +1,20 @@
+This note is included in #organic
 # Formation of Alkenes
 
 ## From Alkynes
-$\ce{R-C#C-R ->[H_{2} / Pd-C] R-CH=CH-R (cis alkene)}$^fromalkynestocisalkenes
+$\ce{R-C#C-R ->[H_{2} / Pd-C]}$<!---->$\ce{R-CH=CH-R (cis alkene)}$^fromalkynestocisalkenes
+<!--SR:!2025-02-03,4,270-->
 - The $\ce{H_{2} /Pd-C}$ reagent is divided into two categories (**Rosenmund and Lindlar**)
 
-$\ce{R-C#C-R ->[H_{2} +Na][liq. NH_{3}] R-CH=CH-R (trans alkene)}$^fromalkynestotransalkenes
+$\ce{R-C#C-R ->[H_{2} +Na][liq. NH_{3}]}$<!---->$\ce{R-CH=CH-R (trans alkene)}$^fromalkynestotransalkenes
+<!--SR:!2025-01-31,1,230-->
 - This is **Birch Reduction**
 
 In both the reactions the reagents are strong reductants but both are requires for cis or trans alkene
 
 ## From Alkyl Halides
-$\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]} CH_{3}-CH=CH_{2}+HBr$^fromalkylhalidestoalkenes
+$\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]}$<!---->$\ce{CH_{3}-CH=CH_{2}+HBr}$^fromalkylhalidestoalkenes
+<!--SR:!2025-02-03,4,270-->
 
 
 # Chemical reactions of Alkenes
@@ -18,7 +22,8 @@ $\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]} CH_{3}-CH=CH_{2}+HBr$^froma
 ## Ozonolysis
 
 #### Reductive Ozonolysis ( default )
-$\ce{CH_{3}-CH=CH_{2} ->[(i) O_{3}][(ii) Zn-H_{2}O] CH_{3}-CH=O + CH_{2}=O}$ ^ozonolysisofalkenes
+$\ce{CH_{3}-CH=CH_{2} ->[(i) O_{3}][(ii) Zn-H_{2}O]}$<!---->$\ce{CH_{3}-CH=O + CH_{2}=O}$ ^ozonolysisofalkenes
+<!--SR:!2025-02-03,4,270-->
 - Break the $\ce{=}$ bond and add $\ce{=O}$ to both the $\ce{C}$ atom.
 
 $\ce{CH_{3}-CH=CH-CH_{3} ->[(i) O_{3}][(ii) Zn-H_{2}O] 2CH_{3}CH=O}$
@@ -41,7 +46,8 @@ C1=CC=CC=C1>>O=CC=O.O=CC=O.O=CC=O
   3. $\ce{B_{2}H_{6} , THF / H_{2}O_{2} / OH-}$
 
 #### Hydration
-$\ce{CH_{3}-CH=CH_{2} ->[H_{2}O / H+] CH_{3}-C(OH)-CH_{3}}$ ^hydrationofalkenes
+$\ce{CH_{3}-CH=CH_{2} ->[H_{2}O / H+]}$<!---->$\ce{CH_{3}-C(OH)-CH_{3}}$ ^hydrationofalkenes
+<!--SR:!2025-02-03,4,270-->
 - This is a $\ce{C+}$ pathway!
 ##### Mechanism
 [[Hydration]]
@@ -49,7 +55,8 @@ $\ce{CH_{3}-CH=CH_{2} ->[H_{2}O / H+] CH_{3}-C(OH)-CH_{3}}$ ^hydrationofalkenes
 #### Oxymercuration-Demercuration
 
 
-$\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}] CH_{3}-CH(OH)-CH_{3}}$ ^oxymercurationdemercuration
+$\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}]}$<!---->$\ce{ CH_{3}-CH(OH)-CH_{3}}$ ^oxymercurationdemercuration
+<!--SR:!2025-02-03,4,270-->
 
 - $\ce{OH}$ always attaches to the $\ce{C}$ which has the lower number of $\ce{H}$ attached
 - Also called "Marconikoff product"
@@ -57,12 +64,14 @@ $\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}] CH_{
 - [[oxymercuration-demercuration]]
 
 #### Hydroboration-Oxidation
-$\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-] CH_{3}-CH_{2}-CH_{2}-OH}$ ^hydroborationoxidation
+$\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$<!---->$\ce{ CH_{3}-CH_{2}-CH_{2}-OH}$ ^hydroborationoxidation
+<!--SR:!2025-02-02,3,250-->
 - This is "Anti Marconikoff product". OH attaches to that C atom which has the higher number of H attached to it.
 
 ## To Alkyl Halides
 
-$\ce{CH_{3}-CH=CH_{2} ->[HX] CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylhalides
+$\ce{CH_{3}-CH=CH_{2} ->[HX]}$<!---->$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylhalides
+<!--SR:!2025-02-02,3,250-->
 
 - Example reaction:
 - $\ce{CH_{3}-CH=CH_{2} ->[HX] CH_{3}-CH(X)-CH_{3}}$ 

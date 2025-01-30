@@ -1,9 +1,7 @@
 # Alkanes
-
+This part is officially a part of #organic
 ## Formation
-
-1. ![[Alkanes#^fromalkenestoalkanes]]
-
+1. ![[Alkanes#^fromalkenestoalkanes]]️ 
 ___
 2. ![[Alkanes#^wurtzreaction]]
 ___

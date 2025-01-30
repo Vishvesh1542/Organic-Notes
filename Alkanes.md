@@ -1,15 +1,18 @@
+These notes have flashcards under #organic
 # Formation of Alkanes
 ## From Alkenes/Alkynes
-$\ce{CH_{2}=CH_{2} + H_{2} ->[Pt / Pd / Ni] H_{3}C-CH_{3}}$ ^fromalkenestoalkanes
+$\ce{CH_{2}=CH_{2} + H_{2} ->[Pt / Pd / Ni]}$ <!----> $\ce{H_{3}C-CH_{3}}$^fromalkenestoalkanes
+<!--SR:!2025-02-03,4,270-->
+
 
 - Here, $\ce{H_{2} + Pt / Pd / Ni}$ is a very strong reagent, which makes
   $\ce{C=C}$ and even $\ce{C#C}$ into $\ce{C-C}$
 - This Reaction is known as 'Hydrogenation'.
 - For $\ce{Pt}$ and $\ce{Pd}$ reaction can occur at room temp. But for $\ce{Ni}$ we need high temp.
 
-
 ## Wurtz Reaction
-$\ce{CH_{3}-Cl + 2Na + Cl-CH_{3} ->[Dry ether] 2NaCl + CH_{3}-CH_{3}}$ ^wurtzreaction
+$\ce{CH_{3}-Cl + 2Na + Cl-CH_{3} ->[Dry ether]}$<!----> $\ce{NaCl + CH_{3}-CH_{3}}$ ^wurtzreaction
+<!--SR:!2025-02-03,4,270-->
 - It goes through radical Pathway
 
 
@@ -27,7 +30,8 @@ $\ce{R-X + H_{2} ->[Zn][H+]R-H}$ ^fromalkylhalidestoalkanes
 For this we have 2 types of reactions via different methods
 
 #### Kolbe's Electrolysis ( Electrical Method )
-$\ce{2RCOONa + 2H_{2}O ->[Kolbe's][Electrolysis] R-R + 2CO_{2} + 2NaOH + H_{2}}$^fromcarboxylicacidstoalkanes
+$\ce{2RCOONa + 2H_{2}O ->[Kolbe's][Electrolysis]}$ <!----> $\ce{ R-R + 2CO_{2} + 2NaOH + H_{2}}$^fromcarboxylicacidstoalkanes
+<!--SR:!2025-02-02,3,250-->
 
 - Reason for using Sodium salt of carboxylic acids is that it dissociates completely in water ( Strong Electrolyte)
 - pH of beaker increases as reaction proceeds
@@ -41,7 +45,8 @@ $\ce{2RCOONa + 2H_{2}O ->[Kolbe's][Electrolysis] R-R + 2CO_{2} + 2NaOH + H_{2}}$
 - **$\ce{CH_{4}}$ can never be prepared**
 
 ### Soda-Lime Decarboxylation ( Chemical Method )
-$\ce{RCOONa + NaOH ->[CaO] Na_{2}CO_{3} + RH }$^fromcarboxylicacidstoalkanes2
+$\ce{RCOONa + NaOH ->[CaO]}$<!---->$\ce{ Na_{2}CO_{3} + RH }$ ^fromcarboxylicacidstoalkanes2
+<!--SR:!2025-01-31,1,230-->
 
 - Reason for using Sodium salt of carboxylic acids is that it dissociates completely in water ( Strong Electrolyte )
 - Its called Soda Lime method as reagents are Caustic Soda ($\ce{NaOH}$) and Quick Lime ($\ce{CaO}$) in the **mole ratio 3:1** 
@@ -57,13 +62,21 @@ $\ce{RCOONa + NaOH ->[CaO] Na_{2}CO_{3} + RH }$^fromcarboxylicacidstoalkanes2
 - There are two methods in preparing Alkanes from Aldehydes and Ketones
 - First one is called **Clemmenson Reduction** and second one is called **Wolff-Kishner** 
 
+###### Flash card
+$\ce{R-C(O)-R ->[Zn(Hg)][con. HCl]}$<!---->![[Alkanes from Aldehydes and Ketones]] Clemmenson Reduction
+<!--SR:!2025-01-31,1,230-->
+$\ce{R-C(O)-R ->[NH_{2}-NH_{2}][Ethylene Glycol, KOH, \Delta]}$ <!----> ![Alkanes from Aldehydes and Ketones](Alkanes%20from%20Aldehydes%20and%20Ketones.md)Wolf-Kishner Reduction
+<!--SR:!2025-01-31,1,230-->
+
 
 # Chemical Reactions of Alkanes
 - Alkane shows **Addition reaction**
 ## Free Radical Halogenation Disproportionation ( Substitution ) Reaction
-$\ce{R-H + Cl_{2} ->[h\nu] R-Cl + HCl}$^halogenationsubstitutionofalkanes
+$\ce{R-H + Cl_{2} ->[h\nu]}$<!---->$\ce{R-Cl + HCl}$^halogenationsubstitutionofalkanes
+<!--SR:!2025-02-02,3,250-->
 
-- Reactivity order -> $\ce{F_{2} > Cl_{2} > Br_{2} \gg I_{2}}$
+- Reactivity order in free Radical Halogenation <!----> -> $\ce{F_{2} > Cl_{2} > Br_{2} \gg I_{2}}$
+<!--SR:!2025-01-31,1,230-->
 - Read the mechanism [[Free Radical Halogenation Mechanism|here]]
 
 ##### Deciding Major products in halogenation of Alkanes-
@@ -73,10 +86,8 @@ $\ce{R-H + Cl_{2} ->[h\nu] R-Cl + HCl}$^halogenationsubstitutionofalkanes
 $$
 \text{No. of H of a given degree} \times \text{Selectivity Number of that degree}
 $$
-- We can also calculate Yield percentage using the following formula
-$$
-\frac{\text{No. of H of a given degree} \times \text{Selectivity Number of that degree}}{\Sigma \; \text{No. of H of a given degree} \times \text{Selectivity Number of that degree (for all degress) } } \times 100
-$$
+- We can also calculate Yield percentage of products in halogenation of Alkanes using the following formula <!---->$$\frac{\text{no. H of a given degree} \times \text{Selectivity no. of degree}}{\Sigma \; \text{No. of H of  given degree} \times \text{Selectivity no. of that degree (all degress) } }\times100$$
+<!--SR:!2025-01-31,1,230-->
 - Selectivity ratios for $\ce{Cl_{2}}$ are given as follows
 
 | **Degree of $\ce{H}$** | 1°  | 2°  | 3°  |
