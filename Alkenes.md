@@ -13,9 +13,9 @@ $\ce{R-C#C-R ->[H_{2} +Na][liq. NH_{3}]}$<!---->$\ce{R-CH=CH-R (trans alkene)}$^
 In both the reactions the reagents are strong reductants but both are requires for cis or trans alkene
 
 ## From Alkyl Halides
-$\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]}$<!---->$\ce{CH_{3}-CH=CH_{2}+HBr}$^fromalkylhalidestoalkenes
+$\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]}$<!---->$\ce{CH_{3}-CH=CH_{2} + HBr}$^fromalkylhalidestoalkenes
 <!--SR:!2025-02-03,4,270-->
-
+- The most acidic $\ce{H}$ and $\ce{Br}$ will be removed
 
 # Chemical reactions of Alkenes
 
@@ -59,14 +59,14 @@ $\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}]}$<!-
 <!--SR:!2025-02-03,4,270-->
 
 - $\ce{OH}$ always attaches to the $\ce{C}$ which has the lower number of $\ce{H}$ attached
-- Also called "Marconikoff product"
+- Also called **Marconikoff product**
 ##### Mechanism
 - [oxymercuration-demercuration Mechanism](oxymercuration-demercuration%20Mechanism.md)
 
 #### Hydroboration-Oxidation
 $\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$<!---->$\ce{ CH_{3}-CH_{2}-CH_{2}-OH}$ ^hydroborationoxidation
 <!--SR:!2025-02-02,3,250-->
-- This is "Anti Marconikoff product". OH attaches to that C atom which has the higher number of H attached to it.
+- This is **Anti Marconikoff product**. OH attaches to that C atom which has the higher number of H attached to it.
 
 ## To Alkyl Halides
 

@@ -7,7 +7,7 @@ $\ce{CH_{2}=CH_{2} + H_{2} ->[Pt / Pd / Ni]}$ <!----> $\ce{H_{3}C-CH_{3}}$^froma
 
 - Here, $\ce{H_{2} + Pt / Pd / Ni}$ is a very strong reagent, which makes
   $\ce{C=C}$ and even $\ce{C#C}$ into $\ce{C-C}$
-- This Reaction is known as 'Hydrogenation'.
+- This Reaction is known as **Hydrogenation**.
 - For $\ce{Pt}$ and $\ce{Pd}$ reaction can occur at room temp. But for $\ce{Ni}$ we need high temp.
 
 ## Wurtz Reaction
@@ -65,7 +65,7 @@ $\ce{RCOONa + NaOH ->[CaO]}$<!---->$\ce{ Na_{2}CO_{3} + RH }$ ^fromcarboxylicaci
 ###### Flash card
 $\ce{R-C(O)-R ->[Zn(Hg)][con. HCl]}$<!---->![[Alkanes from Aldehydes and Ketones]] Clemmenson Reduction
 <!--SR:!2025-02-03,2,230-->
-$\ce{R-C(O)-R ->[NH_{2}-NH_{2}][Ethylene Glycol, KOH, \Delta]}$ <!----> ![Alkanes from Aldehydes and Ketones](Alkanes%20from%20Aldehydes%20and%20Ketones.md)Wolf-Kishner Reduction
+ $\ce{R-C(O)-R ->[NH_{2}-NH_{2}][Ethylene Glycol, KOH, \Delta]}$ <!----> ![Alkanes from Aldehydes and Ketones](Alkanes%20from%20Aldehydes%20and%20Ketones.md)Wolf-Kishner Reduction
 <!--SR:!2025-02-02,1,210-->
 
 
@@ -86,7 +86,7 @@ $\ce{R-H + Cl_{2} ->[h\nu]}$<!---->$\ce{R-Cl + HCl}$^halogenationsubstitutionofa
 $$
 \text{No. of H of a given degree} \times \text{Selectivity Number of that degree}
 $$
-- We can also calculate Yield percentage of products in halogenation of Alkanes using the following formula <!---->$$\frac{\text{no. H of a given degree} \times \text{Selectivity no. of degree}}{\Sigma \; \text{No. of H of  given degree} \times \text{Selectivity no. of that degree (all degress) } }\times100$$
+- We can also calculate Yield percentage of products in halogenation of Alkanes using the following formula <!---->$$\frac{\text{n(H) of given degree} \times \text{SN of degree}}{\Sigma \; \text{n(H) of  given degree} \times \text{SN of that degree}}\times100$$
 <!--SR:!2025-02-02,1,210-->
 - Selectivity ratios for $\ce{Cl_{2}}$ are given as follows
 

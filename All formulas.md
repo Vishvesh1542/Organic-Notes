@@ -41,10 +41,15 @@ ___
 
 
 # Alkynes
+## Formation
+1. ![[Alkynes#^fromcalciumcarbidetoalkynes]]
+2. ![[Alkynes#^fromvicinaldihalidestoalkynes]]
+## Reactions
+1. ![[Alkynes#^fromalkynestobenzene]]
 
 # Benzene
 ## Formation
 
-1. ![[Benzene#^fittingreaction]]
+2. ![[Benzene#^fittingreaction]]
 ---
-2. ![[Benzene#^wurtzfittingreaction]]
+3. ![[Benzene#^wurtzfittingreaction]]
