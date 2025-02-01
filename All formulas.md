@@ -1,5 +1,4 @@
 # Alkanes
-This part is officially a part of #organic
 ## Formation
 1. ![[Alkanes#^fromalkenestoalkanes]]️ 
 ___
