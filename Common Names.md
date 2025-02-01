@@ -41,3 +41,31 @@ O-C-C-O.O-C-C-O
 ```
 <!--SR:!2025-02-04,3,250-->
 %%end%%
+
+# Vicinal Dihalides
+%%?%%
+```smiles
+C([H])(Cl)-C([H])(Cl).C(F)([H])-C(F)([H])
+```
+%%end%%
+
+# Geminal Dihalides
+%%?%%
+```smiles
+C(Cl)(Cl)-C.C-C(F)(F)
+```
+# Mesitylene
+%%?%%
+
+```smiles
+C1(C)=C-C(C)=C-C(C)=C1.C1=C(C)-C=C(C)-C=C1(C)
+```
+%%end%%
+
+# Cumene
+%%?%%
+
+```smiles
+C1(C(C)(C))=C-C=C-C=C1.C1=C-C=C(C(C)(C))-C=C1
+```
+%%end%%
