@@ -7,7 +7,7 @@ $\ce{R-C#C-R ->[H_{2} / Pd-C]}$<!---->$\ce{R-CH=CH-R (cis alkene)}$^fromalkynest
 - The $\ce{H_{2} /Pd-C}$ reagent is divided into two categories (**Rosenmund and Lindlar**)
 
 $\ce{R-C#C-R ->[H_{2} +Na][liq. NH_{3}]}$<!---->$\ce{R-CH=CH-R (trans alkene)}$^fromalkynestotransalkenes
-<!--SR:!2025-01-31,1,230-->
+<!--SR:!2025-02-03,2,230-->
 - This is **Birch Reduction**
 
 In both the reactions the reagents are strong reductants but both are requires for cis or trans alkene
@@ -50,7 +50,7 @@ $\ce{CH_{3}-CH=CH_{2} ->[H_{2}O / H+]}$<!---->$\ce{CH_{3}-C(OH)-CH_{3}}$ ^hydrat
 <!--SR:!2025-02-03,4,270-->
 - This is a $\ce{C+}$ pathway!
 ##### Mechanism
-[[Hydration]]
+[Hydration Mechanism](Hydration%20Mechanism.md)
 
 #### Oxymercuration-Demercuration
 
@@ -61,7 +61,7 @@ $\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}]}$<!-
 - $\ce{OH}$ always attaches to the $\ce{C}$ which has the lower number of $\ce{H}$ attached
 - Also called "Marconikoff product"
 ##### Mechanism
-- [[oxymercuration-demercuration]]
+- [oxymercuration-demercuration Mechanism](oxymercuration-demercuration%20Mechanism.md)
 
 #### Hydroboration-Oxidation
 $\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$<!---->$\ce{ CH_{3}-CH_{2}-CH_{2}-OH}$ ^hydroborationoxidation
@@ -77,7 +77,7 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX]}$<!---->$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylh
 - $\ce{CH_{3}-CH=CH_{2} ->[HX] CH_{3}-CH(X)-CH_{3}}$ 
 ##### Mechanism
 - Electrophilic addition reaction
-- [[Alkenes to Alkyl Halides]]
+- [Alkenes to Alkyl Halides Mechanism](Alkenes%20to%20Alkyl%20Halides%20Mechanism.md)
 
 
 ### Peroxides
