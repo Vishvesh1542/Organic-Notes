@@ -88,15 +88,20 @@ $$
 $$
 - We can also calculate Yield percentage of products in halogenation of Alkanes using the following formula <!---->$$\frac{\text{n(H) of given degree} \times \text{SN of degree}}{\Sigma \; \text{n(H) of  given degree} \times \text{SN of that degree}}\times100$$
 <!--SR:!2025-02-05,3,230-->
-- Selectivity ratios for $\ce{Cl_{2}}$ are given as follows
+- Selectivity ratios for $\ce{Cl_{2}}$ are given as
+%%?%%
 
 | **Degree of $\ce{H}$** | 1°  | 2°  | 3°  |
 | ---------------------- | --- | --- | --- |
 | **Selectivity Number** | 1   | 3.8 | 5   |
+%%end%%
+
 - Selectivity ratios for $\ce{Br_{2}}$ are given as follows
+%%?%%
 
 | **Degree of $\ce{H}$** | 1°  | 2°  | 3°   |
 | ---------------------- | --- | --- | ---- |
 | **Selectivity Number** | 1   | 82  | 1600 |
+%%end%%
 - For $\ce{Br_{2}}$ the difference between the numbers is very large hence as a shortcut we can use stability of radical formed to determine the major product
 

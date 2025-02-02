@@ -18,6 +18,7 @@ $\ce{X-CH_{2}-CH_{2}-X ->[Alc.KOH \Delta][NaNH_{2}]}$<!----> $\ce{CH#CH}$ ^fromv
 <!--SR:!2025-02-06,4,270-->
 - For vicinal dihalides we make use of strong bases ( $\ce{NaNH_{2}, KOH}$ ) 
 - We can also use 2 Eq. of $\ce{NaNH_{2}}$ from the start for the same result
+- Mechanism [[Alkynes from Vicinal Dihalides Mechanism|Here!]]
 # Chemical Reactions of Alkynes
 
 ## Benzene

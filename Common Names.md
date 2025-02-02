@@ -63,6 +63,7 @@ C(Cl)(Cl)-C.C-C(F)(F)
 ```smiles
 C1(C)=C-C(C)=C-C(C)=C1.C1=C(C)-C=C(C)-C=C1(C)
 ```
+<!--SR:!2025-02-06,4,276-->
 %%end%%
 
 # Cumene
