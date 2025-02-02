@@ -24,7 +24,7 @@ O1CCCC1.C1CCCO1
 ```smiles
 C1=CC=CC=C1C(=O)OOC(=O)C2=CC=CC=C2
 ```
-<!--SR:!2025-02-02,1,230-->
+<!--SR:!2025-02-05,3,250-->
 %%end%%
 # Hydrazine
 %%?%%
@@ -47,6 +47,7 @@ O-C-C-O.O-C-C-O
 ```smiles
 C([H])(Cl)-C([H])(Cl).C(F)([H])-C(F)([H])
 ```
+<!--SR:!2025-02-06,4,273-->
 %%end%%
 
 # Geminal Dihalides
@@ -54,6 +55,8 @@ C([H])(Cl)-C([H])(Cl).C(F)([H])-C(F)([H])
 ```smiles
 C(Cl)(Cl)-C.C-C(F)(F)
 ```
+<!--SR:!2025-02-06,4,273-->
+%%end%%
 # Mesitylene
 %%?%%
 
@@ -68,4 +71,5 @@ C1(C)=C-C(C)=C-C(C)=C1.C1=C(C)-C=C(C)-C=C1(C)
 ```smiles
 C1(C(C)(C))=C-C=C-C=C1.C1=C-C=C(C(C)(C))-C=C1
 ```
+<!--SR:!2025-02-03,1,233-->
 %%end%%

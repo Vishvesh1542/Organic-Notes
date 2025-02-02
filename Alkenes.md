@@ -65,13 +65,13 @@ $\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}]}$<!-
 
 #### Hydroboration-Oxidation
 $\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$<!---->$\ce{ CH_{3}-CH_{2}-CH_{2}-OH}$ ^hydroborationoxidation
-<!--SR:!2025-02-02,3,250-->
+<!--SR:!2025-02-13,11,270-->
 - This is **Anti Marconikoff product**. OH attaches to that C atom which has the higher number of H attached to it.
 
 ## To Alkyl Halides
 
 $\ce{CH_{3}-CH=CH_{2} ->[HX]}$<!---->$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylhalides
-<!--SR:!2025-02-02,3,250-->
+<!--SR:!2025-02-12,10,270-->
 
 - Example reaction:
 - $\ce{CH_{3}-CH=CH_{2} ->[HX] CH_{3}-CH(X)-CH_{3}}$ 
