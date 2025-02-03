@@ -45,7 +45,7 @@ ___
 1. ![[Alkynes#^fromcalciumcarbidetoalkynes]]
 2. ![[Alkynes#^fromvicinaldihalidestoalkynes]]
 ## Reactions
-1. ![[Alkynes#^fromalkynestobenzene]]
+1. ![[Alkynes#^fromalkynestomesitylene]]
 
 # Benzene
 ## Formation
