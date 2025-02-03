@@ -3,18 +3,18 @@ This note is included in #organic
 
 ## From Alkynes
 $\ce{R-C#C-R ->[H_{2} / Pd-C]}$<!---->$\ce{R-CH=CH-R (cis alkene)}$^fromalkynestocisalkenes
-<!--SR:!2025-02-03,4,270-->
+<!--SR:!2025-02-19,16,290-->
 - The $\ce{H_{2} /Pd-C}$ reagent is divided into two categories (**Rosenmund and Lindlar**)
 
 $\ce{R-C#C-R ->[H_{2} +Na][liq. NH_{3}]}$<!---->$\ce{R-CH=CH-R (trans alkene)}$^fromalkynestotransalkenes
-<!--SR:!2025-02-03,2,230-->
+<!--SR:!2025-02-04,1,210-->
 - This is **Birch Reduction**
 
 In both the reactions the reagents are strong reductants but both are requires for cis or trans alkene
 
 ## From Alkyl Halides
 $\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]}$<!---->$\ce{CH_{3}-CH=CH_{2} + HBr}$^fromalkylhalidestoalkenes
-<!--SR:!2025-02-03,4,270-->
+<!--SR:!2025-02-19,16,290-->
 - The most acidic $\ce{H}$ and $\ce{Br}$ will be removed
 
 # Chemical reactions of Alkenes
@@ -23,7 +23,7 @@ $\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]}$<!---->$\ce{CH_{3}-CH=CH_{2
 
 #### Reductive Ozonolysis ( default )
 $\ce{CH_{3}-CH=CH_{2} ->[(i) O_{3}][(ii) Zn-H_{2}O]}$<!---->$\ce{CH_{3}-CH=O + CH_{2}=O}$ ^ozonolysisofalkenes
-<!--SR:!2025-02-03,4,270-->
+<!--SR:!2025-02-17,14,290-->
 - Break the $\ce{=}$ bond and add $\ce{=O}$ to both the $\ce{C}$ atom.
 
 $\ce{CH_{3}-CH=CH-CH_{3} ->[(i) O_{3}][(ii) Zn-H_{2}O] 2CH_{3}CH=O}$
@@ -47,7 +47,7 @@ C1=CC=CC=C1>>O=CC=O.O=CC=O.O=CC=O
 
 #### Hydration
 $\ce{CH_{3}-CH=CH_{2} ->[H_{2}O / H+]}$<!---->$\ce{CH_{3}-C(OH)-CH_{3}}$ ^hydrationofalkenes
-<!--SR:!2025-02-03,4,270-->
+<!--SR:!2025-02-18,15,290-->
 - This is a $\ce{C+}$ pathway!
 ##### Mechanism
 [Hydration Mechanism](Hydration%20Mechanism.md)
@@ -56,7 +56,7 @@ $\ce{CH_{3}-CH=CH_{2} ->[H_{2}O / H+]}$<!---->$\ce{CH_{3}-C(OH)-CH_{3}}$ ^hydrat
 
 
 $\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}]}$<!---->$\ce{ CH_{3}-CH(OH)-CH_{3}}$ ^oxymercurationdemercuration
-<!--SR:!2025-02-03,4,270-->
+<!--SR:!2025-02-18,15,290-->
 
 - $\ce{OH}$ always attaches to the $\ce{C}$ which has the lower number of $\ce{H}$ attached
 - Also called **Marconikoff product**
