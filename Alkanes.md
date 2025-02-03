@@ -2,7 +2,7 @@ These notes have flashcards under #organic
 # Formation of Alkanes
 ## From Alkenes/Alkynes
 $\ce{CH_{2}=CH_{2} + H_{2} ->[Pt / Pd / Ni]}$ <!----> $\ce{H_{3}C-CH_{3}}$^fromalkenestoalkanes
-<!--SR:!2025-02-03,4,270-->
+<!--SR:!2025-02-18,15,290-->
 
 
 - Here, $\ce{H_{2} + Pt / Pd / Ni}$ is a very strong reagent, which makes
@@ -12,7 +12,7 @@ $\ce{CH_{2}=CH_{2} + H_{2} ->[Pt / Pd / Ni]}$ <!----> $\ce{H_{3}C-CH_{3}}$^froma
 
 ## Wurtz Reaction
 $\ce{CH_{3}-Cl + 2Na + Cl-CH_{3} ->[Dry ether]}$<!----> $\ce{NaCl + CH_{3}-CH_{3}}$ ^wurtzreaction
-<!--SR:!2025-02-03,4,270-->
+<!--SR:!2025-02-17,14,290-->
 - It goes through radical Pathway
 
 
@@ -64,7 +64,7 @@ $\ce{RCOONa + NaOH ->[CaO]}$<!---->$\ce{ Na_{2}CO_{3} + RH }$ ^fromcarboxylicaci
 
 ###### Flash card
 $\ce{R-C(O)-R ->[Zn(Hg)][con. HCl]}$<!---->![[Alkanes from Aldehydes and Ketones]] Clemmenson Reduction
-<!--SR:!2025-02-03,2,230-->
+<!--SR:!2025-02-08,5,230-->
  $\ce{R-C(O)-R ->[NH_{2}-NH_{2}][Ethylene Glycol, KOH, \Delta]}$ <!----> ![Alkanes from Aldehydes and Ketones](Alkanes%20from%20Aldehydes%20and%20Ketones.md)Wolf-Kishner Reduction
 <!--SR:!2025-02-04,2,210-->
 
@@ -94,6 +94,7 @@ $$
 | **Degree of $\ce{H}$** | 1°  | 2°  | 3°  |
 | ---------------------- | --- | --- | --- |
 | **Selectivity Number** | 1   | 3.8 | 5   |
+<!--SR:!2025-02-05,2,245-->
 %%end%%
 
 - Selectivity ratios for $\ce{Br_{2}}$ are given as follows
@@ -102,6 +103,7 @@ $$
 | **Degree of $\ce{H}$** | 1°  | 2°  | 3°   |
 | ---------------------- | --- | --- | ---- |
 | **Selectivity Number** | 1   | 82  | 1600 |
+<!--SR:!2025-02-04,1,225-->
 %%end%%
 - For $\ce{Br_{2}}$ the difference between the numbers is very large hence as a shortcut we can use stability of radical formed to determine the major product
 
