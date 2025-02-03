@@ -42,6 +42,12 @@ O-C-C-O.O-C-C-O
 <!--SR:!2025-02-04,3,250-->
 %%end%%
 
+# Glyoxal
+%%?%%
+```smiles
+C(=O)-C(=O).C(=O)-C(=O)
+```
+%%end%%
 # Vicinal Dihalides
 %%?%%
 ```smiles

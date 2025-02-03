@@ -1,6 +1,7 @@
 These notes have flashcards under #organic
 # Formation of Alkanes
 ## From Alkenes/Alkynes
+
 $\ce{CH_{2}=CH_{2} + H_{2} ->[Pt / Pd / Ni]}$ <!----> $\ce{H_{3}C-CH_{3}}$^fromalkenestoalkanes
 <!--SR:!2025-02-18,15,290-->
 
@@ -11,13 +12,15 @@ $\ce{CH_{2}=CH_{2} + H_{2} ->[Pt / Pd / Ni]}$ <!----> $\ce{H_{3}C-CH_{3}}$^froma
 - For $\ce{Pt}$ and $\ce{Pd}$ reaction can occur at room temp. But for $\ce{Ni}$ we need high temp.
 
 ## Wurtz Reaction
+
 $\ce{CH_{3}-Cl + 2Na + Cl-CH_{3} ->[Dry ether]}$<!----> $\ce{NaCl + CH_{3}-CH_{3}}$ ^wurtzreaction
 <!--SR:!2025-02-17,14,290-->
 - It goes through radical Pathway
 
 
 ## From Alkyl Halides 
-$\ce{R-X + H_{2} ->[Zn][H+]R-H}$ ^fromalkylhalidestoalkanes
+
+$\ce{R-X + H_{2} ->[Zn][H+]}$ <!----> $\ce{R-H}$ ^fromalkylhalidestoalkanes
 
 - **Except Fluorine** 
 - An example $\ce{CH_{3}-Cl + H_{2}->[Zn][HCl]CH_{4}}$
@@ -30,6 +33,7 @@ $\ce{R-X + H_{2} ->[Zn][H+]R-H}$ ^fromalkylhalidestoalkanes
 For this we have 2 types of reactions via different methods
 
 #### Kolbe's Electrolysis ( Electrical Method )
+
 $\ce{2RCOONa + 2H_{2}O ->[Kolbe's][Electrolysis]}$ <!----> $\ce{ R-R + 2CO_{2} + 2NaOH + H_{2}}$^fromcarboxylicacidstoalkanes
 <!--SR:!2025-02-04,2,230-->
 
@@ -45,6 +49,7 @@ $\ce{2RCOONa + 2H_{2}O ->[Kolbe's][Electrolysis]}$ <!----> $\ce{ R-R + 2CO_{2} +
 - **$\ce{CH_{4}}$ can never be prepared**
 
 ### Soda-Lime Decarboxylation ( Chemical Method )
+
 $\ce{RCOONa + NaOH ->[CaO]}$<!---->$\ce{ Na_{2}CO_{3} + RH }$ ^fromcarboxylicacidstoalkanes2
 <!--SR:!2025-02-04,3,250-->
 
@@ -72,6 +77,7 @@ $\ce{R-C(O)-R ->[Zn(Hg)][con. HCl]}$<!---->![[Alkanes from Aldehydes and Ketones
 # Chemical Reactions of Alkanes
 - Alkane shows **Addition reaction**
 ## Free Radical Halogenation Disproportionation ( Substitution ) Reaction
+
 $\ce{R-H + Cl_{2} ->[h\nu]}$<!---->$\ce{R-Cl + HCl}$^halogenationsubstitutionofalkanes
 <!--SR:!2025-02-04,2,230-->
 
@@ -80,6 +86,7 @@ $\ce{R-H + Cl_{2} ->[h\nu]}$<!---->$\ce{R-Cl + HCl}$^halogenationsubstitutionofa
 - Read the mechanism [[Free Radical Halogenation Mechanism|here]]
 
 ##### Deciding Major products in halogenation of Alkanes-
+
 - To decide major products in Halogenation of alkanes we use **Selectivity Ratios**
 - Selectivity Ratios only exist for $\ce{Br_{2} and Cl_{2}}$
 - Major product is the Carbon replacement that has highest of
@@ -106,4 +113,5 @@ $$
 <!--SR:!2025-02-04,1,225-->
 %%end%%
 - For $\ce{Br_{2}}$ the difference between the numbers is very large hence as a shortcut we can use stability of radical formed to determine the major product
+-  A close relation to Selectivity Ratio calculations is mole fraction
 

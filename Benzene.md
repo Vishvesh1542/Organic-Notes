@@ -1,6 +1,18 @@
 This file has flashcards in #organic
 # Formation of Benzene
 
+## Polymerization of Acetylene
+
+$\ce{HC#CH ->[Red hot Fe tube][873K]}$ <!----> $\ce{C_{6}H_{6}}$^acetylenetobenzene
+
+## Decarboxylation
+
+$\ce{C_{6}H_{5}-COONa +NaOH ->[CaO]}$ <!---->$\ce{C_{6}H_{6}}$^decarboxylationtoformbenzene
+
+## Reducing Phenol
+
+$\ce{C_{6}H_{5}OH ->[Zn]}$ <!---->$\ce{C_{6}H_{6}}$^phenoltobenzene
+# Reactions of Benzene
 ## Fitting Reaction
 $\ce{Ph-Cl + 2Na + Cl-Ph ->[Dry Ether]}$<!----> $\ce{Ph-Ph + 2NaCl}$ ^fittingreaction
 <!--SR:!2025-02-05,4,270-->

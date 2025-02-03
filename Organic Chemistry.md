@@ -10,6 +10,7 @@ All related files:
 [[All formulas]]
 [[Alkanes]]
 [[Alkenes]]
+[[Alkynes]]
 [[Benzene]]
 [[Reagents]]
 [[Reactions.canvas|Reactions]]

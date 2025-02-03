@@ -20,11 +20,19 @@
 
 - Alcoholic $\ce{KOH}$ is a strong base capable of turning Alkyl Halides to Alkenes
 
+- $\ce{Zn}$ is a good reagent to eliminate Halogens
+
+- $\ce{conc. H_{2}SO_{4}}$ with heat is a very strong agent to eliminate water ( Dehydration )
+
 - $\ce{O_{3} + Zn-H_{2}O}$ (Zinc water) is a reducing agent
+
+- $\ce{ H_{2}O/H+ ( from acids )}$ is a strong oxidant capable of producing alcohols from alkenes
 
 - $\ce{1)HgO(Ac)_{2} with  2)H_{2}O and 3)NaBH_{4}}$ is a strong oxidant and used to convert alkenes to alcohols
 
 - $\ce{1)B_{2}H_{6}, 2)H_{2}O_{2}/OH-}$ in presence of THF (Tetra Hydro Furan) is a strong oxidant used to convert alkenes to alcohols
+
+- $\ce{HX}$ is a acid used to turn alkenes into Alkyl Halides ( X - Halogen )
 
 ## Alkyne Related
 
@@ -33,3 +41,7 @@
 - $\ce{Dil. HgSO_{4} and H_{2}SO_{4}}$ is another good reducing agent
 
 - $\ce{NaNH_{2}}$ is a strong base that can turn vicinal dihalides into alkynes
+
+## Benzene Related
+
+- $\ce{Red hot Fe tube at 873 K}$ is a reagent used to prepare Benzene from Acetylene by polymerization

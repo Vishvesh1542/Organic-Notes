@@ -14,4 +14,8 @@
 	![[Alkanes#^fromcarboxylicacidstoalkanes]]
 # Alkenes
 
-# Alkenes
+- $\ce{HBr}$ in presence of Peroxide source always forms anti-Markonikoff product when reacting with Alkenes, other Halogens don't care about peroxide source and react normally. this is called **Peroxide or Khalash Effect**
+
+# Alkynes
+
+- No exceptions YAY! ( For now... )
