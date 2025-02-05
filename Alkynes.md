@@ -3,13 +3,13 @@
 ## From Calcium Carbide
 
 $\ce{CaCO_{3} ->[\Delta]}$<!----> $\ce{CaO + CO_{2}}$
-<!--SR:!2025-02-05,3,250-->
+<!--SR:!2025-02-16,11,270-->
 
 $\ce{CaO + 2C ->}$<!----> $\ce{CaC_{2} + CO}$
 <!--SR:!2025-02-06,3,250-->
 
 $\ce{CaC_{2} + 2H_{2}O ->}$ <!---->$\ce{HC#CH + Ca(OH)_{2}}$ ^fromcalciumcarbidetoalkynes
-<!--SR:!2025-02-05,3,250-->
+<!--SR:!2025-02-07,2,230-->
 
 - Reaction of Calcium carbide( $\ce{CaC_{2}}$ ) with water is **Metathesis Reaction** ( Oxidation number doesn't change )
 

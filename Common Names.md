@@ -9,7 +9,7 @@ C1=C-C=C-C=C(C)1.C(C)1=C-C=C-C=C1
 ```smiles
 O1C=CC=C1.C1=CC=CO1
 ```
-<!--SR:!2025-02-05,4,270-->
+<!--SR:!2025-02-21,16,290-->
 %%end%%
 
 # Tetra Hydro Furan ( THF )
@@ -17,21 +17,21 @@ O1C=CC=C1.C1=CC=CO1
 ```smiles
 O1CCCC1.C1CCCO1
 ```
-<!--SR:!2025-02-05,4,270-->
+<!--SR:!2025-02-20,15,290-->
 %%end%%
 # Benzoic Peroxide
 %%?%%
 ```smiles
 C1=CC=CC=C1C(=O)OOC(=O)C2=CC=CC=C2
 ```
-<!--SR:!2025-02-05,3,250-->
+<!--SR:!2025-02-15,10,270-->
 %%end%%
 # Hydrazine
 %%?%%
 ```smiles
 N-N.N-N
 ```
-<!--SR:!2025-02-05,4,270-->
+<!--SR:!2025-02-21,16,290-->
 %%end%%
 
 # Ethylene Glycol
@@ -39,7 +39,7 @@ N-N.N-N
 ```smiles
 O-C-C-O.O-C-C-O
 ```
-<!--SR:!2025-02-04,3,250-->
+<!--SR:!2025-02-16,11,270-->
 %%end%%
 
 # Glyoxal
@@ -47,6 +47,7 @@ O-C-C-O.O-C-C-O
 ```smiles
 C(=O)-C(=O).C(=O)-C(=O)
 ```
+<!--SR:!2025-02-06,1,236-->
 %%end%%
 # Vicinal Dihalides
 %%?%%
@@ -78,5 +79,5 @@ C1(C)=C-C(C)=C-C(C)=C1.C1=C(C)-C=C(C)-C=C1(C)
 ```smiles
 C1(C(C)(C))=C-C=C-C=C1.C1=C-C=C(C(C)(C))-C=C1
 ```
-<!--SR:!2025-02-04,1,213-->
+<!--SR:!2025-02-08,3,233-->
 %%end%%

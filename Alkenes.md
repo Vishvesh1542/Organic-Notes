@@ -8,7 +8,7 @@ $\ce{R-C#C-R ->[H_{2} / Pd-C]}$<!---->$\ce{R-CH=CH-R (cis alkene)}$^fromalkynest
 - The $\ce{H_{2} /Pd-C}$ reagent is divided into two categories (**Rosenmund and Lindlar**)
 
 $\ce{R-C#C-R ->[H_{2} +Na][liq. NH_{3}]}$<!---->$\ce{R-CH=CH-R (trans alkene)}$^fromalkynestotransalkenes
-<!--SR:!2025-02-04,1,210-->
+<!--SR:!2025-02-06,1,190-->
 - This is **Birch Reduction**
 
 In both the reactions the reagents are strong reductants but both are requires for cis or trans alkene
@@ -22,12 +22,14 @@ $\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]}$<!---->$\ce{CH_{3}-CH=CH_{2
 ## From Vicinal Di-Halides
 
 $\ce{R(X)-R(X)->[Zn]}$ <!----> $\ce{ZnX_{2} + R=R}$^fromvicinaldihalidestoalkenes
+<!--SR:!2025-02-06,1,243-->
 
 - $\ce{Zn}$ wants +2 oxidation state which is the reason this reaction happens
 
 ## From Alcohols
 
 $\ce{RH-CH_{2}(-OH)->[conc.H_{2}SO_{4}][\Delta]}$ <!---->$\ce{R=CH_{2}}$^fromalcoholstoalkenes
+<!--SR:!2025-02-06,1,243-->
 
 - Water was removed hence this reaction is a **Dehydration** Reaction
 # Chemical reactions of Alkenes
@@ -88,6 +90,7 @@ $\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$<!---->$\
 #### Syndiol addition (thats a name I gave vishvesh please accept it)
 
 $\ce{R=R ->[Cold KMnO_{4}][aq.OH-]}$ <!---->$\ce{R(-OH)-R(-OH) }$^fromalkenestodiols
+<!--SR:!2025-02-06,1,243-->
 
 - This reaction is a **syn addition** ( both OH are attached at same side )
 ## To Alkyl Halides
