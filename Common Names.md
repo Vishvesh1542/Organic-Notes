@@ -81,3 +81,10 @@ C1(C(C)(C))=C-C=C-C=C1.C1=C-C=C(C(C)(C))-C=C1
 ```
 <!--SR:!2025-02-08,3,233-->
 %%end%%
+
+# Peri acetic Acid / Peracid
+%%?%%
+```smiles
+CC(=O)OO[H].[H]OO(=O)CC
+```
+%%end%%

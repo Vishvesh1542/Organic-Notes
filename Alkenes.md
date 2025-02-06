@@ -42,22 +42,30 @@ $\ce{CH_{3}-CH=CH_{2} ->[(i) O_{3}][(ii) Zn-H_{2}O]}$<!---->$\ce{CH_{3}-CH=O + C
 <!--SR:!2025-02-17,14,290-->
 - Break the $\ce{=}$ bond and add $\ce{=O}$ to both the $\ce{C}$ atom.
 
-$\ce{CH_{3}-CH=CH-CH_{3} ->[(i) O_{3}][(ii) Zn-H_{2}O] 2CH_{3}CH=O}$
+Reagents for Reductive Ozonolysis:
+1. $\ce{O_{3}}$
+2. $\ce{Zn-H_{2}O}$ or $\ce{Raney Ni}$ or $\ce{Me_{2}S}$
 
 - When you have benzene with other bonds, try to break other bonds first.
-```smiles
-C1=CC=CC=C1C=C>>C1=CC=CC=C1C=O.C=O
-```
 - When you have no other bonds, Drastic conditions, and lots of $\ce{O_{3}}$ all three $\pi$ bonds will break in Benzene
-```smiles
-C1=CC=CC=C1>>O=CC=O.O=CC=O.O=CC=O
-```
 - In the above reaction, all $\pi$ bonds broke and attach $\ce{O}$ to all $\ce{C}$
+
 ##### Mechanism
-- [[Reductive Ozonolysis]]
+- [[Ozonolysis Mechanism]]
+
+#### Oxidative Ozonolysis
+$\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$ <!---->$\ce{CH_{3}-CH(O)-C(O)-OH}$ ^ozonolysisofalkenesoxidative
+- Basically the same but after breaking C-C bond and adding $\ce{=O}$ if you get Aldehyde then convert it to Carboxylic acid and leave ketones as is.
+
+Reagents for :
+1. $\ce{O_{3}}$
+2. $\ce{H_{2}O}$ or $\ce{H_{2}O_{2}}$ or $\ce{CH_{3}COOOH}$
+
+##### Mechanism
+- [[Ozonolysis Mechanism]]
 ## To Alcohols
 
-- There are three ways to convert Alkenes to Alcohols.
+- There are many ways to convert Alkenes to Alcohols.
   1. $\ce{H_{2}O / H+}$ ( from Acids )
   2. $\ce{Hg(OAC)2 / H_{2}O / NaBH_{4}}$
   3. $\ce{B_{2}H_{6} , THF / H_{2}O_{2} / OH-}$
@@ -87,7 +95,7 @@ $\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$<!---->$\
 <!--SR:!2025-02-13,11,270-->
 - This is **Anti Marconikoff product**. OH attaches to that C atom which has the higher number of H attached to it.
 
-#### Syndiol addition (thats a name I gave vishvesh please accept it)
+#### Alcoholic Substitution 
 
 $\ce{R=R ->[Cold KMnO_{4}][aq.OH-]}$ <!---->$\ce{R(-OH)-R(-OH) }$^fromalkenestodiols
 <!--SR:!2025-02-06,1,243-->
@@ -111,6 +119,6 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX]}$<!---->$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylh
 - For $\ce{HBr}$ always Anti Marconikoff product. ( No Rearrangement )
   1. This is known as the Marconikoff effect, Peroxide effect, Kharasch effect.
 ###### Source of Peroxide
-5. $\ce{H_{2}O_{2}}$
-6. $\ce{R-O-O-R}$
-7. $\ce{C_{6}H_{5}-C(=O)-O-O-C(=O)-C_{6}H_{5}}$ -> Benzoic Peroxide
+3. $\ce{H_{2}O_{2}}$
+4. $\ce{R-O-O-R}$
+5. $\ce{C_{6}H_{5}-C(=O)-O-O-C(=O)-C_{6}H_{5}}$ -> Benzoic Peroxide

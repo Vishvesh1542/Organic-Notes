@@ -20,10 +20,22 @@ $\ce{X-CH_{2}-CH_{2}-X ->[1)Alc.KOH \Delta][2)NaNH_{2}]}$<!----> $\ce{CH#CH}$ ^f
 - For vicinal dihalides we make use of strong bases ( $\ce{NaNH_{2}, KOH}$ ) 
 - We can also use 2 Eq. of $\ce{NaNH_{2}}$ from the start for the same result
 - Mechanism [[Alkynes from Vicinal Dihalides Mechanism|Here!]]
+
+
 # Chemical Reactions of Alkynes
 
 ## Benzene
 ![[Making Mesitylene]] ^fromalkynestomesitylene
+
+
+## Ozonolysis
+$\ce{CH_{3}-C#CH ->[O_{3}][Me_{2}S]}$<!---->$\ce{CH_{3}-C(O)-C(O)-H}$
+- Only 2 bonds break and the single bond remains
+- If you have Oxidative ozonolysis, convert aldehydes to Ketones
+
+##### Mechanism
+- [[Ozonolysis Mechanism]]
+
 ## Electrophilic addition of Alkynes
 
 #### Halogens
