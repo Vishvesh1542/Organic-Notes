@@ -1,4 +1,4 @@
-This note is included in #organic
+*This* note is included in #organic
 # Formation of Alkenes
 
 ## From Alkynes
