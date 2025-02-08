@@ -45,3 +45,7 @@
 ## Benzene Related
 
 - $\ce{Red hot Fe tube at 873 K}$ is a reagent used to prepare Benzene from Acetylene by polymerization
+
+- $\ce{AlCl_{3} and FeCl_{3}}$ are amazing Lewis acids though $\ce{AlCl_{3}}$ is stronger
+
+- $\ce{H_{2}SO_{4}}$ is a branded acid ( as Ashish sir likes to call it ) and can make other acids act like bases

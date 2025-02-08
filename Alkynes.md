@@ -31,7 +31,7 @@ $\ce{X-CH_{2}-CH_{2}-X ->[1)Alc.KOH \Delta][2)NaNH_{2}]}$<!----> $\ce{CH#CH}$ ^f
 ## Ozonolysis
 $\ce{CH_{3}-C#CH ->[O_{3}][Me_{2}S]}$<!---->$\ce{CH_{3}-C(O)-C(O)-H}$
 - Only 2 bonds break and the single bond remains
-- If you have Oxidative ozonolysis, convert aldehydes to Ketones
+- If you have Oxidative ozonolysis, convert aldehydes to Ketones and break $\ce{C-C}$ bond to form carboxylic acids if needed
 
 ##### Mechanism
 - [[Ozonolysis Mechanism]]

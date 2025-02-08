@@ -47,14 +47,14 @@ O-C-C-O.O-C-C-O
 ```smiles
 C(=O)-C(=O).C(=O)-C(=O)
 ```
-<!--SR:!2025-02-06,1,236-->
+<!--SR:!2025-02-09,1,216-->
 %%end%%
 # Vicinal Dihalides
 %%?%%
 ```smiles
 C([H])(Cl)-C([H])(Cl).C(F)([H])-C(F)([H])
 ```
-<!--SR:!2025-02-06,4,273-->
+<!--SR:!2025-02-22,14,293-->
 %%end%%
 
 # Geminal Dihalides
@@ -62,7 +62,7 @@ C([H])(Cl)-C([H])(Cl).C(F)([H])-C(F)([H])
 ```smiles
 C(Cl)(Cl)-C.C-C(F)(F)
 ```
-<!--SR:!2025-02-06,4,273-->
+<!--SR:!2025-02-23,15,293-->
 %%end%%
 # Mesitylene
 %%?%%
@@ -70,7 +70,7 @@ C(Cl)(Cl)-C.C-C(F)(F)
 ```smiles
 C1(C)=C-C(C)=C-C(C)=C1.C1=C(C)-C=C(C)-C=C1(C)
 ```
-<!--SR:!2025-02-06,4,276-->
+<!--SR:!2025-02-23,15,296-->
 %%end%%
 
 # Cumene
@@ -79,7 +79,7 @@ C1(C)=C-C(C)=C-C(C)=C1.C1=C(C)-C=C(C)-C=C1(C)
 ```smiles
 C1(C(C)(C))=C-C=C-C=C1.C1=C-C=C(C(C)(C))-C=C1
 ```
-<!--SR:!2025-02-08,3,233-->
+<!--SR:!2025-02-17,9,253-->
 %%end%%
 
 # Peri acetic Acid / Peracid
@@ -87,4 +87,5 @@ C1(C(C)(C))=C-C=C-C=C1.C1=C-C=C(C(C)(C))-C=C1
 ```smiles
 CC(=O)OO[H].[H]OO(=O)CC
 ```
+<!--SR:!2025-02-11,3,261-->
 %%end%%

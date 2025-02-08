@@ -21,7 +21,7 @@ $\ce{CH_{3}-Cl + 2Na + Cl-CH_{3} ->[Dry ether]}$<!----> $\ce{NaCl + CH_{3}-CH_{3
 ## From Alkyl Halides 
 
 $\ce{R-X + H_{2} ->[Zn][H+]}$ <!----> $\ce{R-H}$ ^fromalkylhalidestoalkanes
-<!--SR:!2025-02-08,3,265-->
+<!--SR:!2025-02-19,11,285-->
 
 - **Except Fluorine** 
 - An example $\ce{CH_{3}-Cl + H_{2}->[Zn][HCl]CH_{4}}$
@@ -52,7 +52,7 @@ $\ce{2RCOONa + 2H_{2}O ->[Kolbe's][Electrolysis]}$ <!----> $\ce{ R-R + 2CO_{2} +
 ### Soda-Lime Decarboxylation ( Chemical Method )
 
 $\ce{RCOONa + NaOH ->[CaO]}$<!---->$\ce{ Na_{2}CO_{3} + RH }$ ^fromcarboxylicacidstoalkanes2
-<!--SR:!2025-02-07,2,230-->
+<!--SR:!2025-02-15,7,250-->
 
 - Reason for using Sodium salt of carboxylic acids is that it dissociates completely in water ( Strong Electrolyte )
 - Its called Soda Lime method as reagents are Caustic Soda ($\ce{NaOH}$) and Quick Lime ($\ce{CaO}$) in the **mole ratio 3:1** 
@@ -70,7 +70,7 @@ $\ce{RCOONa + NaOH ->[CaO]}$<!---->$\ce{ Na_{2}CO_{3} + RH }$ ^fromcarboxylicaci
 
 ###### Flash card
 $\ce{R-C(O)-R ->[Zn(Hg)][con. HCl]}$<!---->![[Alkanes from Aldehydes and Ketones]] Clemmenson Reduction
-<!--SR:!2025-02-08,5,230-->
+<!--SR:!2025-02-24,16,250-->
  $\ce{R-C(O)-R ->[NH_{2}-NH_{2}][Ethylene Glycol, KOH, \Delta]}$ <!----> ![Alkanes from Aldehydes and Ketones](Alkanes%20from%20Aldehydes%20and%20Ketones.md)Wolf-Kishner Reduction
 <!--SR:!2025-02-11,6,230-->
 
@@ -79,7 +79,7 @@ $\ce{R-C(O)-R ->[Zn(Hg)][con. HCl]}$<!---->![[Alkanes from Aldehydes and Ketones
 - Alkane shows **Addition reaction**
 ## Free Radical Halogenation Disproportionation ( Substitution ) Reaction
 
-	$\ce{R-H + Cl_{2} ->[h\nu]}$<!---->$\ce{R-Cl + HCl}$^halogenationsubstitutionofalkanes
+$\ce{R-H + X_{2} ->[h\nu]}$ <!----> $\ce{R-X + HX}$^freeradicalhalogenationofalkanes
 <!--SR:!2025-02-10,5,230-->
 
 - Reactivity order in free Radical Halogenation <!----> -> $\ce{F_{2} > Cl_{2} > Br_{2} \gg I_{2}}$
@@ -111,7 +111,7 @@ $$
 | **Degree of $\ce{H}$** | 1°  | 2°  | 3°   |
 | ---------------------- | --- | --- | ---- |
 | **Selectivity Number** | 1   | 82  | 1600 |
-<!--SR:!2025-02-06,1,205-->
+<!--SR:!2025-02-10,2,205-->
 %%end%%
 - For $\ce{Br_{2}}$ the difference between the numbers is very large hence as a shortcut we can use stability of radical formed to determine the major product
 -  A close relation to Selectivity Ratio calculations is mole fraction

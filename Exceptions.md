@@ -15,6 +15,7 @@
 # Alkenes
 
 - $\ce{HBr}$ in presence of Peroxide source always forms anti-Markonikoff product when reacting with Alkenes, other Halogens don't care about peroxide source and react normally. this is called **Peroxide or Khalash Effect**
+-  if **formic acid**( $\ce{HCOOH}$ ) forms in oxidative ozonolysis according to question oxidize it further to $\ce{HO-C(O)-OH}$ and $\ce{CO_{2} + H_{2}O}$ if those are the options given 
 
 # Alkynes
 
