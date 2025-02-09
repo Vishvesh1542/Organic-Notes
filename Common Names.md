@@ -49,22 +49,16 @@ O-C-C-O.O-C-C-O
 ```smiles
 C(=O)-C(=O).C(=O)-C(=O)
 ```
-<<<<<<< HEAD
-<!--SR:!2025-02-09,3,256-->
-=======
+
 <!--SR:!2025-02-09,1,216-->
->>>>>>> origin/main
 %%end%%
 # Vicinal Dihalides
 %%?%%
 ```smiles
 C([H])(Cl)-C([H])(Cl).C(F)([H])-C(F)([H])
 ```
-<<<<<<< HEAD
-<!--SR:!2025-02-22,16,293-->
-=======
+
 <!--SR:!2025-02-22,14,293-->
->>>>>>> origin/main
 %%end%%
 
 # Geminal Dihalides
@@ -72,11 +66,8 @@ C([H])(Cl)-C([H])(Cl).C(F)([H])-C(F)([H])
 ```smiles
 C(Cl)(Cl)-C.C-C(F)(F)
 ```
-<<<<<<< HEAD
-<!--SR:!2025-02-21,15,293-->
-=======
+
 <!--SR:!2025-02-23,15,293-->
->>>>>>> origin/main
 %%end%%
 # Mesitylene
 %%?%%
@@ -84,11 +75,7 @@ C(Cl)(Cl)-C.C-C(F)(F)
 ```smiles
 C1(C)=C-C(C)=C-C(C)=C1.C1=C(C)-C=C(C)-C=C1(C)
 ```
-<<<<<<< HEAD
-<!--SR:!2025-02-22,16,296-->
-=======
 <!--SR:!2025-02-23,15,296-->
->>>>>>> origin/main
 %%end%%
 
 # Cumene
@@ -105,10 +92,5 @@ C1(C(C)(C))=C-C=C-C=C1.C1=C-C=C(C(C)(C))-C=C1
 ```smiles
 CC(=O)OO[H].[H]OO(=O)CC
 ```
-<<<<<<< HEAD
-<!--SR:!2025-02-10,4,282-->
-%%end%%
-=======
 <!--SR:!2025-02-11,3,261-->
 %%end%%
->>>>>>> origin/main

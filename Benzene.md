@@ -14,11 +14,7 @@ $\ce{C_{6}H_{5}-COONa +NaOH ->[CaO]}$ <!---->$\ce{C_{6}H_{6}}$^decarboxylationto
 ## Reducing Phenol
 
 $\ce{C_{6}H_{5}OH ->[Zn]}$ <!---->$\ce{C_{6}H_{6}}$^phenoltobenzene
-<<<<<<< HEAD
-<!--SR:!2025-02-09,1,177-->
-=======
 <!--SR:!2025-02-11,3,257-->
->>>>>>> origin/main
 # Reactions of Benzene
 
 - Benzene shows crack reactions but all of them come under **Electrophilic Aromatic Substitution Reaction** and follow 3 steps
