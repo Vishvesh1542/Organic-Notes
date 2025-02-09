@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 This note is included in #organic
 - [ ] Add Hydroboration-Oxidation to Vishvesh (@2025-02-14)
+=======
+*This* note is included in #organic
+>>>>>>> origin/main
 # Formation of Alkenes
 
 ## From Alkynes
@@ -9,7 +13,11 @@ $\ce{R-C#C-R ->[H_{2} / Pd-C]}$<!---->$\ce{R-CH=CH-R (cis alkene)}$^fromalkynest
 - The $\ce{H_{2} /Pd-C}$ reagent is divided into two categories (**Rosenmund and Lindlar**)
 
 $\ce{R-C#C-R ->[H_{2} +Na][liq. NH_{3}]}$<!---->$\ce{R-CH=CH-R (trans alkene)}$^fromalkynestotransalkenes
+<<<<<<< HEAD
 <!--SR:!2025-02-09,3,210-->
+=======
+<!--SR:!2025-02-11,3,210-->
+>>>>>>> origin/main
 - This is **Birch Reduction**
 
 In both the reactions the reagents are strong reductants but both are requires for cis or trans alkene
@@ -23,14 +31,22 @@ $\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]}$<!---->$\ce{CH_{3}-CH=CH_{2
 ## From Vicinal Di-Halides
 
 $\ce{R(X)-R(X)->[Zn]}$ <!----> $\ce{ZnX_{2} + R=R}$^fromvicinaldihalidestoalkenes
+<<<<<<< HEAD
 <!--SR:!2025-02-09,1,183-->
+=======
+<!--SR:!2025-02-11,3,263-->
+>>>>>>> origin/main
 
 - $\ce{Zn}$ wants +2 oxidation state which is the reason this reaction happens
 
 ## From Alcohols
 
 $\ce{RH-CH_{2}(-OH)->[conc.H_{2}SO_{4}][\Delta]}$ <!---->$\ce{R=CH_{2}}$^fromalcoholstoalkenes
+<<<<<<< HEAD
 <!--SR:!2025-02-09,3,263-->
+=======
+<!--SR:!2025-02-11,3,263-->
+>>>>>>> origin/main
 
 - Water was removed hence this reaction is a **Dehydration** Reaction
 # Chemical reactions of Alkenes
@@ -55,11 +71,17 @@ Reagents for Reductive Ozonolysis:
 - [[Ozonolysis Mechanism]]
 
 #### Oxidative Ozonolysis
+<<<<<<< HEAD
 $\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$ <!---->$\ce{CH_{3}-CH(O)-C(O)-OH}$ ^ozonolysisofalkenesoxidative
 <!--SR:!2025-02-10,4,277-->
+=======
+$\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$ <!---->$\ce{CH_{3}-CH(O) + HC(O)H -> CH_{3}COOH + HCOOH}$ ^ozonolysisofalkenesoxidative
+<!--SR:!2025-02-12,4,278-->
+>>>>>>> origin/main
 - Basically the same but after breaking C-C bond and adding $\ce{=O}$ if you get Aldehyde then convert it to Carboxylic acid and leave ketones as is.
+- if **formic acid**( $\ce{HCOOH}$ ) forms according to question oxidize it further to $\ce{HO-C(O)-OH}$ and $\ce{CO_{2} + H_{2}O}$ if those are the options given 
 
-Reagents for :
+Reagents for oxidative ozonolysis -
 1. $\ce{O_{3}}$
 2. $\ce{H_{2}O}$ or $\ce{H_{2}O_{2}}$ or $\ce{CH_{3}COOOH}$
 
@@ -101,7 +123,11 @@ $\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$<!---->$\
 #### Alcoholic Substitution 
 
 $\ce{R=R ->[Cold KMnO_{4}][aq.OH-]}$ <!---->$\ce{R(-OH)-R(-OH) }$^fromalkenestodiols
+<<<<<<< HEAD
 <!--SR:!2025-02-09,1,183-->
+=======
+<!--SR:!2025-02-11,3,263-->
+>>>>>>> origin/main
 
 - This reaction is a **syn addition** ( both OH are attached at same side )
 ## To Alkyl Halides
@@ -115,8 +141,12 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX]}$<!---->$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylh
 ##### Mechanism
 - [Alkenes to Alkyl Halides Mechanism](Alkenes%20to%20Alkyl%20Halides%20Mechanism.md)
 
+<<<<<<< HEAD
 
 #### Peroxides
+=======
+### Peroxides
+>>>>>>> origin/main
 - for now ignore peroxides.
 - **Don't ignore HBr peroxide**
 - For $\ce{HBr}$ always Anti Marconikoff product. ( No Rearrangement )
@@ -125,3 +155,12 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX]}$<!---->$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylh
 3. $\ce{H_{2}O_{2}}$
 4. $\ce{R-O-O-R}$
 5. $\ce{C_{6}H_{5}-C(=O)-O-O-C(=O)-C_{6}H_{5}}$ -> Benzoic Peroxide
+
+## Electrophilic Substitution
+
+$\ce{R-CH_{2}-CH=CH_{2} + E+X- ->[suitable reagent] R'-CH(E)-CH_{2}(X)}$^electrophilicsubstitutionofalkenes
+
+- Here $\ce{E}$ denotes electrophile part of molecule ( $\ce{E+}$ ) or cation and $\ce{X}$ denotes negative part of molecule ( $\ce{X-}$ ) 
+- some famous $\ce{E+X-}$ include $\ce{ H+OH-, NO+Cl-, HO^{-}Cl+}$ and more
+##### Mechanism
+mechanism is [[Electrophilic substitution of Alkenes|here!]] 
