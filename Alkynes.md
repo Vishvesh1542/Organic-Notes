@@ -36,16 +36,14 @@ $\ce{CH_{3}-C#CH ->[O_{3}][Me_{2}S]}$<!---->$\ce{CH_{3}-C(O)-C(O)-H}$
 ##### Mechanism
 - [[Ozonolysis Mechanism]]
 
-## Electrophilic addition of Alkynes
-
-#### Halogens
+## Alkenes to Halogens
 
 $\ce{R-C#C-R ->[X_{2}][CCl_{4}] -> R-C(X)=C(X)-R ->[X_{2}][CCl_{4}] R-C(X)_{2}-C(X)_{2}-R}$ ^fromalkynestotetrahalides
 
 - Any other non-polar and non reactive solvent can also be used in place of $\ce{CCl_{4}}$ 
-- The reaction is always **Anti Adittion** Reaction ( The alkene formed is always trans )
+- The reaction is always **Anti Addition** Reaction ( The alkene formed is always trans )
 
-#### Enol and Ketone
+## Alkenes to Enol and Ketone
 
 $\ce{HC#CH ->[dil. HgSO_{4}][H_{2}SO_{4}] CH_{2}=CH-OH ->[Instantly] CH_{3}-CHO}$^fromalkynestoenolstoketones
 

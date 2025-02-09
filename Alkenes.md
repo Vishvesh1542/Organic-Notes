@@ -1,4 +1,5 @@
 This note is included in #organic
+- [ ] Add Hydroboration-Oxidation to Vishvesh (@2025-02-14)
 # Formation of Alkenes
 
 ## From Alkynes
@@ -8,7 +9,7 @@ $\ce{R-C#C-R ->[H_{2} / Pd-C]}$<!---->$\ce{R-CH=CH-R (cis alkene)}$^fromalkynest
 - The $\ce{H_{2} /Pd-C}$ reagent is divided into two categories (**Rosenmund and Lindlar**)
 
 $\ce{R-C#C-R ->[H_{2} +Na][liq. NH_{3}]}$<!---->$\ce{R-CH=CH-R (trans alkene)}$^fromalkynestotransalkenes
-<!--SR:!2025-02-06,1,190-->
+<!--SR:!2025-02-09,3,210-->
 - This is **Birch Reduction**
 
 In both the reactions the reagents are strong reductants but both are requires for cis or trans alkene
@@ -22,14 +23,14 @@ $\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]}$<!---->$\ce{CH_{3}-CH=CH_{2
 ## From Vicinal Di-Halides
 
 $\ce{R(X)-R(X)->[Zn]}$ <!----> $\ce{ZnX_{2} + R=R}$^fromvicinaldihalidestoalkenes
-<!--SR:!2025-02-06,1,243-->
+<!--SR:!2025-02-09,1,183-->
 
 - $\ce{Zn}$ wants +2 oxidation state which is the reason this reaction happens
 
 ## From Alcohols
 
 $\ce{RH-CH_{2}(-OH)->[conc.H_{2}SO_{4}][\Delta]}$ <!---->$\ce{R=CH_{2}}$^fromalcoholstoalkenes
-<!--SR:!2025-02-06,1,243-->
+<!--SR:!2025-02-09,3,263-->
 
 - Water was removed hence this reaction is a **Dehydration** Reaction
 # Chemical reactions of Alkenes
@@ -55,6 +56,7 @@ Reagents for Reductive Ozonolysis:
 
 #### Oxidative Ozonolysis
 $\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$ <!---->$\ce{CH_{3}-CH(O)-C(O)-OH}$ ^ozonolysisofalkenesoxidative
+<!--SR:!2025-02-10,4,277-->
 - Basically the same but after breaking C-C bond and adding $\ce{=O}$ if you get Aldehyde then convert it to Carboxylic acid and leave ketones as is.
 
 Reagents for :
@@ -95,10 +97,11 @@ $\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$<!---->$\
 <!--SR:!2025-02-13,11,270-->
 - This is **Anti Marconikoff product**. OH attaches to that C atom which has the higher number of H attached to it.
 
+
 #### Alcoholic Substitution 
 
 $\ce{R=R ->[Cold KMnO_{4}][aq.OH-]}$ <!---->$\ce{R(-OH)-R(-OH) }$^fromalkenestodiols
-<!--SR:!2025-02-06,1,243-->
+<!--SR:!2025-02-09,1,183-->
 
 - This reaction is a **syn addition** ( both OH are attached at same side )
 ## To Alkyl Halides
@@ -107,13 +110,13 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX]}$<!---->$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylh
 <!--SR:!2025-02-12,10,270-->
 
 - Example reaction:
-- $\ce{CH_{3}-CH=CH_{2} ->[HX] CH_{3}-CH(X)-CH_{3}}$ 
+- $\ce{CH_{3}-CH=CH_{2} ->[HCl] CH_{3}-CH(Cl)-CH_{3}}$ 
+- Carbo Cation forms!
 ##### Mechanism
-- Electrophilic addition reaction
 - [Alkenes to Alkyl Halides Mechanism](Alkenes%20to%20Alkyl%20Halides%20Mechanism.md)
 
 
-### Peroxides
+#### Peroxides
 - for now ignore peroxides.
 - **Don't ignore HBr peroxide**
 - For $\ce{HBr}$ always Anti Marconikoff product. ( No Rearrangement )
