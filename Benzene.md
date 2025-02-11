@@ -41,21 +41,44 @@ C1=CC=CC=C1Cl.[Na].ClC>>C1=CC=CC=C1C.[Na][Cl]
 
 ## Friedel Craft Alkylation
 
-$\ce{C_{6}H_{6} + Alkyl Halide ->[AlCl_{3}][FeCl_{3}] Alkyl substituted Benzene}$^Friedelcraftalkylation
+$\ce{C_{6}H_{6} + Alkyl Halide ->[AlCl_{3}][ or FeCl_{3}] Alkyl substituted Benzene}$^Friedelcraftalkylation
 
 - For $\ce{AlCl_{3}}$ reaction follows **Carbocation ( $\ce{C+}$ )** pathway and for $\ce{FeCl_{3}}$ no notable pathway
+
+##### Limitations of Friedel craft Alkylation
+
+- Rearrangement may hinder some products formation
+- since alkyl benzene is more reactive than benzene itself sue to +I increasing electron density, if reagents are not calculated carefully it may lead to **polyalkylation**
+- Benzene with strong deactivating group like $\ce{NO_{2}}$ will not even show this reaction
+- **Aniline** doesn't show Friedel craft alkylation as it itself reacts with $\ce{AlCl_{3} and FeCl_{3}}$ 
+- **Vinyl and Aryl halide** never undergo this reaction as $\ce{C+}$ formed is very unstable
+
+##### Mechanism
+- Mechanism is [[Friedel Craft Alkylation Mechanism|Here!]]
+
 ## Friedel Craft Acylation
 
 $\ce{C_{6}H_{6} + Acyl Halide( R-COCl ) ->[AlCl_{3}] Acyl substituted Benzene}$^Friedelcraftacylation
 
+- Friedel craft acylation doesn't have polyalkylation due to product being more unreactive than reactant
 ##### Mechanism
-- Mechanism is [[Friedel Craft Alkylation Mechanism|Here!]]
-## Sulphation
+
+- Mechanism is [[Friedel Craft Acylation Mechanism|over here!]]
+## Sulphation/Sulphonation
 
 $\ce{C_{6}H_{6} ->[conc. fuming H_{2}SO_{4}] C_{6}H_{5}-SO_{3}H}$^Sulphationofbenzene
 
+#### Mechanism
+
+- Who is that Pokémon? it is Mechanism!
 ## Nitration
 
 $\ce{C_{6}H_{6} + HNO_{3} ->[conc.H_{2}SO_{4}][or a STRONG acid] C_{6}H_{5}-NO_{2}}$^Nitrationofbenzene
 
+- Other reagents like $\ce{BF_{3} + FNO_{2}, N_{2}O_{5}}$ and strong acids in presence of $\ce{HNO_{3}}$ also aid in nitration
+- Aniline forms o-nitro ( 2% ), m-nitro ( 47% ) and p-nitro ( 51% ) because aniline reacts with acid instead of nitric acid doing so
+- If you ONLY want p-nitro aniline 
+##### Mechanism
+
+- Is it a bird? Is it a plane? no its the [[Nitration of Benzene Mechanism| Mechanism of Nitration]]
 
