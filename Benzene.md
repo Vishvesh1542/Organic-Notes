@@ -48,6 +48,9 @@ $\ce{C_{6}H_{6} + Alkyl Halide ->[AlCl_{3}][FeCl_{3}] Alkyl substituted Benzene}
 
 $\ce{C_{6}H_{6} + Acyl Halide( R-COCl ) ->[AlCl_{3}] Acyl substituted Benzene}$^Friedelcraftacylation
 
+##### Mechanism
+
+- Mechanism is [[Friedel Craft Alkylation|Here!]]
 ## Sulphation
 
 $\ce{C_{6}H_{6} ->[conc. fuming H_{2}SO_{4}] C_{6}H_{5}-SO_{3}H}$^Sulphationofbenzene
@@ -55,3 +58,5 @@ $\ce{C_{6}H_{6} ->[conc. fuming H_{2}SO_{4}] C_{6}H_{5}-SO_{3}H}$^Sulphationofbe
 ## Nitration
 
 $\ce{C_{6}H_{6} + HNO_{3} ->[conc.H_{2}SO_{4}][or a STRONG acid] C_{6}H_{5}-NO_{2}}$^Nitrationofbenzene
+
+
