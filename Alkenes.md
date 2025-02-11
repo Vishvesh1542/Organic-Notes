@@ -50,6 +50,7 @@ Reagents for Reductive Ozonolysis:
 
 #### Oxidative Ozonolysis
 $\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$%%qf%%$\ce{CH_{3}-CH(O)-C(O)-OH}$ ^ozonolysisofalkenesoxidative
+<!--SR:!2025-02-15,4,277-->
 
 $\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$%%qf%%$\ce{CH_{3}-CH(O) + HC(O)H -> CH_{3}COOH + HCOOH}$ ^ozonolysisofalkenesoxidative
 - Basically the same but after breaking C-C bond and adding $\ce{=O}$ if you get Aldehyde then convert it to Carboxylic acid and leave ketones as is.
@@ -95,6 +96,7 @@ $\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$%%qf%%$\c
 #### Alcoholic Substitution 
 
 $\ce{R=R ->[Cold KMnO_{4}][aq.OH-]}$ %%qf%%$\ce{R(-OH)-R(-OH) }$^fromalkenestodiols
+<!--SR:!2025-02-15,4,277-->
 - This reaction is a **syn addition** ( both OH are attached at same side )
 ## To Alkyl Halides
 

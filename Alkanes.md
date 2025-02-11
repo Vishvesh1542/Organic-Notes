@@ -106,8 +106,6 @@ $$
 | **Degree of $\ce{H}$** | 1°  | 2°  | 3°   |
 | ---------------------- | --- | --- | ---- |
 | **Selectivity Number** | 1   | 82  | 1600 |
-
-
 %%ef%%
 - For $\ce{Br_{2}}$ the difference between the numbers is very large hence as a shortcut we can use stability of radical formed to determine the major product
 -  A close relation to Selectivity Ratio calculations is mole fraction
