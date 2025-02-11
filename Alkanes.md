@@ -4,7 +4,7 @@ These notes have flashcards under #organic
 ## From Alkenes/Alkynes
 
 $\ce{CH_{2}=CH_{2} + H_{2} ->[Pt / Pd / Ni]}$%%qf%% $\ce{H_{3}C-CH_{3}}$^fromalkenestoalkanes
-<!--SR:!2025-02-15,4,271-->
+
 
 - Here, $\ce{H_{2} + Pt / Pd / Ni}$ is a very strong reagent, which makes
   $\ce{C=C}$ and even $\ce{C#C}$ into $\ce{C-C}$
@@ -90,7 +90,7 @@ $$
 \text{No. of H of a given degree} \times \text{Selectivity Number of that degree}
 $$
 - We can also calculate Yield percentage of products in halogenation of Alkanes using the following formula %%qf%%$$\frac{\text{n(H) of given degree} \times \text{SN of degree}}{\Sigma \; \text{n(H) of  given degree} \times \text{SN of that degree}}\times100$$
-<!--SR:!2025-02-14,3,251-->
+
 - Selectivity ratios for $\ce{Cl_{2}}$ are given as
 %%sf%%
 
@@ -120,6 +120,7 @@ $\ce{CH_{3}-(CH_{2})4-CH_{3}->[anhy. AlCl_{3}][HCl]}$%%qf%%$\ce{CH_{3}-CH(CH_{3}
 
 ## Aromatization 
 $\ce{CH_{3}-(CH_{2})4-CH_{3} ->[Mo_{2}O_{3} or Cr_{2}O_{3}][or V_{2}O_{5}]}$%%qf%%$\ce{Benzene}$ (aromatization) ^aromatization
+
 - **n-Alkanes** having six or more C atoms on heating to 773K at 10-20 atm in presence of $\ce{Mo_{2}O_{3}}$ or $\ce{V_{2}O_{5}}$ or $\ce{Cr_{2}O_{3}}$ form Benzene or its forms.
 - For example, 7 membered ring will form Toluene.
 
