@@ -49,7 +49,6 @@ $\ce{C_{6}H_{6} + Alkyl Halide ->[AlCl_{3}][FeCl_{3}] Alkyl substituted Benzene}
 $\ce{C_{6}H_{6} + Acyl Halide( R-COCl ) ->[AlCl_{3}] Acyl substituted Benzene}$^Friedelcraftacylation
 
 ##### Mechanism
-
 - Mechanism is [[Friedel Craft Alkylation Mechanism|Here!]]
 ## Sulphation
 
