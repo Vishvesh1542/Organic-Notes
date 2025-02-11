@@ -81,6 +81,7 @@ $\ce{R-H + X_{2} ->[h\nu]}$ %%qf%%$\ce{R-X + HX}$^freeradicalhalogenationofalkan
 - Reactivity order in free Radical Halogenation %%qf%%-> $\ce{F_{2} > Cl_{2} > Br_{2} \gg I_{2}}$
 - Read the mechanism [[Free Radical Halogenation Mechanism|here]]
 
+
 ##### Deciding Major products in halogenation of Alkanes-
 
 - To decide major products in Halogenation of alkanes we use **Selectivity Ratios**
@@ -107,9 +108,9 @@ $$
 | ---------------------- | --- | --- | ---- |
 | **Selectivity Number** | 1   | 82  | 1600 |
 %%ef%%
+
 - For $\ce{Br_{2}}$ the difference between the numbers is very large hence as a shortcut we can use stability of radical formed to determine the major product
 -  A close relation to Selectivity Ratio calculations is mole fraction
-
 
 ## Isomerisation
 $\ce{CH_{3}-(CH_{2})4-CH_{3}->[anhy. AlCl_{3}][HCl]}$%%qf%%$\ce{CH_{3}-CH(CH_{3})-(CH_{2})2-CH_{3}}$ ( Isomerisation ) ^isomerisation
