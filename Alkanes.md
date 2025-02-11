@@ -79,6 +79,7 @@ $\ce{R-C(O)-R ->[Zn(Hg)][con. HCl]}$<!---->![[Alkanes from Aldehydes and Ketones
 
 # Chemical Reactions of Alkanes
 - Alkane shows **Addition reaction**
+- Most of these go through Radical pathway
 ## Free Radical Halogenation Disproportionation ( Substitution ) Reaction
 
 $\ce{R-H + Cl_{2} ->[h\nu]}$<!---->$\ce{R-Cl + HCl}$^halogenationsubstitutionofalkanes
@@ -120,3 +121,18 @@ $$
 %%end%%
 - For $\ce{Br_{2}}$ the difference between the numbers is very large hence as a shortcut we can use stability of radical formed to determine the major product
 -  A close relation to Selectivity Ratio calculations is mole fraction
+
+
+## Isomerisation
+$\ce{CH_{3}-(CH_{2})4-CH_{3}->[anhy. AlCl_{3}][HCl]}$<!---->$\ce{CH_{3}-CH(CH_{3})-(CH_{2})2-CH_{3}}$ ( Isomerisation ) ^isomerisation
+- In Isomerisation, $\ce{anhy. AlCl_{3}}/HCl$ converts **n-Alkanes** only to other isomers by attaching the Methyl group to other places
+- Only report the major products as minor products are generally not reported
+
+## Aromatization 
+$\ce{CH_{3}-(CH_{2})4-CH_{3} ->[Mo_{2}O_{3} or Cr_{2}O_{3}][or V_{2}O_{5}]}$<!---->$\ce{Benzene}$ (aromatization) ^aromatization
+- **n-Alkanes** having six or more C atoms on heating to 773K at 10-20 atm in presence of $\ce{Mo_{2}O_{3}}$ or $\ce{V_{2}O_{5}}$ or $\ce{Cr_{2}O_{3}}$ form Benzene or its forms.
+- For example, 7 membered ring will form Toluene.
+
+## Reaction with Steam
+- Methane reacts with steam at 1273 K in presence of Ni catalyst to form CO and $\ce{H_{2}}$ 
+$\ce{CH_{4} +O_{2}->[Ni][\Delta]}$<!---->$\ce{CO + H_{2}}$
