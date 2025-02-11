@@ -1,101 +1,82 @@
 This file has #organic Flashcards!
 # Toluene
-%%?%%
+%%sf%%
 ```smiles
 C1=C-C=C-C=C(C)1.C(C)1=C-C=C-C=C1
 ```
-<!--SR:!2025-02-11,4,287-->
-%%end%%
+
+%%ef%%
 # Furan
-%%?%%
+%%sf%%
 ```smiles
 O1C=CC=C1.C1=CC=CO1
 ```
-<!--SR:!2025-02-21,16,290-->
-%%end%%
 
+%%ef%%
 # Tetra Hydro Furan ( THF )
-%%?%%
+%%sf%%
 ```smiles
 O1CCCC1.C1CCCO1
 ```
 
-%%end%%
+%%ef%%
 # Benzoic Peroxide
-%%?%%
+%%sf%%
 ```smiles
 C1=CC=CC=C1C(=O)OOC(=O)C2=CC=CC=C2
 ```
-
-%%end%%
+%%ef%%
 # Hydrazine
-%%?%%
+%%sf%%
 ```smiles
 N-N.N-N
 ```
-
-%%end%%
-<!--SR:!2025-02-20,15,290!2025-02-15,10,270-->
-
+%%ef%%
 # Ethylene Glycol
-%%?%%
+%%sf%%
 ```smiles
 O-C-C-O.O-C-C-O
 ```
-<!--SR:!2025-02-16,11,270-->
-%%end%%
+%%ef%%
 
 # Glyoxal
-%%?%%
+%%sf%%
 ```smiles
 C(=O)-C(=O).C(=O)-C(=O)
 ```
-
-<!--SR:!2025-02-09,1,216-->
-%%end%%
+%%ef%%
 # Vicinal Dihalides
-%%?%%
+%%sf%%
 ```smiles
 C([H])(Cl)-C([H])(Cl).C(F)([H])-C(F)([H])
 ```
-
-<!--SR:!2025-02-22,14,293-->
-%%end%%
-
+%%ef%%
 # Geminal Dihalides
-%%?%%
+%%sf%%
 ```smiles
 C(Cl)(Cl)-C.C-C(F)(F)
 ```
 
-<!--SR:!2025-02-23,15,293-->
-%%end%%
+%%ef%%
 # Mesitylene
-%%?%%
+%%sf%%
 
 ```smiles
 C1(C)=C-C(C)=C-C(C)=C1.C1=C(C)-C=C(C)-C=C1(C)
 ```
-<!--SR:!2025-02-23,15,296-->
-%%end%%
-
+%%ef%%
 # Cumene
-%%?%%
+%%sf%%
 
 ```smiles
 C1(C(C)(C))=C-C=C-C=C1.C1=C-C=C(C(C)(C))-C=C1
 ```
-<!--SR:!2025-02-17,9,253-->
-%%end%%
 
+%%ef%%
 # Peri acetic Acid / Peracid
-%%?%%
+%%sf%%
 ```smiles
 CC(=O)OO[H].[H]OO(=O)CC
 ```
-<!--SR:!2025-02-11,3,261-->
-%%end%%
 
-
-<!--hello world-->
-<!--test-->
+%%ef%%

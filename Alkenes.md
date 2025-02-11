@@ -4,43 +4,37 @@ This note is included in #organic
 
 ## From Alkynes
 
-$\ce{R-C#C-R ->[H_{2} / Pd-C]}$<!---->$\ce{R-CH=CH-R (cis alkene)}$^fromalkynestocisalkenes
-<!--SR:!2025-02-19,16,290-->
+$\ce{R-C#C-R ->[H_{2} / Pd-C]}$%%qf%%$\ce{R-CH=CH-R (cis alkene)}$^fromalkynestocisalkenes
 - The $\ce{H_{2} /Pd-C}$ reagent is divided into two categories (**Rosenmund and Lindlar**)
 
-$\ce{R-C#C-R ->[H_{2} +Na][liq. NH_{3}]}$<!---->$\ce{R-CH=CH-R (trans alkene)}$^fromalkynestotransalkenes
-<!--SR:!2025-02-11,3,210-->
+$\ce{R-C#C-R ->[H_{2} +Na][liq. NH_{3}]}$%%qf%%$\ce{R-CH=CH-R (trans alkene)}$^fromalkynestotransalkenes
 - This is **Birch Reduction**
 
 In both the reactions the reagents are strong reductants but both are requires for cis or trans alkene
 
 ## From Alkyl Halides
 
-$\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]}$<!---->$\ce{CH_{3}-CH=CH_{2} + HBr}$^fromalkylhalidestoalkenes
-<!--SR:!2025-02-19,16,290-->
+$\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]}$%%qf%%$\ce{CH_{3}-CH=CH_{2} + HBr}$^fromalkylhalidestoalkenes
+<!--SR:!2025-02-15,4,284-->
 - The most acidic $\ce{H}$ and $\ce{Br}$ will be removed
 
 ## From Vicinal Di-Halides
 
-$\ce{R(X)-R(X)->[Zn]}$ <!----> $\ce{ZnX_{2} + R=R}$^fromvicinaldihalidestoalkenes
-<!--SR:!2025-02-11,3,263-->
-
+$\ce{R(X)-R(X)->[Zn]}$%%qf%%$\ce{ZnX_{2} + R=R}$^fromvicinaldihalidestoalkenes
 - $\ce{Zn}$ wants +2 oxidation state which is the reason this reaction happens
 
 ## From Alcohols
 
-$\ce{RH-CH_{2}(-OH)->[conc.H_{2}SO_{4}][\Delta]}$ <!---->$\ce{R=CH_{2}}$^fromalcoholstoalkenes
-<!--SR:!2025-02-11,3,263-->
-
+$\ce{RH-CH_{2}(-OH)->[conc.H_{2}SO_{4}][\Delta]}$ %%qf%%$\ce{R=CH_{2}}$^fromalcoholstoalkenes
 - Water was removed hence this reaction is a **Dehydration** Reaction
+- 
 # Chemical reactions of Alkenes
 
 ## Ozonolysis
 
 #### Reductive Ozonolysis ( default )
 
-$\ce{CH_{3}-CH=CH_{2} ->[(i) O_{3}][(ii) Zn-H_{2}O]}$<!---->$\ce{CH_{3}-CH=O + CH_{2}=O}$ ^ozonolysisofalkenes
-<!--SR:!2025-02-17,14,290-->
+$\ce{CH_{3}-CH=CH_{2} ->[(i) O_{3}][(ii) Zn-H_{2}O]}$%%qf%%$\ce{CH_{3}-CH=O + CH_{2}=O}$ ^ozonolysisofalkenes
 - Break the $\ce{=}$ bond and add $\ce{=O}$ to both the $\ce{C}$ atom.
 
 Reagents for Reductive Ozonolysis:
@@ -55,10 +49,9 @@ Reagents for Reductive Ozonolysis:
 - [[Ozonolysis Mechanism]]
 
 #### Oxidative Ozonolysis
-$\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$ <!---->$\ce{CH_{3}-CH(O)-C(O)-OH}$ ^ozonolysisofalkenesoxidative
+$\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$%%qf%%$\ce{CH_{3}-CH(O)-C(O)-OH}$ ^ozonolysisofalkenesoxidative
 
-$\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$ <!---->$\ce{CH_{3}-CH(O) + HC(O)H -> CH_{3}COOH + HCOOH}$ ^ozonolysisofalkenesoxidative
-<!--SR:!2025-02-12,4,278-->
+$\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$%%qf%%$\ce{CH_{3}-CH(O) + HC(O)H -> CH_{3}COOH + HCOOH}$ ^ozonolysisofalkenesoxidative
 - Basically the same but after breaking C-C bond and adding $\ce{=O}$ if you get Aldehyde then convert it to Carboxylic acid and leave ketones as is.
 - if **formic acid**( $\ce{HCOOH}$ ) forms according to question oxidize it further to $\ce{HO-C(O)-OH}$ and $\ce{CO_{2} + H_{2}O}$ if those are the options given 
 
@@ -75,10 +68,10 @@ Reagents for oxidative ozonolysis -
   2. $\ce{Hg(OAC)2 / H_{2}O / NaBH_{4}}$
   3. $\ce{B_{2}H_{6} , THF / H_{2}O_{2} / OH-}$
   4. $\ce{Cold KMnO_{4} in aq. OH-}$
+
 #### Hydration
 
-$\ce{CH_{3}-CH=CH_{2} ->[H_{2}O / H+]}$<!---->$\ce{CH_{3}-C(OH)-CH_{3}}$ ^hydrationofalkenes
-<!--SR:!2025-02-18,15,290-->
+$\ce{CH_{3}-CH=CH_{2} ->[H_{2}O / H+]}$%%qf%%$\ce{CH_{3}-C(OH)-CH_{3}}$ ^hydrationofalkenes
 - This is a $\ce{C+}$ pathway!
 ##### Mechanism
 [Hydration Mechanism](Hydration%20Mechanism.md)
@@ -86,9 +79,7 @@ $\ce{CH_{3}-CH=CH_{2} ->[H_{2}O / H+]}$<!---->$\ce{CH_{3}-C(OH)-CH_{3}}$ ^hydrat
 #### Oxymercuration-Demercuration
 
 
-$\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}]}$<!---->$\ce{ CH_{3}-CH(OH)-CH_{3}}$ ^oxymercurationdemercuration
-<!--SR:!2025-02-18,15,290-->
-
+$\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}]}$%%qf%%$\ce{ CH_{3}-CH(OH)-CH_{3}}$ ^oxymercurationdemercuration
 - $\ce{OH}$ always attaches to the $\ce{C}$ which has the lower number of $\ce{H}$ attached
 - Also called **Marconikoff product**
 ##### Mechanism
@@ -96,20 +87,18 @@ $\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}]}$<!-
 
 #### Hydroboration-Oxidation
 
-$\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$<!---->$\ce{ CH_{3}-CH_{2}-CH_{2}-OH}$ ^hydroborationoxidation
-<!--SR:!2025-02-13,11,270-->
+$\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$%%qf%%$\ce{ CH_{3}-CH_{2}-CH_{2}-OH}$ ^hydroborationoxidation
+<!--SR:!2025-02-15,4,284-->
 - This is **Anti Marconikoff product**. OH attaches to that C atom which has the higher number of H attached to it.
 
 
 #### Alcoholic Substitution 
 
-$\ce{R=R ->[Cold KMnO_{4}][aq.OH-]}$ <!---->$\ce{R(-OH)-R(-OH) }$^fromalkenestodiols
-<!--SR:!2025-02-11,3,263-->
+$\ce{R=R ->[Cold KMnO_{4}][aq.OH-]}$ %%qf%%$\ce{R(-OH)-R(-OH) }$^fromalkenestodiols
 - This reaction is a **syn addition** ( both OH are attached at same side )
 ## To Alkyl Halides
 
-$\ce{CH_{3}-CH=CH_{2} ->[HX]}$<!---->$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylhalides
-<!--SR:!2025-02-12,10,270-->
+$\ce{CH_{3}-CH=CH_{2} ->[HX]}$%%qf%%$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylhalides
 
 - Example reaction:
 - $\ce{CH_{3}-CH=CH_{2} ->[HCl] CH_{3}-CH(Cl)-CH_{3}}$ 
@@ -128,7 +117,7 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX]}$<!---->$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylh
 
 ## Electrophilic Substitution
 
-$\ce{R-CH_{2}-CH=CH_{2} + E+X- ->[suitable reagent] R'-CH(E)-CH_{2}(X)}$^electrophilicsubstitutionofalkenes
+$\ce{R-CH_{2}-CH=CH_{2} + E+X- ->[suitable reagent]}$%%qf%%$\ce{R'-CH(E)-CH_{2}(X)}$^electrophilicsubstitutionofalkenes
 
 - Here $\ce{E}$ denotes electrophile part of molecule ( $\ce{E+}$ ) or cation and $\ce{X}$ denotes negative part of molecule ( $\ce{X-}$ ) 
 - some famous $\ce{E+X-}$ include $\ce{ H+OH-, NO+Cl-, HO^{-}Cl+}$ and more
