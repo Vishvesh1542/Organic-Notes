@@ -50,7 +50,7 @@ $\ce{C_{6}H_{6} + Acyl Halide( R-COCl ) ->[AlCl_{3}] Acyl substituted Benzene}$^
 
 ##### Mechanism
 
-- Mechanism is [[Friedel Craft Alkylation|Here!]]
+- Mechanism is [[Friedel Craft Alkylation Mechanism|Here!]]
 ## Sulphation
 
 $\ce{C_{6}H_{6} ->[conc. fuming H_{2}SO_{4}] C_{6}H_{5}-SO_{3}H}$^Sulphationofbenzene
