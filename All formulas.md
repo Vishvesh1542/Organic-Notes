@@ -1,5 +1,6 @@
 # Alkanes
 ## Formation
+---
 1. ![[Alkanes#^fromalkenestoalkanes]]️ 
 ___
 2. ![[Alkanes#^wurtzreaction]]
@@ -14,7 +15,7 @@ ___
 ---
 
 ## Chemical Reactions
-
+---
 1. ![[Alkanes#^freeradicalhalogenationofalkanes]]
 ---
 2. ![[Alkanes#^isomerisation]]
@@ -23,6 +24,7 @@ ___
 ---
 # Alkenes
 ## Formation
+---
 
 3.  ![[Alkenes#^fromalkynestocisalkenes]]
 ---
@@ -35,6 +37,7 @@ ___
 7. ![[Alkenes#^fromalcoholstoalkenes]]
 ---
 ## Reactions 
+---
 
 8. ![[Alkenes#^ozonolysisofalkenes]]
 --- 
@@ -54,11 +57,13 @@ ___
 ---
 # Alkynes
 ## Formation
-16. ![[Alkynes#^fromcalciumcarbidetoalkynes]]
 ---
-17. ![[Alkynes#^fromvicinaldihalidestoalkynes]]
+1. ![[Alkynes#^fromcalciumcarbidetoalkynes]]
+---
+2. ![[Alkynes#^fromvicinaldihalidestoalkynes]]
 ---
 ## Reactions
+---
 1. ![[Alkynes#^fromalkynestomesitylene]]
 ---
 2. ![[Alkynes#^fromalkynestotetrahalides]]
@@ -68,20 +73,21 @@ ___
 # Benzene
 
 ## Formation 
-
-4. ![[Benzene#^acetylenetobenzene]]
 ---
-5.  ![[Benzene#^decarboxylationtoformbenzene]]
+1. ![[Benzene#^acetylenetobenzene]]
 ---
-6.  ![[Benzene#^phenoltobenzene]]
+2.  ![[Benzene#^decarboxylationtoformbenzene]]
+---
+3.  ![[Benzene#^phenoltobenzene]]
 ---
 ## Reactions
+---
 
-7. ![[Benzene#^fittingreaction]]
+4. ![[Benzene#^fittingreaction]]
 ---
-8. ![[Benzene#^wurtzfittingreaction]]
+5. ![[Benzene#^wurtzfittingreaction]]
 ---
-9.  ![[Benzene#^Friedelcraftalkylation]]
+6.  ![[Benzene#^Friedelcraftalkylation]]
 ---
  10. ![[Benzene#^Friedelcraftacylation]]
  ---

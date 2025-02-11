@@ -55,7 +55,7 @@ $\ce{C_{6}H_{6} + Alkyl Halide ->[AlCl_{3}][ or FeCl_{3}] Alkyl substituted Benz
 
 ##### Mechanism
 
-- Mechanism is [[Friedel Craft Alkylation|Here!]]
+- Mechanism is [[Friedel Craft Alkylation Mechanism|Here!]]
 
 ## Friedel Craft Acylation
 
