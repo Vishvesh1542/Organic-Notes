@@ -59,8 +59,6 @@ $\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$%%qf%%$\ce{CH_{3}-CH(O) + HC(O)H -> CH_
 Reagents for oxidative ozonolysis -
 1. $\ce{O_{3}}$
 2. $\ce{H_{2}O}$ or $\ce{H_{2}O_{2}}$ or $\ce{CH_{3}COOOH}$
-
-hi
 ##### Mechanism
 - [[Ozonolysis Mechanism]]
 ## To Alcohols

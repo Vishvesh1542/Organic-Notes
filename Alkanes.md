@@ -14,14 +14,14 @@ $\ce{CH_{2}=CH_{2} + H_{2} ->[Pt / Pd / Ni]}$%%qf%% $\ce{H_{3}C-CH_{3}}$^fromalk
 ## Wurtz Reaction
 
 $\ce{CH_{3}-Cl + 2Na + Cl-CH_{3} ->[Dry ether]}$%%qf%%$\ce{NaCl + CH_{3}-CH_{3}}$ ^wurtzreaction
-<!--SR:!2025-02-15,4,270-->
+
 - It goes through radical Pathway
 
 
 ## From Alkyl Halides 
 
 $\ce{R-X + H_{2} ->[Zn][H+]}$%%qf%%$\ce{R-H}$ ^fromalkylhalidestoalkanes
-<!--SR:!2025-02-14,3,250-->
+
 - **Except Fluorine** 
 - An example $\ce{CH_{3}-Cl + H_{2}->[Zn][HCl]CH_{4}}$
 - The $H^+$ needs to come from some acid.
@@ -93,7 +93,7 @@ $$
 \text{No. of H of a given degree} \times \text{Selectivity Number of that degree}
 $$
 - We can also calculate Yield percentage of products in halogenation of Alkanes using the following formula %%qf%%$$\frac{\text{n(H) of given degree} \times \text{SN of degree}}{\Sigma \; \text{n(H) of  given degree} \times \text{SN of that degree}}\times100$$
-<!--SR:!2025-02-15,4,270-->
+
 
 - Selectivity ratios for $\ce{Cl_{2}}$ are given as
 %%sf%%
@@ -129,4 +129,6 @@ $\ce{CH_{3}-(CH_{2})4-CH_{3} ->[Mo_{2}O_{3} or Cr_{2}O_{3}][or V_{2}O_{5}]}$%%qf
 ## Reaction with Steam
 - Methane reacts with steam at 1273 K in presence of Ni catalyst to form CO and $\ce{H_{2}}$ 
 $\ce{CH_{4} +O_{2}->[Ni][\Delta]}$%%qf%%$\ce{CO + H_{2}}$
+
+
 
