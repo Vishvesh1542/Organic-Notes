@@ -15,7 +15,7 @@ In both the reactions the reagents are strong reductants but both are requires f
 ## From Alkyl Halides
 
 $\ce{CH_{3}-CH(Br)-CH_{3} ->[Alcoholic KOH][\Delta]}$%%qf%%$\ce{CH_{3}-CH=CH_{2} + HBr}$^fromalkylhalidestoalkenes
-<!--SR:!2025-02-15,4,284-->
+
 - The most acidic $\ce{H}$ and $\ce{Br}$ will be removed
 
 ## From Vicinal Di-Halides
@@ -50,7 +50,7 @@ Reagents for Reductive Ozonolysis:
 
 #### Oxidative Ozonolysis
 $\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$%%qf%%$\ce{CH_{3}-CH(O)-C(O)-OH}$ ^ozonolysisofalkenesoxidative
-<!--SR:!2025-02-15,4,277-->
+
 
 $\ce{CH_{3}-CH=CH_{2} ->[O_{3}][H_{2}O]}$%%qf%%$\ce{CH_{3}-CH(O) + HC(O)H -> CH_{3}COOH + HCOOH}$ ^ozonolysisofalkenesoxidative
 - Basically the same but after breaking C-C bond and adding $\ce{=O}$ if you get Aldehyde then convert it to Carboxylic acid and leave ketones as is.
@@ -60,6 +60,7 @@ Reagents for oxidative ozonolysis -
 1. $\ce{O_{3}}$
 2. $\ce{H_{2}O}$ or $\ce{H_{2}O_{2}}$ or $\ce{CH_{3}COOOH}$
 
+hi
 ##### Mechanism
 - [[Ozonolysis Mechanism]]
 ## To Alcohols
@@ -89,14 +90,14 @@ $\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}]}$%%q
 #### Hydroboration-Oxidation
 
 $\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$%%qf%%$\ce{ CH_{3}-CH_{2}-CH_{2}-OH}$ ^hydroborationoxidation
-<!--SR:!2025-02-15,4,284-->
+
 - This is **Anti Marconikoff product**. OH attaches to that C atom which has the higher number of H attached to it.
 
 
 #### Alcoholic Substitution 
 
 $\ce{R=R ->[Cold KMnO_{4}][aq.OH-]}$ %%qf%%$\ce{R(-OH)-R(-OH) }$^fromalkenestodiols
-<!--SR:!2025-02-15,4,277-->
+
 - This reaction is a **syn addition** ( both OH are attached at same side )
 ## To Alkyl Halides
 
