@@ -115,6 +115,19 @@ $$
 - For $\ce{Br_{2}}$ the difference between the numbers is very large hence as a shortcut we can use stability of radical formed to determine the major product
 -  A close relation to Selectivity Ratio calculations is mole fraction
 
+##### Example
+
+- Consider the alkane $\ce{CH_{3}-CH(CH_{3})-CH_{2}-CH_{3}}$ 
+- It has 9 1 degree $\ce{H}$, 2 2 degree $\ce{H}$ and 1 3 degree H
+- Lets say we want to do its halogenation
+- First we calculate the selectivity numbers
+- For 1 degree its 9x1=9 for 2 degree its 2x3.8=7.6 and for 3 degree its 1x5=5
+- Since 9 > 7.6 > 5 the $\ce{Cl}$ must substitute a 1 degree H
+- If there is a clash between 2 different substitutions we pick the one where the radical formed is more stable
+- and the yield will be (9/9+7.6+5)x100 percent
+- So the answer is $\ce{CH_{3}-CH(CH_{3})-CH_{2}-CH_{2}-Cl}$
+- Same can be done for $\ce{Br}$
+
 ## Isomerisation
 $\ce{CH_{3}-(CH_{2})4-CH_{3}->[anhy. AlCl_{3}][HCl]}$%%qf%%$\ce{CH_{3}-CH(CH_{3})-(CH_{2})2-CH_{3}}$ ( Isomerisation ) ^isomerisation
 - In Isomerisation, $\ce{anhy. AlCl_{3}}/HCl$ converts **n-Alkanes** only to other isomers by attaching the Methyl group to other places

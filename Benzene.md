@@ -77,9 +77,10 @@ $\ce{C_{6}H_{6} + Acyl Halide( R-COCl ) ->[AlCl_{3}]}$%%qf%% $\ce{Acyl substitut
 
 $\ce{C_{6}H_{6} ->[conc. fuming H_{2}SO_{4}]}$%%qf%%$\ce{C_{6}H_{5}-SO_{3}H}$^Sulphationofbenzene
 
+- Here second step is rate determining step but in isotopes of hydrogen third step also becomes slow as $\ce{C-H < C-D < C-T}$ in bond enthalpy, hence reactivity is given as $\ce{C_{6}H_{6} > C_{6}D_{6} > C_{6}T_{6}}$
 #### Mechanism
 
-- Mechanism **Here**
+- Mechanism [[Sulphation of Benzene Mechanism|Is right here!]]
 ## Nitration
 
 $\ce{C_{6}H_{6} + HNO_{3} ->[conc.H_{2}SO_{4}][or an acid]}$%%qf%%$\ce{C_{6}H_{5}-NO_{2}}$^Nitrationofbenzene
@@ -87,7 +88,8 @@ $\ce{C_{6}H_{6} + HNO_{3} ->[conc.H_{2}SO_{4}][or an acid]}$%%qf%%$\ce{C_{6}H_{5
 
 - Other reagents like $\ce{BF_{3} + FNO_{2}, N_{2}O_{5}}$ and strong acids in presence of $\ce{HNO_{3}}$ also aid in nitration
 - Aniline forms o-nitro ( 2% ), m-nitro ( 47% ) and p-nitro ( 51% ) because aniline reacts with acid instead of nitric acid doing so
-- If you ONLY want p-nitro aniline **WhAT??**
+- If you ONLY want p-nitro aniline first do acylation of aniline for acyl group to attach to $\ce{NH_{2}}$ and then do nitration to get 95% of p-nitro aniline product
+- formation of sigma complex is slowest and rate determining step for all isotopes of hydrogen
 ##### Mechanism
 
 - Is it a bird? Is it a plane? no its the [[Nitration of Benzene Mechanism| Mechanism of Nitration]]
