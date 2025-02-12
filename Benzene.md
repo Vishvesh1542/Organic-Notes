@@ -4,7 +4,7 @@ This file has flashcards in #organic
 ## Polymerization of Acetylene
 
 $\ce{HC#CH ->[Red hot Fe tube][873K]}$ %%qf%% $\ce{C_{6}H_{6}}$^acetylenetobenzene
-<!--SR:!2025-02-15,4,282-->
+
 
 ## Decarboxylation
 
@@ -83,7 +83,7 @@ $\ce{C_{6}H_{6} ->[conc. fuming H_{2}SO_{4}]}$%%qf%%$\ce{C_{6}H_{5}-SO_{3}H}$^Su
 ## Nitration
 
 $\ce{C_{6}H_{6} + HNO_{3} ->[conc.H_{2}SO_{4}][or an acid]}$%%qf%%$\ce{C_{6}H_{5}-NO_{2}}$^Nitrationofbenzene
-<!--SR:!2025-02-15,4,282-->
+
 
 - Other reagents like $\ce{BF_{3} + FNO_{2}, N_{2}O_{5}}$ and strong acids in presence of $\ce{HNO_{3}}$ also aid in nitration
 - Aniline forms o-nitro ( 2% ), m-nitro ( 47% ) and p-nitro ( 51% ) because aniline reacts with acid instead of nitric acid doing so
@@ -94,4 +94,5 @@ $\ce{C_{6}H_{6} + HNO_{3} ->[conc.H_{2}SO_{4}][or an acid]}$%%qf%%$\ce{C_{6}H_{5
 
 [^1]: Polyalkynation
 	When the same benzene gets attached with more than one Alkane, it is called polyalkynation. Example Xylene
+
 
