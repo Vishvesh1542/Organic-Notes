@@ -4,7 +4,6 @@
 ## From Calcium Carbide
 
 $\ce{CaCO_{3} ->[\Delta]}$%%qf%%$\ce{CaO + CO_{2}}$
-<!--SR:!2025-02-14,3,250-->
 
 $\ce{CaO + 2C ->}$%%qf%% $\ce{CaC_{2} + CO}$
 

@@ -11,7 +11,6 @@ C1=C-C=C-C=C(C)1.C(C)1=C-C=C-C=C1
 ```smiles
 O1C=CC=C1.C1=CC=CO1
 ```
-<!--SR:!2025-02-15,4,270-->
 
 %%ef%%
 # Tetra Hydro Furan ( THF )
