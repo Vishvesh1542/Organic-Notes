@@ -81,3 +81,18 @@ CC(=O)OO[H].[H]OO(=O)CC
 ```
 
 %%ef%%
+
+# Xylene
+%%sf%%
+```smiles
+C1=CC(C)=CC(C)=C1.C1=CC=C(C)C(C)=C1
+```
+- Can be o-Xylene, m-Xylene, p-Xylene
+%%ef%%
+
+# Aniline
+%%sf%%
+```smiles
+C1=CC(N)=CC=C1.C1=CC=CC(N)=C1
+```
+%%ef%%
