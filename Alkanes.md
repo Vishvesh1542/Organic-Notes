@@ -142,3 +142,8 @@ $\ce{CH_{3}-(CH_{2})4-CH_{3} ->[Mo_{2}O_{3} or Cr_{2}O_{3}][or V_{2}O_{5}]}$%%qf
 ## Reaction with Steam
 - Methane reacts with steam at 1273 K in presence of Ni catalyst to form CO and $\ce{H_{2}}$ 
 $\ce{CH_{4} +O_{2}->[Ni][\Delta]}$%%qf%%$\ce{CO + H_{2}}$
+
+
+
+
+%%test%%
