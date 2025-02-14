@@ -105,7 +105,7 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX]}$%%qf%%$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylha
 - $\ce{CH_{3}-CH=CH_{2} ->[HCl] CH_{3}-CH(Cl)-CH_{3}}$ 
 - Carbo Cation forms!
 ##### Mechanism
-- [Alkenes to Alkyl Halides Mechanism](Alkenes%20to%20Alkyl%20Halides%20Mechanism.md)
+- [Alkanes to Alkyl Halides Mechanism](Alkanes%20to%20Alkyl%20Halides%20Mechanism.md)
 #### Peroxides
 - for now ignore peroxides.
 - **Don't ignore HBr peroxide**
