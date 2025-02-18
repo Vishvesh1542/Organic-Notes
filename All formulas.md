@@ -57,37 +57,39 @@ ___
 ---
 # Alkynes
 ## Formation
+
+1. ![[Alkenes#^ozonolysisofalkynesesoxidative]]
 ---
-1. ![[Alkynes#^fromcalciumcarbidetoalkynes]]
+2. ![[Alkynes#^fromcalciumcarbidetoalkynes]]
 ---
-2. ![[Alkynes#^fromvicinaldihalidestoalkynes]]
+3. ![[Alkynes#^fromvicinaldihalidestoalkynes]]
 ---
 ## Reactions
 ---
-1. ![[Alkynes#^fromalkynestomesitylene]]
+4. ![[Alkynes#^fromalkynestomesitylene]]
 ---
-2. ![[Alkynes#^fromalkynestotetrahalides]]
+5. ![[Alkynes#^fromalkynestotetrahalides]]
 ---
-3. ![[Alkynes#^fromalkynestoenolstoketones]]
+6. ![[Alkynes#^fromalkynestoenolstoketones]]
 
 # Benzene
 
 ## Formation 
 ---
-1. ![[Benzene#^acetylenetobenzene]]
+7. ![[Benzene#^acetylenetobenzene]]
 ---
-2.  ![[Benzene#^decarboxylationtoformbenzene]]
+8.  ![[Benzene#^decarboxylationtoformbenzene]]
 ---
-3.  ![[Benzene#^phenoltobenzene]]
+9.  ![[Benzene#^phenoltobenzene]]
 ---
 ## Reactions
 ---
 
-4. ![[Benzene#^fittingreaction]]
+10. ![[Benzene#^fittingreaction]]
 ---
-5. ![[Benzene#^wurtzfittingreaction]]
+11. ![[Benzene#^wurtzfittingreaction]]
 ---
-6.  ![[Benzene#^Friedelcraftalkylation]]
+12.  ![[Benzene#^Friedelcraftalkylation]]
 ---
  10. ![[Benzene#^Friedelcraftacylation]]
  ---
