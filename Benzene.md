@@ -85,7 +85,7 @@ $\ce{C_{6}H_{6} + Acyl Halide( R-COCl ) ->[AlCl_{3}]}$%%qf%% $\ce{Acyl substitut
 $\ce{C_{6}H_{6} ->[conc. fuming H_{2}SO_{4}]}$%%qf%%$\ce{C_{6}H_{5}-SO_{3}H}$^Sulphationofbenzene
 <!--SR:!2025-02-22,4,270-->
 
-- Here second step is rate determining step but in isotopes of hydrogen third step also becomes slow as $\ce{C-H < C-D < C-T}$ in bond enthalpy, hence reactivity is given as $\ce{C_{6}H_{6} > C_{6}D_{6} > C_{6}T_{6}}$
+- Here second step is rate determining step but in isotopes of hydrogen third step also becomes slow as $\ce{C-H < C-D < C-T}$ in bond enthalpy, hence reactivity is given as $\ce{C_{6}H_{6} > C_{6}D_{6} > C_{6}T_{6}}$ This is called **Kinetic Isotope Effect**
 #### Mechanism
 
 - Mechanism [[Sulphation of Benzene Mechanism|Is right here!]]
