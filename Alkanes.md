@@ -1,5 +1,4 @@
 These notes have flashcards under #organic
-- [ ] Abhiram add example for selectivity of Free Radical Haolgenation (@2025-02-14)
 # Formation of Alkanes
 ## From Alkenes/Alkynes
 
@@ -79,6 +78,7 @@ $\ce{R-C(O)-R ->[Zn(Hg)][con. HCl]}$%%qf%%![[Alkanes from Aldehydes and Ketones]
 <!--SR:!2025-02-22,4,270-->
  
 # Chemical Reactions of Alkanes
+
 - Alkane shows **Addition reaction**
 - Most of these go through Radical pathway
 ## Free Radical Halogenation Disproportionation ( Substitution ) Reaction
@@ -165,12 +165,12 @@ $\ce{CH_{4} +O_{2}->[Ni][\Delta]}$%%qf%%$\ce{CO + H_{2}}$^alkanereactswithsteam
 
 ## Controlled Oxidation
 
-$\ce{R-H +O_{2}->[Cu,523K,100atm] R-OH}$^alkanestoalcohols
+$\ce{R-H +O_{2}->[Cu,523K,100atm]}$ $\ce{R-OH}$^alkanestoalcohols
 
-$\ce{R-CH_{3} + O_{2} ->[Mo_{2}O_{3}][\Delta] R-CHO}$^alkanestoaldehydes
+$\ce{R-CH_{3} + O_{2} ->[Mo_{2}O_{3}][\Delta]}$ $\ce{R-CHO}$^alkanestoaldehydes
 
-$\ce{R-CH_{3} +O_{2}->[(CH_{3}COO)_{2}Mn][\Delta] R-COOH}$^alkanestocarboxylicacids
+$\ce{R-CH_{3} +O_{2}->[(CH_{3}COO)_{2}Mn][\Delta]}$ $\ce{R-COOH}$^alkanestocarboxylicacids
 
-$\ce{(CH_{3})_{3}CH ->[KMnO_{4}] (CH_{3})_{3}C-OH}$^talkanestoalcohols
+$\ce{(CH_{3})_{3}CH ->[KMnO_{4}]}$ $\ce{(CH_{3})_{3}C-OH}$^talkanestoalcohols
 
 - Only tertiary alkanes show the last reaction, rest is shown by all
