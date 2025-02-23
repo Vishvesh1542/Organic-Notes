@@ -4,7 +4,7 @@ This file has #organic Flashcards!
 ```smiles
 C1=C-C=C-C=C(C)1.C(C)1=C-C=C-C=C1
 ```
-<!--SR:!2025-02-22,4,270-->
+<!--SR:!2025-03-07,12,270-->
 
 %%ef%%
 # Furan
@@ -12,7 +12,7 @@ C1=C-C=C-C=C(C)1.C(C)1=C-C=C-C=C1
 ```smiles
 O1C=CC=C1.C1=CC=CO1
 ```
-<!--SR:!2025-02-22,4,270-->
+<!--SR:!2025-03-06,11,270-->
 
 %%ef%%
 # Tetra Hydro Furan ( THF )

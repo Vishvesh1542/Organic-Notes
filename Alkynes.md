@@ -41,10 +41,10 @@ $\ce{CH_{3}-C#CH ->[O_{3}][Me_{2}S]}$%%qf%%$\ce{CH_{3}-C(O)-C(O)-H}$
 ## Alkynes to Halogens
 
 $\ce{R-C#C-R ->[X_{2}][CCl_{4}]}$%%qf%%$\ce{R-C(X)=C(X)-R}$ ^fromalkynestotetrahalides
-<!--SR:!2025-02-22,4,270-->
+<!--SR:!2025-03-06,11,270-->
 
 $\ce{R-C(X)=C(X)-R ->[X_{2}][CCl_{4}]}$%%qf%%$\ce{R-C(X)_{2}-C(X)_{2}-R}$
-<!--SR:!2025-02-22,4,270-->
+<!--SR:!2025-03-07,12,270-->
 
 - Any other non-polar and non reactive solvent can also be used in place of $\ce{CCl_{4}}$ 
 - The reaction is always **Anti Addition** Reaction ( The alkene formed is always trans )

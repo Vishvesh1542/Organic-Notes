@@ -20,40 +20,49 @@ ___
 ---
 2. ![[Alkanes#^isomerisation]]
 ___
-1. ![[Alkanes#^aromatization]]
+3. ![[Alkanes#^aromatization]]
 ---
+4. ![[Alkanes#^alkanereactswithsteam]]
+---
+5. ![[Alkanes#^alkanestoalcohols]]
+---
+6. ![[Alkanes#^alkanestoaldehydes]]
+---
+7. ![[Alkanes#^alkanestocarboxylicacids]]
+---
+8. ![[Alkanes#^talkanestoalcohols]]
 # Alkenes
 ## Formation
 ---
 
-3.  ![[Alkenes#^fromalkynestocisalkenes]]
+1.  ![[Alkenes#^fromalkynestocisalkenes]]
 ---
-4. ![[Alkenes#^fromalkynestotransalkenes]]
+2. ![[Alkenes#^fromalkynestotransalkenes]]
 ---
-5. ![[Alkenes#^fromalkylhalidestoalkenes]]
+3. ![[Alkenes#^fromalkylhalidestoalkenes]]
 ---
-6. ![[Alkenes#^fromvicinaldihalidestoalkenes]]
+4. ![[Alkenes#^fromvicinaldihalidestoalkenes]]
 ---
-7. ![[Alkenes#^fromalcoholstoalkenes]]
+5. ![[Alkenes#^fromalcoholstoalkenes]]
 ---
 ## Reactions 
 ---
 
-8. ![[Alkenes#^ozonolysisofalkenes]]
+1. ![[Alkenes#^ozonolysisofalkenes]]
 --- 
-9. ![[Alkenes#^ozonolysisofalkenesoxidative]]
+2. ![[Alkenes#^ozonolysisofalkenesoxidative]]
 ---
-10. ![[Alkenes#^hydrationofalkenes]]
+3. ![[Alkenes#^hydrationofalkenes]]
 ---
-11. ![[Alkenes#^oxymercurationdemercuration]]
+4. ![[Alkenes#^oxymercurationdemercuration]]
 ---
-12. ![[Alkenes#^hydroborationoxidation]]
+5. ![[Alkenes#^hydroborationoxidation]]
 ---
-13. ![[Alkenes#^fromalkenestodiols]]
+6. ![[Alkenes#^fromalkenestodiols]]
 ---
-14. ![[Alkenes#^alkenestoalkylhalides]]
+7. ![[Alkenes#^alkenestoalkylhalides]]
 ---
-15. ![[Alkenes#^electrophilicsubstitutionofalkenes]]
+8. ![[Alkenes#^electrophilicsubstitutionofalkenes]]
 ---
 # Alkynes
 ## Formation
@@ -66,33 +75,33 @@ ___
 ---
 ## Reactions
 ---
-4. ![[Alkynes#^fromalkynestomesitylene]]
+1. ![[Alkynes#^fromalkynestomesitylene]]
 ---
-5. ![[Alkynes#^fromalkynestotetrahalides]]
+2. ![[Alkynes#^fromalkynestotetrahalides]]
 ---
-6. ![[Alkynes#^fromalkynestoenolstoketones]]
+3. ![[Alkynes#^fromalkynestoenolstoketones]]
 
 # Benzene
 
 ## Formation 
 ---
-7. ![[Benzene#^acetylenetobenzene]]
+1. ![[Benzene#^acetylenetobenzene]]
 ---
-8.  ![[Benzene#^decarboxylationtoformbenzene]]
+2.  ![[Benzene#^decarboxylationtoformbenzene]]
 ---
-9.  ![[Benzene#^phenoltobenzene]]
+3.  ![[Benzene#^phenoltobenzene]]
 ---
 ## Reactions
 ---
 
-10. ![[Benzene#^fittingreaction]]
+1. ![[Benzene#^fittingreaction]]
 ---
-11. ![[Benzene#^wurtzfittingreaction]]
+2. ![[Benzene#^wurtzfittingreaction]]
 ---
-12.  ![[Benzene#^Friedelcraftalkylation]]
+3.  ![[Benzene#^Friedelcraftalkylation]]
 ---
- 10. ![[Benzene#^Friedelcraftacylation]]
+ 4. ![[Benzene#^Friedelcraftacylation]]
  ---
-  11.  ![[Benzene#^Nitrationofbenzene]]
+  5.  ![[Benzene#^Nitrationofbenzene]]
   ---
-  12.  ![[Benzene#^Sulphationofbenzene]]
+  6.  ![[Benzene#^Sulphationofbenzene]]
