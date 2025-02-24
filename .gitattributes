@@ -1,3 +1,4 @@
 *.md filter=html-comments
 *.md filter=html-comments
 *.md filter=html-comments
+*.md filter=html-comments
