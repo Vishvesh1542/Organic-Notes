@@ -3,7 +3,6 @@ These notes have flashcards under #organic
 ## From Alkenes/Alkynes
 
 $\ce{CH_{2}=CH_{2} + H_{2} ->[Pt / Pd / Ni]}$%%qf%% $\ce{H_{3}C-CH_{3}}$^fromalkenestoalkanes
-<!--SR:!2025-02-22,4,270-->
 
 
 - Here, $\ce{H_{2} + Pt / Pd / Ni}$ is a very strong reagent, which makes
@@ -14,7 +13,6 @@ $\ce{CH_{2}=CH_{2} + H_{2} ->[Pt / Pd / Ni]}$%%qf%% $\ce{H_{3}C-CH_{3}}$^fromalk
 ## Wurtz Reaction
 
 $\ce{CH_{3}-Cl + 2Na + Cl-CH_{3} ->[Dry ether]}$%%qf%%$\ce{NaCl + CH_{3}-CH_{3}}$ ^wurtzreaction
-<!--SR:!2025-02-22,4,270-->
 
 - It goes through radical Pathway
 
@@ -22,7 +20,6 @@ $\ce{CH_{3}-Cl + 2Na + Cl-CH_{3} ->[Dry ether]}$%%qf%%$\ce{NaCl + CH_{3}-CH_{3}}
 ## From Alkyl Halides 
 
 $\ce{R-X + H_{2} ->[Zn][H+]}$%%qf%%$\ce{R-H}$ ^fromalkylhalidestoalkanes
-<!--SR:!2025-03-05,10,270-->
 
 - **Except Fluorine** 
 - An example $\ce{CH_{3}-Cl + H_{2}->[Zn][HCl]CH_{4}}$
@@ -37,7 +34,6 @@ For this we have 2 types of reactions via different methods
 #### Kolbe's Electrolysis ( Electrical Method )
 
 $\ce{2RCOONa + 2H_{2}O ->[Kolbe's][Electrolysis]}$%%qf%%$\ce{ R-R + 2CO_{2} + 2NaOH + H_{2}}$^fromcarboxylicacidstoalkanes
-<!--SR:!2025-03-05,10,279-->
 
 - Reason for using Sodium salt of carboxylic acids is that it dissociates completely in water ( Strong Electrolyte)
 - pH of beaker increases as reaction proceeds
@@ -54,7 +50,6 @@ $\ce{2RCOONa + 2H_{2}O ->[Kolbe's][Electrolysis]}$%%qf%%$\ce{ R-R + 2CO_{2} + 2N
 ### Soda-Lime Decarboxylation ( Chemical Method )
 
 $\ce{RCOONa + NaOH ->[CaO]}$%%qf%%$\ce{ Na_{2}CO_{3} + RH }$ ^fromcarboxylicacidstoalkanes2
-<!--SR:!2025-02-22,4,279-->
 
 - Reason for using Sodium salt of carboxylic acids is that it dissociates completely in water ( Strong Electrolyte )
 - Its called Soda Lime method as reagents are Caustic Soda ($\ce{NaOH}$) and Quick Lime ($\ce{CaO}$) in the **mole ratio 3:1** 
@@ -72,10 +67,8 @@ $\ce{RCOONa + NaOH ->[CaO]}$%%qf%%$\ce{ Na_{2}CO_{3} + RH }$ ^fromcarboxylicacid
 
 ###### Flash card
 $\ce{R-C(O)-R ->[Zn(Hg)][con. HCl]}$%%qf%%![[Alkanes from Aldehydes and Ketones]] Clemmenson Reduction
-<!--SR:!2025-02-22,4,270-->
 
  $\ce{R-C(O)-R ->[NH_{2}-NH_{2}][Ethylene Glycol, KOH, \Delta]}$%%qf%%![Alkanes from Aldehydes and Ketones](Alkanes%20from%20Aldehydes%20and%20Ketones.md)Wolf-Kishner Reduction
-<!--SR:!2025-02-22,4,270-->
  
 # Chemical Reactions of Alkanes
 
@@ -84,13 +77,10 @@ $\ce{R-C(O)-R ->[Zn(Hg)][con. HCl]}$%%qf%%![[Alkanes from Aldehydes and Ketones]
 ## Free Radical Halogenation Disproportionation ( Substitution ) Reaction
 
 $\ce{R-H + Cl_{2} ->[h\nu]}$%%qf%%$\ce{R-Cl + HCl}$^halogenationsubstitutionofalkanes
-<!--SR:!2025-02-22,4,270-->
 
 $\ce{R-H + X_{2} ->[h\nu]}$ %%qf%%$\ce{R-X + HX}$^freeradicalhalogenationofalkanes
-<!--SR:!2025-02-22,4,279-->
 
 - Reactivity order in free Radical Halogenation %%qf%%-> $\ce{F_{2} > Cl_{2} > Br_{2} \gg I_{2}}$
-<!--SR:!2025-02-22,4,270-->
 - Read the mechanism [[Free Radical Halogenation Mechanism|here]]
 
 
@@ -103,7 +93,6 @@ $$
 \text{No. of H of a given degree} \times \text{Selectivity Number of that degree}
 $$
 - We can also calculate Yield percentage of products in halogenation of Alkanes using the following formula %%qf%%$$\frac{\text{n(H) of given degree} \times \text{SN of degree}}{\Sigma \; \text{n(H) of  given degree} \times \text{SN of that degree}}\times100$$
-<!--SR:!2025-02-22,4,279-->
 
 
 - Selectivity ratios for $\ce{Cl_{2}}$ are given as
@@ -112,7 +101,6 @@ $$
 | **Degree of $\ce{H}$** | 1°  | 2°  | 3°  |
 | ---------------------- | --- | --- | --- |
 | **Selectivity Number** | 1   | 3.8 | 5   |
-<!--SR:!2025-02-22,4,279-->
 
 %%ef%%
 
@@ -122,7 +110,6 @@ $$
 | **Degree of $\ce{H}$** | 1°  | 2°  | 3°   |
 | ---------------------- | --- | --- | ---- |
 | **Selectivity Number** | 1   | 82  | 1600 |
-<!--SR:!2025-02-19,1,230-->
 %%ef%%
 
 - For $\ce{Br_{2}}$ the difference between the numbers is very large hence as a shortcut we can use stability of radical formed to determine the major product
@@ -144,14 +131,12 @@ $$
 ## Isomerisation
 
 $\ce{CH_{3}-(CH_{2})4-CH_{3}->[anhy. AlCl_{3}][HCl]}$%%qf%%$\ce{CH_{3}-CH(CH_{3})-(CH_{2})2-CH_{3}}$ ( Isomerisation ) ^isomerisation
-<!--SR:!2025-03-06,11,270-->
 - In Isomerisation, $\ce{anhy. AlCl_{3}}/HCl$ converts **n-Alkanes** only to other isomers by attaching the Methyl group to other places
 - Only report the major products as minor products are generally not reported
 
 ## Aromatization 
 
 $\ce{CH_{3}-(CH_{2})4-CH_{3} ->[Mo_{2}O_{3} or Cr_{2}O_{3}][or V_{2}O_{5}]}$%%qf%%$\ce{Benzene}$ (aromatization) ^aromatization
-<!--SR:!2025-02-22,4,270-->
 
 - **n-Alkanes** having six or more C atoms on heating to 773K at 10-20 atm in presence of $\ce{Mo_{2}O_{3}}$ or $\ce{V_{2}O_{5}}$ or $\ce{Cr_{2}O_{3}}$ form Benzene or its forms.
 - For example, 7 membered ring will form Toluene.
@@ -161,7 +146,6 @@ $\ce{CH_{3}-(CH_{2})4-CH_{3} ->[Mo_{2}O_{3} or Cr_{2}O_{3}][or V_{2}O_{5}]}$%%qf
 - Methane reacts with steam at 1273 K in presence of Ni catalyst to form CO and $\ce{H_{2}}$ 
 
 $\ce{CH_{4} +O_{2}->[Ni][\Delta]}$%%qf%%$\ce{CO + H_{2}}$^alkanereactswithsteam
-<!--SR:!2025-02-19,1,239-->
 
 ## Controlled Oxidation
 
@@ -174,6 +158,3 @@ $\ce{R-CH_{3} +O_{2}->[(CH_{3}COO)_{2}Mn][\Delta]}$ $\ce{R-COOH}$^alkanestocarbo
 $\ce{(CH_{3})_{3}CH ->[KMnO_{4}]}$ $\ce{(CH_{3})_{3}C-OH}$^talkanestoalcohols
 
 - Only tertiary alkanes show the last reaction, rest is shown by all
-
-
-<!--hello-->
