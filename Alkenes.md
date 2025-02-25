@@ -115,12 +115,11 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX]}$%%qf%%$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylha
 4. $\ce{R-O-O-R}$
 5. $\ce{C_{6}H_{5}-C(=O)-O-O-C(=O)-C_{6}H_{5}}$ -> Benzoic Peroxide
 
-HAHAHAHAA
 ## Electrophilic Substitution
 
 $\ce{R-CH_{2}-CH=CH_{2} + E+X- ->[suitable reagent]}$%%qf%%$\ce{R'-CH(E)-CH_{2}(X)}$^electrophilicsubstitutionofalkenes
 
-
+This is it?
 - Here $\ce{E}$ denotes electrophile part of molecule ( $\ce{E+}$ ) or cation and $\ce{X}$ denotes negative part of molecule ( $\ce{X-}$ ) 
 - some famous $\ce{E+X-}$ include $\ce{ H+OH-, NO+Cl-, HO^{-}Cl+}$ and more
 ##### Mechanism
