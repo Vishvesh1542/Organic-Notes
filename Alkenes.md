@@ -27,7 +27,6 @@ $\ce{R(X)-R(X)->[Zn]}$%%qf%%$\ce{ZnX_{2} + R=R}$^fromvicinaldihalidestoalkenes
 
 $\ce{RH-CH_{2}(-OH)->[conc.H_{2}SO_{4}][\Delta]}$ %%qf%%$\ce{R=CH_{2}}$^fromalcoholstoalkenes
 - Water was removed hence this reaction is a **Dehydration** Reaction
-- 
 # Chemical reactions of Alkenes
 
 ## Ozonolysis
@@ -119,9 +118,6 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX]}$%%qf%%$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylha
 
 $\ce{R-CH_{2}-CH=CH_{2} + E+X- ->[suitable reagent]}$%%qf%%$\ce{R'-CH(E)-CH_{2}(X)}$^electrophilicsubstitutionofalkenes
 
-This is it?
-Maybe I'm not sure
-hello
 - Here $\ce{E}$ denotes electrophile part of molecule ( $\ce{E+}$ ) or cation and $\ce{X}$ denotes negative part of molecule ( $\ce{X-}$ ) 
 - some famous $\ce{E+X-}$ include $\ce{ H+OH-, NO+Cl-, HO^{-}Cl+}$ and more
 ##### Mechanism
