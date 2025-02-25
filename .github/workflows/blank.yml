@@ -3,7 +3,9 @@ name: Merge and Clean HTML Comments
 on:
   pull_request:
     branches:
-      - main  # Trigger on pull requests to the main branch
+      - test 1  # Trigger on pull requests to the "test 1" branch
+    paths: # Optional: Trigger on changes to specific paths
+      - '**.html' # Only trigger on HTML files, adjust as needed
 
 jobs:
   merge_and_clean:
@@ -12,28 +14,26 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          ref: ${{ github.event.pull_request.head.sha }} # Checkout the PR branch
+          ref: ${{ github.event.pull_request.head.sha }}  # Checkout the PR branch
 
-      - name: Merge main branch
-        run: git merge main
+      - name: Merge test 1 branch
+        run: git merge test 1
 
-      - name: Remove HTML comments (if Vishvesh branch)
-        if: github.event.pull_request.head.ref == 'vishvesh'  # Check if PR is from vishvesh
+      - name: Remove HTML comments (if from test 2 branch)
+        if: github.event.pull_request.head.ref == 'test 2'
         run: |
-          find . -type f -name "*.html" -print0 | xargs -0 -I {} sed -i 's///g' {}  # Remove comments from HTML files
-          # OR, for more robust comment removal (handles multi-line comments):
-          # find . -type f -name "*.html" -print0 | xargs -0 -I {} perl -0777 -pe 's///sg' {}
+          find. -type f -name "*.html" -print0 | xargs -0 -I {} perl -0777 -pe 's///sg' {}
 
       - name: Commit changes (if comments were removed)
-        if: github.event.pull_request.head.ref == 'vishvesh' # Only commit if on vishvesh branch
+        if: github.event.pull_request.head.ref == 'test 2'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Removed HTML comments" || true # Allow commit to succeed even if no changes
+          git add.
+          git commit -m "Removed HTML comments" || true
 
       - name: Push changes (if comments were removed)
-        if: github.event.pull_request.head.ref == 'vishvesh'
+        if: github.event.pull_request.head.ref == 'test 2'
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
