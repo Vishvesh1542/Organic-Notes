@@ -118,7 +118,6 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX]}$%%qf%%$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylha
 ## Electrophilic Substitution
 
 $\ce{R-CH_{2}-CH=CH_{2} + E+X- ->[suitable reagent]}$%%qf%%$\ce{R'-CH(E)-CH_{2}(X)}$^electrophilicsubstitutionofalkenes
- <!--hello-
 This is it?
 Maybe I'm not sure
 - Here $\ce{E}$ denotes electrophile part of molecule ( $\ce{E+}$ ) or cation and $\ce{X}$ denotes negative part of molecule ( $\ce{X-}$ ) 
