@@ -129,6 +129,7 @@ $$
 - Same can be done for $\ce{Br}$
 
 ## Isomerisation
+<!--rwaoi-->
 
 $\ce{CH_{3}-(CH_{2})4-CH_{3}->[anhy. AlCl_{3}][HCl]}$%%qf%%$\ce{CH_{3}-CH(CH_{3})-(CH_{2})2-CH_{3}}$ ( Isomerisation ) ^isomerisation
 - In Isomerisation, $\ce{anhy. AlCl_{3}}/HCl$ converts **n-Alkanes** only to other isomers by attaching the Methyl group to other places
