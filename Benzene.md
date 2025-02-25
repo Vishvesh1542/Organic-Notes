@@ -31,6 +31,7 @@ $\ce{Ph-Cl + 2Na + Cl-Ph ->[Dry Ether]}$%%qf%% $\ce{Ph-Ph + 2NaCl}$ ^fittingreac
 ## Wurtz-Fitting Reaction
 
 $\ce{Ph-Cl + 2Na + Cl-CH_{3} ->[Dry Ether]}$%%qf%% $\ce{Ph-CH_{3} + 2NaCl}$ ^wurtzfittingreaction
+
 ```smiles
 C1=CC=CC=C1Cl.[Na].ClC>>C1=CC=CC=C1C.[Na][Cl]
 ```
