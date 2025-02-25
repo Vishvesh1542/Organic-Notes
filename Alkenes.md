@@ -126,7 +126,6 @@ hello
 - some famous $\ce{E+X-}$ include $\ce{ H+OH-, NO+Cl-, HO^{-}Cl+}$ and more
 ##### Mechanism
 mechanism is [[Electrophilic substitution of Alkenes|here!]] 
-make some changes
 
 ## Epoxydation
 
