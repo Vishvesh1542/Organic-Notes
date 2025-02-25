@@ -131,6 +131,4 @@ $\ce{R=R' ->[Ag,473-673 K][O_{2}]}$ $\ce{R-(-O-)-R' ( its an epoxy group)}$^alke
 - Alkene apparently just adds an $\ce{O}$ into it like no big deal
 
 
-
-AWEo
-Test
+Hello 
