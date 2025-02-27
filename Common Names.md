@@ -95,3 +95,17 @@ C1=CC(C)=CC(C)=C1.C1=CC=C(C)C(C)=C1
 C1=CC(N)=CC=C1.C1=CC=CC(N)=C1
 ```
 %%ef%%
+
+# Carbolic acid
+%%sf%%
+```smiles
+OC1=CC=CC=C1.C1=CC=CC(O)=C1
+```
+%%ef%%
+	
+# Pyridine
+%%sf%%
+```smiles
+C1=NC=CC=C1.C1=CC=CN=C1
+```
+%%ef%%

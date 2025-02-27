@@ -149,12 +149,12 @@ $\ce{CH_{4} +O_{2}->[Ni][\Delta]}$%%qf%%$\ce{CO + H_{2}}$^alkanereactswithsteam
 
 ## Controlled Oxidation
 
-$\ce{R-H +O_{2}->[Cu,523K,100atm]}$ $\ce{R-OH}$^alkanestoalcohols
+$\ce{R-H +O_{2}->[Cu,523K,100atm]}$%%qf%%$\ce{R-OH}$^alkanestoalcohols
 
-$\ce{R-CH_{3} + O_{2} ->[Mo_{2}O_{3}][\Delta]}$ $\ce{R-CHO}$^alkanestoaldehydes
+$\ce{R-CH_{3} + O_{2} ->[Mo_{2}O_{3}][\Delta]}$%%qf%% $\ce{R-CHO}$^alkanestoaldehydes
 
-$\ce{R-CH_{3} +O_{2}->[(CH_{3}COO)_{2}Mn][\Delta]}$ $\ce{R-COOH}$^alkanestocarboxylicacids
+$\ce{R-CH_{3} +O_{2}->[(CH_{3}COO)_{2}Mn][\Delta]}$%%qf%%$\ce{R-COOH}$^alkanestocarboxylicacids
 
-$\ce{(CH_{3})_{3}CH ->[KMnO_{4}]}$ $\ce{(CH_{3})_{3}C-OH}$^talkanestoalcohols
+$\ce{(CH_{3})_{3}CH ->[KMnO_{4}]}$%%qf%% $\ce{(CH_{3})_{3}C-OH}$^talkanestoalcohols
 
 - Only tertiary alkanes show the last reaction, rest is shown by all
