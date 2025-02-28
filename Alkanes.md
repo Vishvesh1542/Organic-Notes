@@ -158,6 +158,3 @@ $\ce{R-CH_{3} +O_{2}->[(CH_{3}COO)_{2}Mn][\Delta]}$%%qf%%$\ce{R-COOH}$^alkanesto
 $\ce{(CH_{3})_{3}CH ->[KMnO_{4}]}$%%qf%% $\ce{(CH_{3})_{3}C-OH}$^talkanestoalcohols
 
 - Only tertiary alkanes show the last reaction, rest is shown by all
-
-
-Test!
