@@ -1,0 +1,11 @@
+{
+  "nativeMenus": true,
+  "cssTheme": "Neo",
+  "baseFontSize": 16,
+  "accentColor": "#6c0104",
+  "interfaceFontFamily": "Atkinson Hyperlegible",
+  "textFontFamily": "Atkinson Hyperlegible",
+  "baseFontSizeAction": false,
+  "monospaceFontFamily": "Source Code Pro",
+  "theme": "system"
+}
