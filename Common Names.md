@@ -125,7 +125,7 @@ C1=NC=CC=C1.C1=CC=CN=C1
 ___
 # Picric Acid
 %%sf%%
-![[Picric Acid]]
+![[Picric acid]]
 %%ef%%
 ___
 # Ascorbic acid
