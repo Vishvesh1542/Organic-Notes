@@ -5,6 +5,7 @@ This note is included in #organic
 ## From Alkynes
 
 $\ce{R-C#C-R ->[H_{2} / Pd-C]}$%%qf%%$\ce{R-CH=CH-R (cis alkene)}$^fromalkynestocisalkenes
+<!--SR:!2025-03-31,4,270-->
 - The $\ce{H_{2} /Pd-C}$ reagent is divided into two categories (**Rosenmund and Lindlar**)
 
 $\ce{R-C#C-R ->[H_{2} +Na][liq. NH_{3}]}$%%qf%%$\ce{R-CH=CH-R (trans alkene)}$^fromalkynestotransalkenes
@@ -93,6 +94,7 @@ $\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$%%qf%%$\c
 #### Alcoholic Substitution 
 
 $\ce{R=R ->[Cold KMnO_{4}][aq.OH-]}$ %%qf%%$\ce{R(-OH)-R(-OH) }$^fromalkenestodiols
+<!--SR:!2025-03-31,4,270-->
 
 - This reaction is a **syn addition** ( both OH are attached at same side )
 ## To Alkyl Halides

@@ -131,6 +131,7 @@ $$
 ## Isomerisation
 
 $\ce{CH_{3}-(CH_{2})4-CH_{3}->[anhy. AlCl_{3}][HCl]}$%%qf%%$\ce{CH_{3}-CH(CH_{3})-(CH_{2})2-CH_{3}}$ ( Isomerisation ) ^isomerisation
+<!--SR:!2025-03-31,4,270-->
 - In Isomerisation, $\ce{anhy. AlCl_{3}}/HCl$ converts **n-Alkanes** only to other isomers by attaching the Methyl group to other places
 - Only report the major products as minor products are generally not reported
 

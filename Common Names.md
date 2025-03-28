@@ -4,6 +4,7 @@ This file has #organic Flashcards!
 ```smiles
 C1=C-C=C-C=C(C)1.C(C)1=C-C=C-C=C1
 ```
+<!--SR:!2025-03-31,4,270-->
 
 %%ef%%
 ___
@@ -28,6 +29,7 @@ ___
 ```smiles
 C1=CC=CC=C1C(=O)OOC(=O)C2=CC=CC=C2
 ```
+<!--SR:!2025-03-31,4,270-->
 %%ef%%
 ___
 # Hydrazine
@@ -131,6 +133,7 @@ ___
 ```smiles
 OCC(O)C1OC(=O)C(O)=C1O
 ```
+<!--SR:!2025-03-31,4,270-->
 %%ef%%
 ___
 

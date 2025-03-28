@@ -36,6 +36,7 @@ $\ce{CH_{3}-C#CH ->[O_{3}][Me_{2}S]}$%%qf%%$\ce{CH_{3}-C(O)-C(O)-H}$
 ## Alkynes to Halogens
 
 $\ce{R-C#C-R ->[X_{2}][CCl_{4}]}$%%qf%%$\ce{R-C(X)=C(X)-R}$ ^fromalkynestotetrahalides
+<!--SR:!2025-03-31,4,270-->
 
 $\ce{R-C(X)=C(X)-R ->[X_{2}][CCl_{4}]}$%%qf%%$\ce{R-C(X)_{2}-C(X)_{2}-R}$
 
@@ -47,6 +48,7 @@ $\ce{R-C(X)=C(X)-R ->[X_{2}][CCl_{4}]}$%%qf%%$\ce{R-C(X)_{2}-C(X)_{2}-R}$
 $\ce{HC#CH ->[dil. HgSO_{4}][H_{2}SO_{4}]}$%%qf%%$\ce{CH_{2}=CH-OH ->[Instantly] CH_{3}-CHO}$^fromalkynestoenolstoketones
 
 $\ce{R-C#CH ->[dil. HgSO_{4}][H_{2}SO_{4}]}$%%qf%%$\ce{ R-C(-OH)=CH_{2} ->[Instantly] R-C(=O)-CH_{3}}$
+<!--SR:!2025-03-31,4,270-->
 
 - Polarize the alkyne such that the Carbocation is stable
 - **Never** end the reaction at enol and move forward to forming Keto-form unless enol form is more stable due to aromaticity or other reasons
