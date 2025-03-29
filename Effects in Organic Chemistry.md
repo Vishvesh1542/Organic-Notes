@@ -1,6 +1,6 @@
 # Mind Map
 
-## Inductive Effect ($\ce{I}$)
+## Inductive Effect (I)
 
 - Definition- **"Polarization of $\ce{\sigma}$ bond due to polarization of adjacent $\ce{\sigma}$ bond"**
 - It is the effect that is distant dependent and works for $\ce{\sigma}$ bonded electrons
@@ -8,7 +8,7 @@
 - to compare Inductive effect we use **DNS** priority rule ( Distance > Number > Size )
 - It is of 2 types, $\ce{+I}$ ( dene wala ) and $\ce{-I}$ ( lene wala )
 - Reference to determine + or - $\ce{I}$ is $\ce{-CH_{2}-Cl}$
-### Order of -$\ce{I}$
+### Order of -I
 
 $\ce{NF_{3}+ > NR_{3}+ > SR_{2}+ > NH_{3}+}$ %% Charged Species > others %%
 $\ce{NO_{2} > SO_{3}H > CN > -HC=O > -C(=O)-  > -COOH }$ 
@@ -18,7 +18,7 @@ $\ce{-OR > -OH > -C#CH > NH_{2} > -PH > -CH=CH_{2} > H}$ %%H is reference%%
 
 $\ce{-CH_{2}^- > -NH^- > -O^- > -COO^- > CR_{3} > CR_{2}H > CRH_{2} > CH_{3} > D > H}$
 
-## Resonance / Mesomeric effect ( $\ce{R or M}$ )
+## Resonance / Mesomeric effect ( R or M)
 
 - Definition- **"Phenomena of delocalization of conjugated $\pi$ electrons"**
 - When single structure cant explain all properties of molecule we use resonance structures
@@ -60,7 +60,7 @@ $$\ce{1 + \left(\frac{no. of \pi\ bond}{no. of \sigma\ bonds in the system}  \ri
 |   Anthracene   |            84             |
 |  Phenanthrene  |            92             |
 | Buta-1,3-diene |             4             |
-### Order of $\ce{+M}$ 
+### Order of +M
 
 $\ce{C- > N- > O- >}$ %% Charged species always first %%
 $\ce{-NH_{2} > -NHR > -NR_{2} >}$ %% Steric crowding %%
@@ -70,7 +70,7 @@ $\ce{-Ph > -C#C > -C=C >}$ %% more number of pi bonds %%
 $\ce{-F > -Cl > -Br > -I >}$ %% overlapping of orbitals > Electronegativity %%
 $\ce{-N=C}$ %% intramolecular resonance %%
 
-### Order of $\ce{-M}$
+### Order of -M
 
 $\ce{-NO_{2} > -CN > -SO_{3}H >}$ %% top 3 experimentally %%
 $\ce{-CHO > -C(=O)R > -C(=O)-O-C(=O)-R > -C(=O)-OR > -C(=O)-NH_{2} > -C(=O)-O- }$ %% intra-resonance + electronegativity %%
