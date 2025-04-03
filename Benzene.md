@@ -4,7 +4,6 @@ This file has flashcards in #organic
 ## Polymerization of Acetylene
 
 $\ce{HC#CH ->[Red hot Fe tube][873K]}$ %%qf%% $\ce{C_{6}H_{6}}$^acetylenetobenzene
-<!--SR:!2025-03-31,4,270-->
 
 
 ## Decarboxylation
@@ -32,7 +31,6 @@ $\ce{Ph-Cl + 2Na + Cl-Ph ->[Dry Ether]}$%%qf%% $\ce{Ph-Ph + 2NaCl}$ ^fittingreac
 ## Wurtz-Fitting Reaction
 
 $\ce{Ph-Cl + 2Na + Cl-CH_{3} ->[Dry Ether]}$%%qf%% $\ce{Ph-CH_{3} + 2NaCl}$ ^wurtzfittingreaction
-<!--SR:!2025-03-31,4,270-->
 
 ```smiles
 C1=CC=CC=C1Cl.[Na].ClC>>C1=CC=CC=C1C.[Na][Cl]
@@ -41,9 +39,9 @@ C1=CC=CC=C1Cl.[Na].ClC>>C1=CC=CC=C1C.[Na][Cl]
 ## Friedel Craft Alkylation
 
 $\ce{C_{6}H_{6} + Alkyl Halide ->[AlCl_{3}][ or FeCl_{3}]}$%%qf%% $\ce{Alkyl substituted Benzene}$^Friedelcraftalkylation
-<!--SR:!2025-03-31,4,270-->
 
 - For $\ce{AlCl_{3}}$ reaction follows **Carbocation ( $\ce{C+}$ )** pathway and for $\ce{FeCl_{3}}$ no notable pathway
+- We can also use $\ce{Fe}$ as a reagent.
 
 ##### Limitations of Friedel craft Alkylation
 
