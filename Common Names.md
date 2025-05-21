@@ -40,7 +40,7 @@ ___
 # Ethylene Glycol
 %%sf%%
 ```smiles
-O-C-C-O.O-C-C-O
+OCCO.OCCO
 ```
 %%ef%%
 ___
@@ -147,3 +147,4 @@ ___
 CC(=O)OC1=CC=CC=C1C(=O)O
 ```
 %%ef%%
+

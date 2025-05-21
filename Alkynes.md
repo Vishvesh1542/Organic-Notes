@@ -27,6 +27,7 @@ $\ce{X-CH_{2}-CH_{2}-X ->[1)Alc.KOH \Delta][2)NaNH_{2}]}$%%qf%%$\ce{CH#CH}$ ^fro
 
 ## Ozonolysis
 $\ce{CH_{3}-C#CH ->[O_{3}][Me_{2}S]}$%%qf%%$\ce{CH_{3}-C(O)-C(O)-H}$
+$\ce{CH_{3}-CH#CH_{2} ->[O_{3}][H_{2}O]}$%%qf%%$\ce{CH_{3}-CH(O)-C(O)H -> CH_{3}COOH + HCOOH}$ ^ozonolysisofalkynesesoxidative
 - Only 2 bonds break and the single bond remains
 - If you have Oxidative ozonolysis, convert aldehydes to Ketones and break $\ce{C-C}$ bond to form carboxylic acids if needed
 

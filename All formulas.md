@@ -68,11 +68,10 @@ ___
 # Alkynes
 ## Formation
 
-1. ![[Alkenes#^ozonolysisofalkynesesoxidative]]
 ---
-2. ![[Alkynes#^fromcalciumcarbidetoalkynes]]
+1. ![[Alkynes#^fromcalciumcarbidetoalkynes]]
 ---
-3. ![[Alkynes#^fromvicinaldihalidestoalkynes]]
+2. ![[Alkynes#^fromvicinaldihalidestoalkynes]]
 ---
 ## Reactions
 ---
@@ -81,7 +80,7 @@ ___
 2. ![[Alkynes#^fromalkynestotetrahalides]]
 ---
 3. ![[Alkynes#^fromalkynestoenolstoketones]]
-
+ 4. ![[Alkenes#^ozonolysisofalkynesesoxidative]]
 # Benzene
 
 ## Formation 
