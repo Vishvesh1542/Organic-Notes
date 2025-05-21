@@ -148,13 +148,13 @@ CC(=O)OC1=CC=CC=C1C(=O)O
 ```
 %%ef%%
 
-<<<<<<< HEAD
-=======
+---
 # Cresol
 %%sf%%
 ```smiles
 CC1=CC=C(C=C1)O
 ```
-
+- it can be o-cresol, m-cresol and p-cresol. This is para cresol
 %%ef%%
->>>>>>> origin/main
+
+

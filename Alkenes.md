@@ -1,5 +1,4 @@
 This note is included in #organic
-- [ ] Add Hydroboration-Oxidation to Vishvesh (@2025-02-14)
 # Formation of Alkenes
 
 ## From Alkynes
@@ -76,7 +75,6 @@ $\ce{CH_{3}-CH=CH_{2} ->[H_{2}O / H+]}$%%qf%%$\ce{CH_{3}-C(OH)-CH_{3}}$ ^hydrati
 
 #### Oxymercuration-Demercuration
 
-
 $\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}]}$%%qf%%$\ce{ CH_{3}-CH(OH)-CH_{3}}$ ^oxymercurationdemercuration
 - $\ce{OH}$ always attaches to the $\ce{C}$ which has the lower number of $\ce{H}$ attached
 - Also called **Marconikoff product**
@@ -88,7 +86,8 @@ $\ce{CH_{3}-CH=CH_{2} ->[(i) Hg(OAC)2][(ii) H_{2}O \newline (iii) NaBH_{4}]}$%%q
 $\ce{CH_{3}-CH=CH_{3} ->[(i) B_{2}H_{6} / THF][(ii) H_{2}O_{2} / OH-]}$%%qf%%$\ce{ CH_{3}-CH_{2}-CH_{2}-OH}$ ^hydroborationoxidation
 
 - This is **Anti Marconikoff product**. OH attaches to that C atom which has the higher number of H attached to it.
-
+#### Mechanism
+- [[Hydroboration-Oxidation Mechanism| Good luck this is the mechanism]]
 
 #### Alcoholic Substitution 
 
