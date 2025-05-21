@@ -148,3 +148,13 @@ CC(=O)OC1=CC=CC=C1C(=O)O
 ```
 %%ef%%
 
+<<<<<<< HEAD
+=======
+# Cresol
+%%sf%%
+```smiles
+CC1=CC=C(C=C1)O
+```
+
+%%ef%%
+>>>>>>> origin/main
