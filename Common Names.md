@@ -147,3 +147,11 @@ ___
 CC(=O)OC1=CC=CC=C1C(=O)O
 ```
 %%ef%%
+
+# Cresol
+%%sf%%
+```smiles
+CC1=CC=C(C=C1)O
+```
+
+%%ef%%
