@@ -1,11 +1,9 @@
-This file has flashcards in #organic
+-This file has flashcards in #organic
 # Formation of Benzene
 
 ## Polymerization of Acetylene
 
 $\ce{HC#CH ->[Red hot Fe tube][873K]}$ %%qf%% $\ce{C_{6}H_{6}}$^acetylenetobenzene
-
-
 ## Decarboxylation
 
 $\ce{C_{6}H_{5}-COONa +NaOH ->[CaO]}$%%qf%%$\ce{C_{6}H_{6}}$^decarboxylationtoformbenzene
