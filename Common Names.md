@@ -158,3 +158,35 @@ CC1=CC=C(C=C1)O
 %%ef%%
 
 
+--- 
+# OTS
+%%sf%%
+![[OTS]]
+- It's full name is "P-Toluene Sulfonate
+- Or $\ce{O-}$Tosylate
+- $O^-TS$
+%%ef%%
+
+---
+# DMSO
+%%sf%%
+```smiles
+C-S(=O)-C.C-S(=O)-C
+```
+- Di-methyl Sulphoxide
+%%ef%%
+
+---
+# DMF 
+%%sf%%
+![[DMF]]
+- Di-methyl-formamide
+%%ef%%
+
+---
+# DMA
+%%sf%%
+![[DMA]]
+- Dimethyl-Acetamide
+%%ef%%
+---
