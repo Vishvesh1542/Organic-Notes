@@ -76,5 +76,3 @@ $\ce{-NO_{2} > -CN > -SO_{3}H >}$ %% top 3 experimentally %%
 $\ce{-CHO > -C(=O)R > -C(=O)-O-C(=O)-R > -C(=O)-OR > -C(=O)-NH_{2} > -C(=O)-O- }$ %% intra-resonance + electronegativity %%
 $\ce{ > -C#C > -Ph > -C=C}$ %% Electronegativity %%
 
-
-
