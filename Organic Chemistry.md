@@ -13,6 +13,7 @@ All related files:
 [[Alkynes]]
 [[Benzene]]
 [[Reagents]]
+[[Effects in Organic Chemistry]]
 [[Reactions.canvas|Reactions]]
 
 Credits: 

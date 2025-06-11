@@ -17,8 +17,8 @@ $\ce{-OR > -OH > -C#CH > NH_{2} > -PH > -CH=CH_{2} > H}$ %%H is reference%%
 ### Order of +I
 
 $\ce{-CH_{2}^- > -NH^- > -O^- > -COO^- > CR_{3} > CR_{2}H > CRH_{2} > CH_{3} > D > H}$
-
-## Resonance / Mesomeric effect ( R or M)
+%%  %%
+## Resonance / Mesomeric effect ( R or M )
 
 - Definition- **"Phenomena of delocalization of conjugated $\pi$ electrons"**
 - When single structure cant explain all properties of molecule we use resonance structures
