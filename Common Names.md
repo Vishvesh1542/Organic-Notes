@@ -1,33 +1,24 @@
 This file has #organic Flashcards!
 # Toluene
 %%sf%%
-```smiles
-C1=C-C=C-C=C(C)1.C(C)1=C-C=C-C=C1
-```
-
+![[Toluene]]
 %%ef%%
 ___
 # Furan
 %%sf%%
-```smiles
-O1C=CC=C1.C1=CC=CO1
-```
+![[Furan]]
 
 %%ef%%
 ___
 # Tetra Hydro Furan ( THF )
 %%sf%%
-```smiles
-O1CCCC1.C1CCCO1
-```
+![[THF]]
 
 %%ef%%
 ___
 # Benzoic Peroxide
 %%sf%%
-```smiles
-C1=CC=CC=C1C(=O)OOC(=O)C2=CC=CC=C2
-```
+![[Benzoic Peroxide]]
 %%ef%%
 ___
 # Hydrazine
@@ -69,26 +60,19 @@ C(Cl)(Cl)-C.C-C(F)(F)
 ___
 # Mesitylene
 %%sf%%
-
-```smiles
-C1(C)=C-C(C)=C-C(C)=C1.C1=C(C)-C=C(C)-C=C1(C)
-```
+![[Mesitylene]]
 %%ef%%
 ___
 # Cumene
 %%sf%%
 
-```smiles
-C1(C(C)(C))=C-C=C-C=C1.C1=C-C=C(C(C)(C))-C=C1
-```
+![[Cumene]]
 
 %%ef%%
 ___
 # Peri acetic Acid / Peracid
 %%sf%%
-```smiles
-CC(=O)OO[H].[H]OO(=O)CC
-```
+![[Peroxy Acetic Acid]]
 
 %%ef%%
 ___
