@@ -1,4 +1,4 @@
-Part of #organic 
+  Part of #organic 
 
 - $\ce{R-Mg-X}$ is called Grignard's reagent ( Where R can be almost anything )
 - Example: $\ce{CH_{3}-Mg-Br}$ 
