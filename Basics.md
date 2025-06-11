@@ -5,4 +5,5 @@ node_size: 25
 [[Effects in Organic Chemistry]]
 
 [[C+ Stability]]
+[[C free radical Stability]]
 [[Grignard's Reagent]]
