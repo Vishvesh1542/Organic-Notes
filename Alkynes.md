@@ -51,3 +51,9 @@ $\ce{R-C#CH ->[dil. HgSO_{4}][H_{2}SO_{4}]}$%%qf%%$\ce{ R-C(-OH)=CH_{2} ->[Insta
 
 - Polarize the alkyne such that the Carbocation is stable
 - **Never** end the reaction at enol and move forward to forming Keto-form unless enol form is more stable due to aromaticity or other reasons
+
+## Acid Base Reactions
+
+- When there is like strong base present with a terminal alkyne then acid base reaction is possible, so salt formation takes place
+
+$\ce{R-C#CH ->[stronk base]}$ %%qf%% $\ce{R-C#C^{-}}$^acidbaseofalkynes

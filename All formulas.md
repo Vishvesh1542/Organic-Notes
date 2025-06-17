@@ -81,6 +81,8 @@ ___
 ---
 3. ![[Alkynes#^fromalkynestoenolstoketones]]
  4. ![[Alkenes#^ozonolysisofalkynesesoxidative]]
+ ---
+ 5. ![[Alkynes#^acidbaseofalkynes]]
 # Benzene
 
 ## Formation 
