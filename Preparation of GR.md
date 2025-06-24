@@ -1,3 +1,5 @@
+#organic flashcards here!
+
 $\ce{R-X + Mg ->[dry][ether]}$%%qf%%$\ce{R-MgX}$
 
 $\ce{CH_{3}^{\delta+}-Br^{\delta-} + Mg->[dry][ether]}$%%qf%%$\ce{CH_{3}^{\delta-}-Mg^{\delta+}X}$
