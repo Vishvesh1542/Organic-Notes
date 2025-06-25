@@ -1,3 +1,4 @@
+#organic
 - A test is basically a reaction which is used to determine the functional group or properties of the molecule
 - A test ALWAYS has an observation which tells us the result, this could be color changing, funky smell. cloudiness or EXPLOSION 
 
