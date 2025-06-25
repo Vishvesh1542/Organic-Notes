@@ -1,3 +1,0 @@
-- [x] Testing liveSync
-- [x] ping
-- [x] pong

@@ -11,9 +11,12 @@
 - Resonance only occurs in **Planar systems**
 - Net charge, arrangement of atoms, number of paired and unpaired electrons, hybridization of an atom all remain unchanged
 - Do NOT exceed octet of 2nd period elements in resonance
+
+### Determining Bond order and charge
 - In molecules where all resonance structures are equal, net charge can be calculated on each atom and bond order given by
 %%sf%%
 $$\ce{1 + \left(\frac{no. of \pi\ bond}{no. of \sigma\ bonds in the system}  \right) = \frac{No. of bonds in resonance}{No. of resonance structures}}$$
+<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ### Rules to determine stability of Resonance Structures
 %%sf%%
@@ -24,10 +27,11 @@ $$\ce{1 + \left(\frac{no. of \pi\ bond}{no. of \sigma\ bonds in the system}  \ri
    - Comparison along group $\implies$ Size dominates
    - Comparison in period $\implies$ E.N dominates
 5. Aromatic R.S are more stable
-6. 
+6.
    - Negative charge gets stabilized by $\ce{E-}$ withdrawing groups
    - Positive charge gets stabilized by $\ce{E+}$ donating groups
 1. Linear Conjugation $>$ Cross Conjugation
+<!--SR:!2025-06-25,1,230-->
  %%ef%%
 ### Resonance Energy
 
@@ -41,6 +45,7 @@ $$\ce{1 + \left(\frac{no. of \pi\ bond}{no. of \sigma\ bonds in the system}  \ri
 |   Anthracene   |            84             |
 |  Phenanthrene  |            92             |
 | Buta-1,3-diene |             4             |
+
 ### Order of +M
 %%sf%%
 $\ce{C- > N- > O- >}$ %% Charged species always first %%
@@ -50,10 +55,12 @@ $\ce{-NH-C(=O)-R > -O-C(=O)-R >}$ %% Electronegativity %%
 $\ce{-Ph > -C#C > -C=C >}$ %% more number of pi bonds %%
 $\ce{-F > -Cl > -Br > -I >}$ %% overlapping of orbitals > Electronegativity %%
 $\ce{-N=C}$ %% intramolecular resonance %%
+<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ### Order of -M
 %%sf%%
 $\ce{-NO_{2} > -CN > -SO_{3}H >}$ %% top 3 experimentally %%
 $\ce{-CHO > -C(=O)R > -C(=O)-O-C(=O)-R > -C(=O)-OR > -C(=O)-NH_{2} > -C(=O)-O- }$ %% intra-resonance + electronegativity %%
 $\ce{ > -C#C > -Ph > -C=C}$ %% Electronegativity %%
+<!--SR:!2025-06-28,4,270-->
 %%ef%%

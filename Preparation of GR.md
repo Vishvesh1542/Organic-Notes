@@ -1,8 +1,10 @@
 #organic flashcards here!
 
 $\ce{R-X + Mg ->[dry][ether]}$%%qf%%$\ce{R-MgX}$
+<!--SR:!2025-06-28,4,270-->
 
 $\ce{CH_{3}^{\delta+}-Br^{\delta-} + Mg->[dry][ether]}$%%qf%%$\ce{CH_{3}^{\delta-}-Mg^{\delta+}X}$
+<!--SR:!2025-06-28,4,270-->
 - The Carbon has a $\ce{\delta+}$ before and has a $\ce{\delta-}$ charge ( it's polarity changed ). 
 - This type of things are called **Umpolung Reaction** 
 

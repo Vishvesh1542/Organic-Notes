@@ -4,16 +4,20 @@
 ## From Calcium Carbide
 
 $\ce{CaCO_{3} ->[\Delta]}$%%qf%%$\ce{CaO + CO_{2}}$
+<!--SR:!2025-06-28,4,270-->
 
 $\ce{CaO + 2C ->}$%%qf%% $\ce{CaC_{2} + CO}$
+<!--SR:!2025-06-28,4,270-->
 
 $\ce{CaC_{2} + 2H_{2}O ->}$%%qf%%$\ce{HC#CH + Ca(OH)_{2}}$ ^fromcalciumcarbidetoalkynes
+<!--SR:!2025-06-28,4,270-->
 
 - Reaction of Calcium carbide( $\ce{CaC_{2}}$ ) with water is **Metathesis Reaction** ( Oxidation number doesn't change )
 
 ## From Vicinal Dihalides
 
 $\ce{X-CH_{2}-CH_{2}-X ->[1)Alc.KOH \Delta][2)NaNH_{2}]}$%%qf%%$\ce{CH#CH}$ ^fromvicinaldihalidestoalkynes
+<!--SR:!2025-06-28,4,270-->
 - For vicinal dihalides we make use of strong bases ( $\ce{NaNH_{2}, KOH}$ ) 
 - We can also use 2 Eq. of $\ce{NaNH_{2}}$ from the start for the same result
 - Mechanism [[Alkynes from Vicinal Dihalides Mechanism|Here!]]
@@ -27,7 +31,9 @@ $\ce{X-CH_{2}-CH_{2}-X ->[1)Alc.KOH \Delta][2)NaNH_{2}]}$%%qf%%$\ce{CH#CH}$ ^fro
 
 ## Ozonolysis
 $\ce{CH_{3}-C#CH ->[O_{3}][Me_{2}S]}$%%qf%%$\ce{CH_{3}-C(O)-C(O)-H}$
+<!--SR:!2025-06-28,4,270-->
 $\ce{CH_{3}-CH#CH_{2} ->[O_{3}][H_{2}O]}$%%qf%%$\ce{CH_{3}-CH(O)-C(O)H -> CH_{3}COOH + HCOOH}$ ^ozonolysisofalkynesesoxidative
+<!--SR:!2025-06-28,4,270-->
 - Only 2 bonds break and the single bond remains
 - If you have Oxidative ozonolysis, convert aldehydes to Ketones and break $\ce{C-C}$ bond to form carboxylic acids if needed
 
@@ -37,8 +43,10 @@ $\ce{CH_{3}-CH#CH_{2} ->[O_{3}][H_{2}O]}$%%qf%%$\ce{CH_{3}-CH(O)-C(O)H -> CH_{3}
 ## Alkynes to Halogens
 
 $\ce{R-C#C-R ->[X_{2}][CCl_{4}]}$%%qf%%$\ce{R-C(X)=C(X)-R}$ ^fromalkynestotetrahalides
+<!--SR:!2025-06-28,4,270-->
 
 $\ce{R-C(X)=C(X)-R ->[X_{2}][CCl_{4}]}$%%qf%%$\ce{R-C(X)_{2}-C(X)_{2}-R}$
+<!--SR:!2025-06-28,4,270-->
 
 - Any other non-polar and non reactive solvent can also be used in place of $\ce{CCl_{4}}$ 
 - The reaction is always **Anti Addition** Reaction ( The alkene formed is always trans )
@@ -46,8 +54,10 @@ $\ce{R-C(X)=C(X)-R ->[X_{2}][CCl_{4}]}$%%qf%%$\ce{R-C(X)_{2}-C(X)_{2}-R}$
 ## Alkenes to Enol and Ketone
 
 $\ce{HC#CH ->[dil. HgSO_{4}][H_{2}SO_{4}]}$%%qf%%$\ce{CH_{2}=CH-OH ->[Instantly] CH_{3}-CHO}$^fromalkynestoenolstoketones
+<!--SR:!2025-06-28,4,270-->
 
 $\ce{R-C#CH ->[dil. HgSO_{4}][H_{2}SO_{4}]}$%%qf%%$\ce{ R-C(-OH)=CH_{2} ->[Instantly] R-C(=O)-CH_{3}}$
+<!--SR:!2025-06-28,4,270-->
 
 - Polarize the alkyne such that the Carbocation is stable
 - **Never** end the reaction at enol and move forward to forming Keto-form unless enol form is more stable due to aromaticity or other reasons
@@ -57,3 +67,4 @@ $\ce{R-C#CH ->[dil. HgSO_{4}][H_{2}SO_{4}]}$%%qf%%$\ce{ R-C(-OH)=CH_{2} ->[Insta
 - When there is like strong base present with a terminal alkyne then acid base reaction is possible, so salt formation takes place
 
 $\ce{R-C#CH ->[stronk base]}$ %%qf%% $\ce{R-C#C^{-}}$^acidbaseofalkynes
+<!--SR:!2025-06-28,4,270-->

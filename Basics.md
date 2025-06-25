@@ -1,7 +1,8 @@
 ---
 node_size: 25
 ---
-[[SN¹ Reaction]]
+
+[[SN¹ Mechanism]]
 [[Effects in Organic Chemistry]]
 
 [[C+ Stability]]

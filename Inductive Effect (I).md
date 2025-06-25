@@ -6,15 +6,18 @@
 - to compare Inductive effect we use **DNS** priority rule ( Distance > Number > Size )
 - It is of 2 types, $\ce{+I}$ ( dene wala ) and $\ce{-I}$ ( lene wala )
 - Reference to determine + or - $\ce{I}$ is $\ce{-CH_{2}-Cl}$
+
 ### Order of -I
 %%sf%%
 $\ce{NF_{3}+ > NR_{3}+ > SR_{2}+ > NH_{3}+}$ %% Charged Species > others %%
-$\ce{NO_{2} > SO_{3}H > CN > -HC=O > -C(=O)-  > -COOH }$ 
+$\ce{NO_{2} > SO_{3}H > CN > -HC=O > -C(=O)-  > -COOH }$
 $\ce{F > Cl > Br > I }$  %% Halogens (electronegativity) %%
 $\ce{-OR > -OH > -C#CH > NH_{2} > -PH > -CH=CH_{2} > H}$ %%H is reference%%
+<!--SR:!2025-06-25,1,230-->
 %%ef%%
 ### Order of +I
 %%sf%%
 $\ce{-CH_{2}^- > -NH^- > -O^- > -COO^- > CR_{3} > CR_{2}H > CRH_{2} > CH_{3} > D > H}$
 %% Charged > electronegativity > H %%
+<!--SR:!2025-06-25,1,230-->
 %%ef%%
