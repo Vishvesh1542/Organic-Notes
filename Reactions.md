@@ -16,6 +16,6 @@ All related files:
 [[Reactions.canvas|Reactions]]
 
 Credits: 
-	Vishvesh Raj ( Born in Dubai )
+	Vishvesh Raj 
 	Abhiram Singh
 
