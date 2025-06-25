@@ -56,3 +56,4 @@ $\ce{R-OH + HCl->[ZnCl_{2}]R-Cl}$^lucastest
 	- Turbidity after 10 mins-1 hr => advance 1 degree alcohol
 	- Turbidity after like the earth ends => primary alcohol
 - **Note-** Since this is SN1 mechanism reaction, this test will work for stuff like aromatic alcohols like Phenols so be careful
+%%ef%%
