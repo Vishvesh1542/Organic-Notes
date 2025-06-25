@@ -107,3 +107,19 @@ ___
   5.  ![[Benzene#^Nitrationofbenzene]]
   ---
   6.  ![[Benzene#^Sulphationofbenzene]]
+
+# Tests
+
+1. ![[Tests of Organic Chemistry#^brominewatertestofalkenes]]
+---
+2. ![[Tests of Organic Chemistry#^brominewatertestofalkynes]]
+---
+3. ![[Tests of Organic Chemistry#^bayerreagenttestofalkenes]]
+---
+4. ![[Tests of Organic Chemistry#^bayerreagenttestofalkynes]]
+---
+5. ![[Tests of Organic Chemistry#^tollenstest]]
+---
+6. ![[Tests of Organic Chemistry#^cuprouschloridetest]]
+---
+7. ![[Tests of Organic Chemistry#^lucastest]]
