@@ -3,27 +3,23 @@ This file has #organic Flashcards!
 # Toluene
 %%sf%%
 ![[Toluene]]
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 # Furan
 %%sf%%
 ![[Furan]]
-<!--SR:!2025-06-28,4,270-->
 
 %%ef%%
 ___
 # Tetra Hydro Furan ( THF )
 %%sf%%
 ![[THF]]
-<!--SR:!2025-06-28,4,270-->
 
 %%ef%%
 ___
 # Benzoic Peroxide
 %%sf%%
 ![[Benzoic Peroxide]]
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 # Hydrazine
@@ -31,7 +27,6 @@ ___
 ```smiles
 N-N.N-N
 ```
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 # Ethylene Glycol
@@ -39,7 +34,6 @@ ___
 ```smiles
 OCCO.OCCO
 ```
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 
@@ -48,7 +42,6 @@ ___
 ```smiles
 C(=O)-C(=O).C(=O)-C(=O)
 ```
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 # Vicinal Dihalides
@@ -56,7 +49,6 @@ ___
 ```smiles
 C([H])(Cl)-C([H])(Cl).C(F)([H])-C(F)([H])
 ```
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 # Geminal Dihalides
@@ -64,28 +56,24 @@ ___
 ```smiles
 C(Cl)(Cl)-C.C-C(F)(F)
 ```
-<!--SR:!2025-06-28,4,270-->
 
 %%ef%%
 ___
 # Mesitylene
 %%sf%%
 ![[Mesitylene]]
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 # Cumene
 %%sf%%
 
 ![[Cumene]]
-<!--SR:!2025-06-28,4,270-->
 
 %%ef%%
 ___
 # Peri acetic Acid / Peracid
 %%sf%%
 ![[Peroxy Acetic Acid]]
-<!--SR:!2025-06-28,4,270-->
 
 %%ef%%
 ___
@@ -95,7 +83,6 @@ ___
 C1=CC(C)=CC(C)=C1.C1=CC=C(C)C(C)=C1
 ```
 - Can be o-Xylene, m-Xylene, p-Xylene
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 # Aniline
@@ -103,7 +90,6 @@ ___
 ```smiles
 C1=CC(N)=CC=C1.C1=CC=CC(N)=C1
 ```
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 # Carbolic acid
@@ -111,7 +97,6 @@ ___
 ```smiles
 OC1=CC=CC=C1.C1=CC=CC(O)=C1
 ```
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 # Pyridine
@@ -119,13 +104,11 @@ ___
 ```smiles
 C1=NC=CC=C1.C1=CC=CN=C1
 ```
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 # Picric Acid
 %%sf%%
 ![[Picric acid]]
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 # Ascorbic acid
@@ -133,7 +116,6 @@ ___
 ```smiles
 OCC(O)C1OC(=O)C(O)=C1O
 ```
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 
@@ -142,7 +124,6 @@ ___
 ```smiles
 O=C1CC(=O)NC(=O)N1.O=C1CC(=O)NC(=O)N1
 ```
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ___
 # Aspirin
@@ -150,7 +131,6 @@ ___
 ```smiles
 CC(=O)OC1=CC=CC=C1C(=O)O
 ```
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 
 ---
@@ -160,7 +140,6 @@ CC(=O)OC1=CC=CC=C1C(=O)O
 CC1=CC=C(C=C1)O
 ```
 - it can be o-cresol, m-cresol and p-cresol. This is para cresol
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 
 
@@ -171,7 +150,6 @@ CC1=CC=C(C=C1)O
 - It's full name is "P-Toluene Sulfonate
 - Or $\ce{O-}$Tosylate
 - $O^-TS$
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 
 ---
@@ -181,7 +159,6 @@ CC1=CC=C(C=C1)O
 C-S(=O)-C.C-S(=O)-C
 ```
 - Di-methyl Sulphoxide
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 
 ---
@@ -189,7 +166,6 @@ C-S(=O)-C.C-S(=O)-C
 %%sf%%
 ![[DMF]]
 - Di-methyl-formamide
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 
 ---
@@ -197,13 +173,11 @@ C-S(=O)-C.C-S(=O)-C
 %%sf%%
 ![[DMA]]
 - Dimethyl-Acetamide
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 ---
 # Marshall Acid
 %%sf%%
 ![[Marshall Acid]]
-<!--SR:!2025-06-28,4,270-->
 %%ef%%
 
 ---

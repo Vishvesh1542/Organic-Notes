@@ -21,5 +21,4 @@ In presence of acidic $H+$ it acts as a [[GR as a base | Base]]
 
 - Mostly, it doesn't react with Ether. But with 2 specific ethers, it reacts because of how unstable the ethers are
 - The ethers that Grignard reagent spontaneously reacts with are %%qf%% 3 membered and 4 membered cyclic ether
-<!--SR:!2025-06-28,4,270-->
 ![[GR with Ethers]]
