@@ -1,4 +1,4 @@
-Do flashcards in #metallurgy
+You can #review this note
 # Table
 | Metal      | Compound                | Name      |
 | ---------- | ----------------------- | --------- |
