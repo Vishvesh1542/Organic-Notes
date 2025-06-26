@@ -1,4 +1,4 @@
-This has flashcards in #metallurgy
+fThis has flashcards in #metallurgy
 # Some important Definitions
 ### Minerals
 " The naturally occurring chemical substance in the form of impure materials are called minerals "
