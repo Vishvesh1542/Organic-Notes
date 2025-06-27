@@ -12,7 +12,7 @@
 $\ce{NF_{3}+ > NR_{3}+ > SR_{2}+ > NH_{3}+}$ %% Charged Species > others %%
 $\ce{NO_{2} > SO_{3}H > CN > -HC=O > -C(=O)-  > -COOH }$
 $\ce{F > Cl > Br > I }$  %% Halogens (electronegativity) %%
-$\ce{-OR > -OH > -C#CH > NH_{2} > -PH > -CH=CH_{2} > H}$ %%H is reference%%
+$\ce{-OR > -OH > -C#CH > NH_{2} > -Ph > -CH=CH_{2} > H}$ %%H is reference%%
 %%ef%%
 ### Order of +I
 %%sf%%
