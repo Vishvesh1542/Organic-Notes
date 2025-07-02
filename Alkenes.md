@@ -113,6 +113,10 @@ $\ce{CH_{3}-CH=CH_{2} ->[HX]}$%%qf%%$\ce{CH_{3}-CH(X)-CH_{3}}$ ^alkenestoalkylha
 4. $\ce{R-O-O-R}$
 5. $\ce{C_{6}H_{5}-C(=O)-O-O-C(=O)-C_{6}H_{5}}$ -> Benzoic Peroxide
 
+## To Di - Halides
+
+$\ce{R-CH_{2}=CH_{2}=R' ->[X_{2}][CCl_{4}] R-CH_{2}(X)-CH_{2}(X)-R'}$
+- This is anti addition ( Both attack from opposite side )
 ## Electrophilic Substitution
 
 $\ce{R-CH_{2}-CH=CH_{2} + E+X- ->[suitable reagent]}$%%qf%%$\ce{R'-CH(E)-CH_{2}(X)}$^electrophilicsubstitutionofalkenes
