@@ -1,4 +1,9 @@
-fThis has flashcards in #metallurgy
+---
+node_size: 25
+---
+
+This has flashcards in #metallurgy
+Also has a [[Metallurgy.canvas|canvas]]
 # Some important Definitions
 ### Minerals
 " The naturally occurring chemical substance in the form of impure materials are called minerals "
@@ -30,3 +35,15 @@ Below are different types of ores. ( Last updated Jun 25)
 ![[Carbonates#Table|Carbonates]]
 
 ![[Sulphides]]
+
+
+# The processes
+The general idea goes like this:
+## Crushing and Grinding
+- We first select the ore and Crush and grind it.
+- This is called pulverization and is done to remove big rocks
+- It is done in a "ball & mines" machine.
+
+## Concentration of ore
+- Then we remove some impurities from the ore.
+[[Concentration of ore| Different]] methods are used to achieve this 

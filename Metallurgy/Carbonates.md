@@ -6,7 +6,7 @@ You can #review this note
 | **Zinc**             | $\ce{ZnCO_{3}}$          | Calamite  |
 | **Iron**             | $\ce{FeCO_{3}}$          | Sideite   |
 | **Iron & Magnesium** | $\ce{CaCO_{3}.MgCO_{3}}$ | Dolamite  |
-|                      |                          |           |
+| **Lid**              | $\ce{PbCO_{3}}$          | Cerrusite |
 
 # Trick to remember
 Remember this ( The words are in hindi )
