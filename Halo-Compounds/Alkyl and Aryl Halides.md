@@ -5,10 +5,14 @@
 ![[Alkanes#Free Radical Halogenation Disproportionation ( Substitution ) Reaction]]
 ## From Alkenes/Alkynes
 
+![[Alkenes#To Alkyl Halides]]
+
 ![[Alkynes#Alkynes to Halogens]]
 
 ## From Alcohols
-There are 7 ways to [[Preparation Of Alkyl Halids from Alcohol|prepare]]
+
+- There are 7 WHOLE reagents just for this 💀
+- You can check them out [[Preparation Of Alkyl Halides from Alcohol|here!]]
 ## Preparing Fluoroalkanes
 
 $\ce{R-X ->[AgF or CoF_{3}][or Hg_{2}F_{2} or SbF_{3}]}$ %%qf%% $\ce{R-F}$^Swartzreaction
@@ -52,3 +56,26 @@ $\ce{CH_{3}-CH=CH_{2} ->[NBS]}$ %%qf%% $\ce{CH_{2}(-X)-CH=CH_{2}}$^allylichaloge
 - NBS stands for **N-bromo succinamide**
 
 # Preparation of Halo-arenes
+
+- There are n- number of ways to do this
+
+## From Benzene
+
+$\ce{C_{6}H_{6} ->[X_{2}][AlCl_{3} or FeCl_{2}]}$ %%qf%% $\ce{Ph-X + HX}$^halogenationofbenzene
+
+- $\ce{X_{2}}$ can be $\ce{Br_{2} or Cl_{2}}$
+- Intermediate is $\ce{\sigma-complex}$
+
+#### Other reactions 
+
+$\ce{C_{6}H_{6}->[X_{2}][Fe (Dark)]}$ %%qf%% $\ce{Ph-X}$^darkhalogenationofbenzene
+
+$\ce{C_{6}H_{6} ->[Cl_{2} excess][FeCl_{3}]}$ %%qf%% $\ce{C_{6}Cl_{6} (Hexa Chloro Benzene)}$^prepofhexachlorobenzene
+
+$\ce{C_{6}H_{6}->[Cl_{2}][UV,500K]}$ %%sf%% $\ce{C_{6}H_{6}Cl_{6} (gammaxene)}$^prepofgammaxene
+
+## From Aniline
+
+- To do anything with aniline we first convert into the Bhramastra which is **Benzene Diazonium Chloride**
+- More on that [[Preparation Of Aryl Halides from Aniline|here!]]
+

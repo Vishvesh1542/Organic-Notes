@@ -107,6 +107,67 @@ ___
   5.  ![[Benzene#^Nitrationofbenzene]]
   ---
   6.  ![[Benzene#^Sulphationofbenzene]]
+# Alkyl Halides
+
+## Formation
+
+1. ![[Alkanes#^freeradicalhalogenationofalkanes]]
+---
+2. ![[Alkenes#^alkenestoalkylhalides]] 
+---
+3. ![[Alkynes#^fromalkynestotetrahalides]]
+---
+4. ![[Alkyl and Aryl Halides#^Swartzreaction]]
+---
+5. ![[Alkyl and Aryl Halides#^Hunsdieckerreaction]]
+--- 
+6. ![[Alkyl and Aryl Halides#^Finkelsteinreaction]]
+---
+7. ![[Alkyl and Aryl Halides#^allylichalogenationviaX2]]
+---
+8. ![[Alkyl and Aryl Halides#^allylichalogenationviasulfurylchloride]]
+---
+9. ![[Alkyl and Aryl Halides#^allylichalogenationviaNBS]]
+---
+10. ![[Preparation Of Alkyl Halides from Alcohol#^lucasreaction]]
+---
+11. ![[Preparation Of Alkyl Halides from Alcohol#^alcoholtoalkylhalideviaNaBr]]
+---
+12. ![[Preparation Of Alkyl Halides from Alcohol#^alcoholtoalkylhalideviaPX3]]
+--- 
+13. ![[Preparation Of Alkyl Halides from Alcohol#^alcoholtoalkylhalideviaPCl5]]
+---
+14. ![[Preparation Of Alkyl Halides from Alcohol#^alcoholtoalkylhalideviaredP]]
+---
+
+15. ![[Preparation Of Alkyl Halides from Alcohol#^darjenmethod]]
+---
+16. ![[Preparation Of Alkyl Halides from Alcohol#^darjenmethodpyridine]]
+
+# Aryl Halide
+
+## Formation
+
+1. ![[Alkyl and Aryl Halides#^halogenationofbenzene]]
+---
+2. ![[Alkyl and Aryl Halides#^darkhalogenationofbenzene]]
+---
+3.  ![[Alkyl and Aryl Halides#^prepofhexachlorobenzene]]
+---
+4.  ![[Alkyl and Aryl Halides#^prepofgammaxene]]
+---
+5. ![[Preparation Of Aryl Halides from Aniline#^gattermannreaction]]
+---
+6. ![[Preparation Of Aryl Halides from Aniline#^sandmeyerreactionforarylbenzene1]]
+---
+7. ![[Preparation Of Aryl Halides from Aniline#^sandmeyerreactionforarylbenzene2]]
+---
+8. ![[Preparation Of Aryl Halides from Aniline#^iodobenzenefromaniline]]
+---
+9. ![[Preparation Of Aryl Halides from Aniline#^prepofflourobenzene]]
+
+
+
 
 # Tests
 
