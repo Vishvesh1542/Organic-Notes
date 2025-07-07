@@ -60,6 +60,10 @@ $\ce{RCOONa + NaOH ->[CaO]}$%%qf%%$\ce{ Na_{2}CO_{3} + RH }$ ^fromcarboxylicacid
   - $\ce{RCOO-}$ wants $\ce{H+}$ from water to form stable $\ce{RCOOH}$ but $\ce{NaOH}$ prevents this and forms $\ce{RCOONa}$ to get pure product
 - Read the mechanism [[Soda-Lime Decarboxylation Mechanism|here]]
 
+##### Note
+
+- There are 2 molecules that readily lose $\ce{CO_{2}}$ on heating, they are %%qf%%  **Beta Keto  Carboxylic Acids** and **Geminal Dicarboxylic acids**
+- There is also 1 molecule that readily loses $\ce{H_{2}O}$ on heating which is %%qf%% **Vicinal Dicarboxylic acids**
 ## From Aldehydes and Ketones
 ![[Alkanes from Aldehydes and Ketones]] ^fromaldehydesandketonestoalkanes
 - There are two methods in preparing Alkanes from Aldehydes and Ketones
