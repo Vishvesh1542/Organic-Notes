@@ -79,3 +79,22 @@ $\ce{C_{6}H_{6}->[Cl_{2}][UV,500K]}$ %%sf%% $\ce{C_{6}H_{6}Cl_{6} (gammaxene)}$^
 - To do anything with aniline we first convert into the Bhramastra which is **Benzene Diazonium Chloride**
 - More on that [[Preparation Of Aryl Halides from Aniline|here!]]
 
+# Reactions of Haloalkanes
+
+- Alkyl halides show 3 types of reactions
+	1.  Nucleophilic Substitution reaction
+	2. Elimination reactions
+	3. Reaction with metals
+
+## Nucleophilic substitution reactions
+
+- These come in variety of different mechanisms, the ones we know are $\ce{SN_{1}}$ , $\ce{SN_{2}}$ , $\ce{SN_{i}}$ , $\ce{SN_{2}Th}$ and $\ce{SN_{{NGP}}}$ 
+
+- Watch $\ce{SN_{1}}$ for yourself [[SN¹ Mechanism|here!]]
+- Analyze $\ce{SN_{2}}$ for yourself [[SN² Mechanism|right here!]]
+- Watch $\ce{SN_{i}}$ for yourself [[SN¹ Mechanism|here!]]
+- Watch $\ce{SN_{2}Th}$ for yourself [[SN¹ Mechanism|here!]]
+- Watch $\ce{SN_{NGP}}$ for yourself [[SN¹ Mechanism|here!]]
+
+
+

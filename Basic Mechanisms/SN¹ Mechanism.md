@@ -5,7 +5,7 @@
 
 ## Reaction itself
 
-$\ce{CH_{3}-CH_{2}-CH_{2}-LG + Nu- ->[Weak Nu-][SN^1]}$ $\ce{CH_{3}-CH(Nu)-CH_{3} + LG-}$ 
+$\ce{CH_{3}-CH_{2}-CH_{2}-LG + Nu- ->[Weak Nu-][SN_{1}]}$ $\ce{CH_{3}-CH(Nu)-CH_{3} + LG-}$ 
 
 - Here $\ce{LG}$ is leaving group, $\ce{Nu}$ is nucleophile and $\ce{R}$ is alkyl chain
 ### Mechanism
@@ -49,7 +49,7 @@ $\ce{R+(Rearranged) + Nu- -> R-Nu}$
 
 #### 3) Nature of Solvent
 
-- **Polar Aprotic Solvents** are preferred as they have high dielectric constant which can polarize the $\ce{R-LG}$ bond easily making leaving group go away faster
+- **Polar Protic Solvents** are preferred as they have high dielectric constant which can polarize the $\ce{R-LG}$ bond easily making leaving group go away faster
 - They are also useful as after leaving group leaves it is CAGED by the solvent molecules unable to react with substrate again so make reaction go backward
 
 #### 4) Nature of Nucleophile

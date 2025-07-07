@@ -11,6 +11,16 @@ $\ce{C_{6}H_{5}-COONa +NaOH ->[CaO]}$%%qf%%$\ce{C_{6}H_{6}}$^decarboxylationtofo
 ## Reducing Phenol
 
 $\ce{C_{6}H_{5}OH ->[Zn]}$%%qf%%$\ce{C_{6}H_{6}}$^phenoltobenzene
+
+## Making Mesitylene ( Tri methyl Benzene )
+
+$\ce{CH_{3}-C#CH ->[Red hot Fe tube][873K]}$ %%qf%% $\ce{Mesitylene}$
+
+- You can see it [[Making Mesitylene|here!]]
+
+$\ce{CH_{3}-C(=O)-CH_{3} ->[conc. H_{2}SO_{4}][\Delta]}$ %%qf%% $\ce{Mesitylene}$
+
+-  Works the same way as the above reaction
 # Reactions of Benzene
 
 - Benzene shows crack reactions but all of them come under **Electrophilic Aromatic Substitution Reaction** and follow 3 steps

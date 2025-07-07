@@ -14,14 +14,14 @@ $\ce{R-OH + NaBr ->[H_{2}SO_{4}]}$ %%qf%% $\ce{R-Br + NaHSO_{4} + H_{2}O}$^alcoh
 
 $\ce{3R-OH + PX_{3}->}$ %%qf%% $\ce{3R-X + H_{3}PO_{3}}$^alcoholtoalkylhalideviaPX3
 
-- Reaction proceeds via SN2 mechanism
+- Reaction proceeds via [[SN² Mechanism]]
 - $\ce{X}$ can be $\ce{Br_{2} or Cl_{2}}$
 
 ### 4) Using Phosphorous pentachloride
 
 $\ce{R-OH + PCl_{5}}$ %%qf%% $\ce{R-Cl + POCl_{3} +HCl}$^alcoholtoalkylhalideviaPCl5
 
-- Mechanism depends on state of $\ce{PCl_{5}}$ its [[SN¹ Mechanism|SN1]] for gas and [[SN2 Mechanism|SN2]] for solid
+- Mechanism depends on state of $\ce{PCl_{5}}$ its $\ce{SN_{i}}$ for gas and [[SN² Mechanism]] for solid
 
 ### 5) Red phosphorous
 
@@ -34,7 +34,7 @@ $\ce{R-OH + SOCl_{2} ->}$ %%qf%% $\ce{R-Cl + SO_{2} + HCl}$^darjenmethod
 
 - Best way to prepare alkyl halide as products are gases so easily purifiable
 - Reaction is called **Darjen's method** and reagent is called **Thionyl Chloride**
-- Reaction proceeds via [[SN¹ Mechanism|SN1]]
+- Reaction proceeds via $\ce{SN_{i}}$
 
 ### 7) Darjen's Method ( Pyridine )
 
@@ -42,4 +42,4 @@ $\ce{R-OH + SOCl_{2} ->[Pyridine]}$ %%qf%% $\ce{R-Cl + SO_{2} + HCl}$^darjenmeth
 
 - Best way to prepare alkyl halide as products are gases so easily purifiable
 - Reaction is called **Darjen's method** and reagent is called **Thionyl Chloride**
-- Reaction proceeds via [[SN2 Mechanism|SN2]]
+- Reaction proceeds via [[SN² Mechanism]]
