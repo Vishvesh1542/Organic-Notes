@@ -1,0 +1,4 @@
+- It is the process of heating the ore in the absence of $\ce{O_{2}}$
+- Used for $\ce{CaCO_{3} | FeCO_{3} }$ etc.
+- Basically, whatever has oxygen use calcination. 
+- When you don't use [[Roasting |roasting]]!

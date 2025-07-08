@@ -5,3 +5,4 @@ The different ways of concentrating the ore are:
 - [[Magnetic Seperation]]
 - [[Froth Flotation]]
 - [[Leaching]]
+- [[Serpek's process]]

@@ -26,3 +26,7 @@
 - In Friedel Craft Acylation, some molecules like $\ce{(CH_{3})_{3}C-COCl}$ instead of normally forming the acyl cation( $\ce{(CH_{3})_{3}C-C^{+}O}$ ) LOSE Carbon moxoxide to form a more stable Carbocation ($\ce{(CH_{3})_{3}C+ +CO}$)
 	- You can Visualize it [[Friedel Acylation Exception| and question your life here!]]
 	- It also works if the more stable carbocation formed ( in the example t-butyl ) is more stable than t-butyl carbocation ( like aromatic carbocations and dancing resonance carbo cations )
+
+
+
+# METHANOL > WATER (acidity)

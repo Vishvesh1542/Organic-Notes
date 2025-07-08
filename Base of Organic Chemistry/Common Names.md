@@ -187,3 +187,9 @@ C-S(=O)-C.C-S(=O)-C
 ![[Piperidine]]
 %%ef%%
 ___
+# Oximes
+%%sf%%
+$\ce{-C=N-OH}$
+%%ef%%
+
+---

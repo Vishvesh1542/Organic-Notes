@@ -37,7 +37,7 @@ Below are different types of ores. ( Last updated Jun 25)
 ![[Sulphides]]
 
 
-# The processes
+ # The processes
 The general idea goes like this:
 ## Crushing and Grinding
 - We first select the ore and Crush and grind it.
@@ -47,3 +47,7 @@ The general idea goes like this:
 ## Concentration of ore
 - Then we remove some impurities from the ore.
 [[Concentration of ore| Different]] methods are used to achieve this 
+
+
+# Extraction of Metal
+After that, we need to extract the metal. It is very easy to extract the metal from it's oxide. So we try to make oxides [[Extraction of metal |first]]
