@@ -62,8 +62,9 @@ $\ce{RCOONa + NaOH ->[CaO]}$%%qf%%$\ce{ Na_{2}CO_{3} + RH }$ ^fromcarboxylicacid
 
 ##### Note
 
-- There are 2 molecules that readily lose $\ce{CO_{2}}$ on heating, they are %%qf%%  **Beta Keto  Carboxylic Acids** and **Geminal Dicarboxylic acids**
+- There are 3 molecules that readily lose $\ce{CO_{2}}$ on heating, they are %%qf%%  **Beta Keto  Carboxylic Acids** , **Geminal Dicarboxylic acids** and **Beta Unsaturated Carboxylic Acids**
 - There is also 1 molecule that readily loses $\ce{H_{2}O}$ on heating which is %%qf%% **Vicinal Dicarboxylic acids**
+- The fanda here is that after losing $\ce{CO_{2}}$ from $\ce{-COOH}$ the carbanion formed is very stable so theoretically many molecules show this but the above are experimentally verified
 ## From Aldehydes and Ketones
 ![[Alkanes from Aldehydes and Ketones]] ^fromaldehydesandketonestoalkanes
 - There are two methods in preparing Alkanes from Aldehydes and Ketones

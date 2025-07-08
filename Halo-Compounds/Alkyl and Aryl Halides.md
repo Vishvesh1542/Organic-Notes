@@ -92,9 +92,7 @@ $\ce{C_{6}H_{6}->[Cl_{2}][UV,500K]}$ %%sf%% $\ce{C_{6}H_{6}Cl_{6} (gammaxene)}$^
 
 - Watch $\ce{SN_{1}}$ for yourself [[SN¹ Mechanism|here!]]
 - Analyze $\ce{SN_{2}}$ for yourself [[SN² Mechanism|right here!]]
-- Watch $\ce{SN_{i}}$ for yourself [[SN¹ Mechanism|here!]]
-- Watch $\ce{SN_{2}Th}$ for yourself [[SN¹ Mechanism|here!]]
-- Watch $\ce{SN_{NGP}}$ for yourself [[SN¹ Mechanism|here!]]
+- Want to know how $\ce{SN_{{i}}}$ , $\ce{SN_{2}Th}$ and $\ce{SN_{NGP}}$ for yourself? , they are basically derivatives of $\ce{SN_{2}}$ so go [[SN² Mechanism|here!]]
 
 
 

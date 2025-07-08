@@ -93,6 +93,11 @@ ___
 ---
 3.  ![[Benzene#^phenoltobenzene]]
 ---
+4. ![[Benzene#^mesitylenefromacetylene]]
+---
+5. ![[Benzene#^mesitylenefromacetone]]
+---
+6. ![[Benzene#^benzenebyaromatization]]
 ## Reactions
 ---
 

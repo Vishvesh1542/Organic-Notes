@@ -14,13 +14,26 @@ $\ce{C_{6}H_{5}OH ->[Zn]}$%%qf%%$\ce{C_{6}H_{6}}$^phenoltobenzene
 
 ## Making Mesitylene ( Tri methyl Benzene )
 
-$\ce{CH_{3}-C#CH ->[Red hot Fe tube][873K]}$ %%qf%% $\ce{Mesitylene}$
+$\ce{CH_{3}-C#CH ->[Red hot Fe tube][873K]}$ %%qf%% $\ce{Mesitylene}$^mesitylenefromacetylene
 
 - You can see it [[Making Mesitylene|here!]]
 
-$\ce{CH_{3}-C(=O)-CH_{3} ->[conc. H_{2}SO_{4}][\Delta]}$ %%qf%% $\ce{Mesitylene}$
+$\ce{CH_{3}-C(=O)-CH_{3} ->[conc. H_{2}SO_{4}][\Delta]}$ %%qf%% $\ce{Mesitylene}$^mesitylenefromacetone
 
 -  Works the same way as the above reaction
+
+## From Alkanes
+
+![[Alkanes#Aromatization]]
+
+## Using Metal
+
+- Yes, if we have metal and heat compounds close to benzene get benzeneified
+
+$\ce{cyclohexa-1,3-diene ->[Sn or Pb][\Delta]}$ %%qf%% $\ce{Benzene}$^benzenebyaromatization
+
+- If we have close to napthalene or other aromatic compound it will get aromatized too and become that aromatic compound
+
 # Reactions of Benzene
 
 - Benzene shows crack reactions but all of them come under **Electrophilic Aromatic Substitution Reaction** and follow 3 steps
