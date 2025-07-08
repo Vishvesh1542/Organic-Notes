@@ -94,5 +94,17 @@ $\ce{C_{6}H_{6}->[Cl_{2}][UV,500K]}$ %%sf%% $\ce{C_{6}H_{6}Cl_{6} (gammaxene)}$^
 - Analyze $\ce{SN_{2}}$ for yourself [[SN² Mechanism|right here!]]
 - Want to know how $\ce{SN_{{i}}}$ , $\ce{SN_{2}Th}$ and $\ce{SN_{NGP}}$ for yourself? , they are basically derivatives of $\ce{SN_{2}}$ so go [[SN² Mechanism|here!]]
 
+## Elimination Reactions
+
+- These also come in variety of different mechanisms, the ones we know are $\ce{E_{1}}$,$\ce{E_{2}}$,$\ce{E_{1CB}}$ and $\ce{Ei}$
+- **BOTH** Substitution and Elimination reactions run parallel to each other ONLY temperature decides which product is major
+
+## Reaction with Metals
+
+- Alkyl halides can react with 
+
+
+
+
 
 
