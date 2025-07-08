@@ -88,7 +88,6 @@ $\ce{R-H + X_{2} ->[h\nu]}$ %%qf%%$\ce{R-X + HX}$^freeradicalhalogenationofalkan
 - Reactivity order in free Radical Halogenation %%qf%%-> $\ce{F_{2} > Cl_{2} > Br_{2} \gg I_{2}}$
 - Read the mechanism [[Free Radical Halogenation Mechanism|here]]
 
-
 ##### Deciding Major products in halogenation of Alkanes-
 
 - To decide major products in Halogenation of alkanes we use **Selectivity Ratios**
