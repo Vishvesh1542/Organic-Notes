@@ -11,8 +11,9 @@
 		{"id":"7e3256510547d91a","type":"file","file":"Metallurgy/Concentration of ore.md","subpath":"#Leaching","x":130,"y":230,"width":400,"height":400},
 		{"id":"b070c89419853aa9","type":"text","text":"For $\\ce{Al | Ag | Au}$ (All A)","x":205,"y":150,"width":250,"height":60},
 		{"id":"e1f44195d4a53e6f","type":"text","text":"$\\ce{Al}$","x":758,"y":122,"width":250,"height":60},
-		{"id":"652c55cb11e2a01f","x":980,"y":320,"width":250,"height":50,"type":"text","text":"White Bauxite"},
-		{"id":"86a2cb7120d380b5","type":"text","text":"Red Bauxite","x":600,"y":310,"width":250,"height":60}
+		{"id":"86a2cb7120d380b5","type":"text","text":"Red Bauxite","x":600,"y":230,"width":250,"height":60},
+		{"id":"652c55cb11e2a01f","type":"text","text":"White Bauxite","x":905,"y":235,"width":250,"height":50},
+		{"id":"6e2980c277669f80","x":830,"y":340,"width":400,"height":400,"type":"file","file":"Metallurgy/Serpek's process.md"}
 	],
 	"edges":[
 		{"id":"82fee30a2394890d","fromNode":"c445c595eec8b884","fromSide":"bottom","toNode":"48af6e41157a8e64","toSide":"top"},
@@ -23,6 +24,7 @@
 		{"id":"6a81b4e059694cc6","fromNode":"48af6e41157a8e64","fromSide":"bottom","toNode":"e1f44195d4a53e6f","toSide":"top"},
 		{"id":"63571c9944d8466a","fromNode":"e1f44195d4a53e6f","fromSide":"bottom","toNode":"86a2cb7120d380b5","toSide":"top"},
 		{"id":"124d9de4030f3ea6","fromNode":"e1f44195d4a53e6f","fromSide":"bottom","toNode":"652c55cb11e2a01f","toSide":"top"},
-		{"id":"00299380b5528534","fromNode":"86a2cb7120d380b5","fromSide":"bottom","toNode":"7e3256510547d91a","toSide":"right"}
+		{"id":"00299380b5528534","fromNode":"86a2cb7120d380b5","fromSide":"bottom","toNode":"7e3256510547d91a","toSide":"right"},
+		{"id":"3b43e7ecabbacd90","fromNode":"652c55cb11e2a01f","fromSide":"bottom","toNode":"6e2980c277669f80","toSide":"top"}
 	]
 }
