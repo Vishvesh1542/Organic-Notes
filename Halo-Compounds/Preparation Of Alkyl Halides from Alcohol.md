@@ -1,3 +1,4 @@
+#organic  flashcards here!
 ### 1) Lucas Reagent
 
 $\ce{R-OH + HCl->[ZnCl_{2}]}$ %%qf%% $\ce{R-Cl + H_{2}O}$^lucasreaction

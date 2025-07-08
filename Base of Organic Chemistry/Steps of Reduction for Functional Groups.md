@@ -86,7 +86,7 @@ $\ce{R-NO_{2}->[RA] R-N=O->[RA]->R-NH-OH->[RA] R-NH_{2}+H_{2}O}$
 
 - Nitro -> Nitroso -> Hydroxy Amine -> Amine
 %%ef%%
-## ASteps of Reduction of zide
+## Steps of Reduction of Azide
 %%sf%%
 $\ce{R-N=N=N->[RA] R-NH_{2}+N_{2}}$
 
