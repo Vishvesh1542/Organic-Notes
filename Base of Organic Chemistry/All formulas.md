@@ -161,15 +161,15 @@ ___
 ---
 4.  ![[Alkyl and Aryl Halides#^prepofgammaxene]]
 ---
-5. ![[Preparation Of Aryl Halides from Aniline#^gattermannreaction]]
+5. ![[Preparation Of Aryl Halides#^gattermannreaction]]
 ---
-6. ![[Preparation Of Aryl Halides from Aniline#^sandmeyerreactionforarylbenzene1]]
+6. ![[Preparation Of Aryl Halides#^sandmeyerreactionforarylbenzene1]]
 ---
-7. ![[Preparation Of Aryl Halides from Aniline#^sandmeyerreactionforarylbenzene2]]
+7. ![[Preparation Of Aryl Halides#^sandmeyerreactionforarylbenzene2]]
 ---
-8. ![[Preparation Of Aryl Halides from Aniline#^iodobenzenefromaniline]]
+8. ![[Preparation Of Aryl Halides#^iodobenzenefromaniline]]
 ---
-9. ![[Preparation Of Aryl Halides from Aniline#^prepofflourobenzene]]
+9. ![[Preparation Of Aryl Halides#^prepofflourobenzene]]
 
 
 

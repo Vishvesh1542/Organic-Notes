@@ -14,7 +14,7 @@ All related files:
 [[Alkynes]]
 [[Alkyl and Aryl Halides]]
 [[Benzene]]
-[[Reagents]]
+[[Redoxants of Organic Chemistry]]
 [[Reactions.canvas|Reactions]]
 
 Credits: 

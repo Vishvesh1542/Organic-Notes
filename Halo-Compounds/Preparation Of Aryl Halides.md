@@ -1,4 +1,27 @@
-- This is a separate note because well aniline is cracked
+#organic  flashcards here!
+
+
+- There are n- number of ways to do this
+
+## From Benzene
+
+$\ce{C_{6}H_{6} ->[X_{2}][AlCl_{3} or FeCl_{2}]}$ %%qf%% $\ce{Ph-X + HX}$^halogenationofbenzene
+
+- $\ce{X_{2}}$ can be $\ce{Br_{2} or Cl_{2}}$
+- Intermediate is $\ce{\sigma-complex}$
+
+#### Other reactions 
+
+$\ce{C_{6}H_{6}->[X_{2}][Fe (Dark)]}$ %%qf%% $\ce{Ph-X}$^darkhalogenationofbenzene
+
+$\ce{C_{6}H_{6} ->[Cl_{2} excess][FeCl_{3}]}$ %%qf%% $\ce{C_{6}Cl_{6} (Hexa Chloro Benzene)}$^prepofhexachlorobenzene
+
+$\ce{C_{6}H_{6}->[Cl_{2}][UV,500K]}$ %%sf%% $\ce{C_{6}H_{6}Cl_{6} (gammaxene)}$^prepofgammaxene
+
+
+## From Aniline
+
+- This is a separate topic because well aniline is cracked
 
 - To do anything with aniline we first convert into the Bhramastra which is **Benzene Diazonium Chloride**
 
