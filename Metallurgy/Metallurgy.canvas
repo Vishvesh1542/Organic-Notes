@@ -2,23 +2,14 @@
 	"nodes":[
 		{"id":"48af6e41157a8e64","type":"text","text":"Concentration of ore","x":-120,"y":-40,"width":250,"height":60},
 		{"id":"c445c595eec8b884","type":"text","text":"Crushing and Grinding\n","x":-120,"y":-180,"width":250,"height":60},
-<<<<<<< HEAD
 		{"id":"0dab37b38c4d0d4c","type":"file","file":"Metallurgy/Hydraulic washing.md","x":-1230,"y":242,"width":400,"height":220},
 		{"id":"596ac002b4b74c90","type":"file","file":"Metallurgy/Froth Flotation.md","x":-345,"y":200,"width":400,"height":482},
-=======
-		{"id":"0dab37b38c4d0d4c","type":"file","file":"Oorganic Chemistry/Metallurgy/Hydraulic washing.md","x":-1230,"y":242,"width":400,"height":220},
-		{"id":"8c3ddfdf2e7b62d6","type":"text","text":"$\\ce{Sn | Pb | Fe}$","x":-1070,"y":170,"width":140,"height":60},
-		{"id":"5128bc140f069174","type":"file","file":"Oorganic Chemistry/Metallurgy/Magnetic Seperation.md","x":-780,"y":242,"width":400,"height":158},
-		{"id":"46238d29acdb570b","type":"text","text":"$\\ce{Fe | SnO_{2}}$","x":-642,"y":180,"width":125,"height":50},
-		{"id":"596ac002b4b74c90","type":"file","file":"Oorganic Chemistry/Metallurgy/Froth Flotation.md","x":-345,"y":200,"width":400,"height":482},
->>>>>>> 06e8282700d6d801b46d522e5bd68c1e904d3c16
 		{"id":"027500c35abb0f20","type":"text","text":"Sulphide $\\ce{S}$ ores","x":-270,"y":120,"width":250,"height":60},
-		{"id":"7e3256510547d91a","type":"file","file":"Oorganic Chemistry/Metallurgy/Leaching.md","x":130,"y":230,"width":400,"height":400},
+		{"id":"7e3256510547d91a","type":"file","file":"Metallurgy/Leaching.md","x":130,"y":230,"width":400,"height":400},
 		{"id":"b070c89419853aa9","type":"text","text":"For $\\ce{Al | Ag | Au}$ (All A)","x":205,"y":150,"width":250,"height":60},
 		{"id":"e1f44195d4a53e6f","type":"text","text":"$\\ce{Al}$","x":758,"y":122,"width":250,"height":60},
 		{"id":"86a2cb7120d380b5","type":"text","text":"Red Bauxite","x":600,"y":230,"width":250,"height":60},
 		{"id":"652c55cb11e2a01f","type":"text","text":"White Bauxite","x":905,"y":235,"width":250,"height":50},
-<<<<<<< HEAD
 		{"id":"3e377eae2a2bd09f","type":"text","text":"Extraction of Metal","x":-120,"y":1000,"width":250,"height":60},
 		{"id":"5128bc140f069174","type":"file","file":"Metallurgy/Magnetic Seperation.md","x":-779,"y":260,"width":400,"height":340},
 		{"id":"8c3ddfdf2e7b62d6","type":"text","text":"$\\ce{Sn | Pb | Fe}$","x":-1080,"y":150,"width":140,"height":60},
@@ -35,9 +26,6 @@
 		{"id":"a57de9c6905715f7","type":"file","file":"Metallurgy/Self reduction.md","x":-468,"y":2380,"width":400,"height":400},
 		{"id":"e5c051d5658337d8","x":-360,"y":2300,"width":250,"height":60,"type":"text","text":"$\\ce{Pb | Cu | Hg}$"},
 		{"id":"c91059a2da8b0be1","x":80,"y":2360,"width":400,"height":400,"type":"file","file":"Metallurgy/Reduction by using other metals.md"}
-=======
-		{"id":"6e2980c277669f80","type":"file","file":"Oorganic Chemistry/Metallurgy/Serpek's process.md","x":830,"y":340,"width":400,"height":400}
->>>>>>> 06e8282700d6d801b46d522e5bd68c1e904d3c16
 	],
 	"edges":[
 		{"id":"82fee30a2394890d","fromNode":"c445c595eec8b884","fromSide":"bottom","toNode":"48af6e41157a8e64","toSide":"top"},

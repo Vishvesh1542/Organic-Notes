@@ -193,3 +193,60 @@ $\ce{-C=N-OH}$
 %%ef%%
 
 ---
+# Hemi - Acetal group
+%%sf%%
+![[Hemi-acetal]]
+%%ef%%
+
+---
+# Hemi - Ketal group
+%%sf%%
+![[Hemi - Ketal]]
+%%ef%%
+
+---
+# Acetal group
+
+%%sf%%
+![[Acetal]]
+%%ef%% 
+
+---
+# Ketal Group
+%%sf%%
+![[Ketal]]
+%%ef%%
+
+---
+# Catechol
+%%sf%%
+```smiles
+Oc1ccccc1O.Oc1ccccc1O
+```
+%%ef%%
+
+---
+# Resorcinol
+%%sf%%
+```smiles
+Oc1cccc(O)c1.Oc1cccc(O)c1
+```
+%%ef%%
+
+---
+# Hydroquinone | Quinol
+%%sf%%
+```smiles
+Oc1ccc(O)cc1.Oc1ccc(O)cc1
+```
+%%ef%%
+
+---
+# Pholoro Glucinol
+%%sf%%
+```smiles
+Oc1cc(O)cc(O)c1.Oc1cc(O)cc(O)c1
+```
+%%ef%%
+
+---
