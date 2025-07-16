@@ -1,4 +1,5 @@
-This file has #organic Flashcards!
+T his file has #organic Flashcards!
+
 
 # Toluene
 %%sf%%
@@ -250,3 +251,11 @@ Oc1cc(O)cc(O)c1.Oc1cc(O)cc(O)c1
 %%ef%%
 
 ---
+
+# Croton Aldehyde
+
+```smiles
+CC=CC(=O)
+```
+
+----
