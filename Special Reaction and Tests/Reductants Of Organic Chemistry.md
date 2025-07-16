@@ -1,6 +1,7 @@
 #organic flashcards HERE!!
 
 - We have Branded THIRTEEN reductants 💀
+- See [[Steps of Reduction for Functional Groups]]
 
 ## 1) $\ce{H_{2} + Pt / Pd / Ni}$ as a Reductant
 %%sf%%
