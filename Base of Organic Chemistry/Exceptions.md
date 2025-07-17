@@ -30,3 +30,29 @@
 
 
 # METHANOL > WATER (acidity)
+
+# Reductants of Organic Chemistry
+
+## $\ce{LiAlH_{4}}$
+
+- For some reason $\ce{LiAlH_{4}}$ decides to not be normal with Nitro-Benzene
+
+$\ce{Ph-NO_{2}->[LiAlH_{4}]}$ %%qf%% $\ce{Ph-N=N-Ph ( Azobenzene )}$^nitrotoazobenzenebyLiAlH4
+
+- For another some reason $\ce{LiAlH_{4}}$ decides to reduce alkene and alkyne of **Cinnamyl** groups even though script says it can't
+- for info $\ce{Ph-CH=CH-R}$ is called cinnamyl group
+
+$\ce{Ph-CH=CH-C(=O)-OH->[LiAlH_{4}]}$ %%qf%% $\ce{Ph-CH_{2}-CH_{2}-CH_{2}OH}$^cinnamyltohydrocarbonbyLiAlH4
+
+## $\ce{NaBH_{4}}$
+
+- God knows why this guy reduces the unsaturation in **$\ce{\alpha,\beta}$ unsaturated Aldehyde/Ketone** 
+- this is party explained by Resonance but still NO unsaturation survives
+
+$\ce{R-CH=CH-C(=O)-R'->[NaBH_{4}]}$ %%qf%% $\ce{R-CH_{2}-CH_{2}-CH_{2}OH}$^NaBH4specialcase1
+
+$\ce{R-CH=CH-C(=O)-CH=CH-R' ->[NaBH_{4}]}$ %%qf%% $\ce{R-CH_{2}-CH_{2}-CH(-OH)-CH_{2}-CH_{2}-R'}$^NaBH4specialcase2
+
+- We have apparently found a workaround for this and now its called **Luche Reduction**
+
+$\ce{R-CH=CH-C(=O)-R'->[NaBH_{4}][CeCl_{3}]}$ %%qf%% $\ce{R-CH=CH-CH_{2}OH}$^LucheReduction
