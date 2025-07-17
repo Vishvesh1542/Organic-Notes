@@ -9,7 +9,7 @@ There are two types of cells:
 
 # Primary Cell
 These are irreversible
-- [[Electrochemistry/Dry Cell|Dry cell]]
+- [[Dry Cell|Dry cell]]
 - [[Mercury Cell]]
 
 # Secondary Cells

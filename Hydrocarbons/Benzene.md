@@ -10,6 +10,8 @@ $\ce{C_{6}H_{5}-COONa +NaOH ->[CaO]}$%%qf%%$\ce{C_{6}H_{6}}$^decarboxylationtofo
 
 ## Reducing Phenol
 
+^e6b583
+
 $\ce{C_{6}H_{5}OH ->[Zn]}$%%qf%%$\ce{C_{6}H_{6}}$^phenoltobenzene
 
 ## Making Mesitylene ( Tri methyl Benzene )
