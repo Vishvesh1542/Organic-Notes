@@ -32,7 +32,7 @@ $\ce{R-C#CH->[NH_{4}OH+AgNO_{3}][or Ag(NH_{3})2OH] R-C#CAg + H_{2}O +NH_{4}NO_{3
 - The reagent is called "Ammoniacal Silver Nitrate in basic medium"
 - **Observation**- $\ce{R-C#CAg}$ is a white precipitate so white color appears
 - **What this tells us**- That terminal alkyne is present in mixture
-- **Note**- Many functional groups show tollen's test so we will be kinda unsure whether its alkyne of something else
+- **Note**- Many functional groups show tollen's test so we will be kinda unsure whether its alkyne of something else ( Ex- Aniline and Phenol also show this test )
 %%ef%%
 
 ## Cuprous Chloride Test ( Test for terminal alkynes )
@@ -57,3 +57,14 @@ $\ce{R-OH + HCl->[ZnCl_{2}]R-Cl}$^lucastest
 	- Turbidity after like the earth ends => primary alcohol
 - **Note-** Since this is SN1 mechanism reaction, this test will work for stuff like aromatic alcohols like Phenols so be careful
 %%ef%%
+
+## Haloform Test ( Test to distinguish certain Molecules )
+%%sf%%
+$\ce{R-C(=O)-CH_{3} + 4NaOH + 3I_{2}-> 3NaI + R-C(=O)-O^{-}Na+ + CHI_{3}}$^iodoformtest
+
+- R is alkyl group or aryl group
+- **Observation** - $\ce{CHI_{3}}$ is a yellow precipitate with antiseptic smell
+- **What this tells us** - That the molecule shows positive iodoform and is a certain type molecule
+%%ef%%
+
+For more info see [[Halo-form reaction]]
