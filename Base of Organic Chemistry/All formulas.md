@@ -1,3 +1,5 @@
+#organic
+
 # Alkanes
 ## Formation
 ---
@@ -189,3 +191,8 @@ ___
 6. ![[Tests of Organic Chemistry#^cuprouschloridetest]]
 ---
 7. ![[Tests of Organic Chemistry#^lucastest]]
+
+---
+# Random reactions 
+$\ce{-C(OH) - ->[PCC]}$%%qf%%$\ce{-C(=O) -}$ ( basically $\ce{OH}$ -> $\ce{=O}$  but doesn't react with $\ce{3\degree}$ alcohols)
+---
