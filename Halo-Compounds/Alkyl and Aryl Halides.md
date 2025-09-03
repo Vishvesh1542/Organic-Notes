@@ -8,8 +8,7 @@
 [[Preparation Of Alkyl Halides from Alcohol]]
 [[Preparation of Allylic or Benzylic Alkyl halides]]
 [[Preparation Of Aryl Halides]]
-[[Preparat]]
-
+[[Reactions of Alkyl Halides]]
 
 
 

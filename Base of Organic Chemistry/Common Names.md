@@ -253,9 +253,33 @@ Oc1cc(O)cc(O)c1.Oc1cc(O)cc(O)c1
 ---
 
 # Croton Aldehyde
+%%sf%%
 
 ```smiles
 CC=CC(=O)
 ```
+%%ef%%
 
 ----
+
+# Mesityl Oxide
+%%sf%%
+```smiles
+C-C(-C)=C-C(=O)-C
+```
+%%ef%%
+
+---
+
+# Paracetamol
+%%sf%%
+![[Paracetamol]]
+%%ef%%
+
+---
+
+# Chloral
+%%sf%%
+```smiles
+Cl-C(-Cl)(-Cl)-C(=O)
+```

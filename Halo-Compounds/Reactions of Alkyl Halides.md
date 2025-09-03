@@ -20,10 +20,22 @@
 
 ## Reaction with Metals
 
-- Alkyl halides can react with metals like $Cu$ and $\ce{Mg}$ to form interesting reagents
+- Alkyl halides can react with metals like $\ce{Ag}$, $\ce{Mg}$ and others to form interesting reagents
 
 ### With Mg
 
 - This forms **Grignard Reagent**
 
 ![[Grignard's Reagent]]
+
+### With Ag
+
+- Alkyl Halides react with Ag in form of $\ce{AgNO_{3}}$ via SN1
+
+$\ce{R-X +AgNO_{3}->[SN_{1}]}$ %%qf%% $\ce{R-NO_{3} + AgX}$^alkylhalideswithAgNO3
+
+- This $\ce{AgX}$ has some cool stuff going on with it
+	 - $\ce{AgF}$ is highly soluble in water
+	 - $\ce{AgCl}$ is white in color
+	 - $\ce{AgBr}$ is pale yellow in color
+	 - $\ce{AgI}$ is yellow in color

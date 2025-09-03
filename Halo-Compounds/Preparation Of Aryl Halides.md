@@ -64,3 +64,5 @@ $\ce{Ph-[N#N]+BF_{4}- ->[\Delta]}$ %%qf%% $\ce{Ph-F +N_{2} + BF_{3}}$^prepofflou
 - This is called **Balz-Schiemann Reaction**
 
 $\ce{Ph-[N#N]+BF_{4}- ->[Cu,NaNO_{2}][\Delta]}$ %%qf%% $\ce{Ph-NO_{2} + NaBF_{4}}$^nitrobenzenefromaniline
+
+- This is also another reaction of this Fluoroborate salt
