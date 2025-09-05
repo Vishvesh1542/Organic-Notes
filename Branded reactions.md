@@ -3,3 +3,5 @@
 
 1. [[Grignard's Reagent]]
 2. [[Halo-form reaction]]
+3. [[Aldol Reaction or Condensation]]
+4. [[Cannizaro Reaction]]

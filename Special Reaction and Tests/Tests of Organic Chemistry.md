@@ -29,10 +29,11 @@ $\ce{R-C#CH->[dil.KMnO_{4}(Cold)][OH-] ->R-C(OH)=CH(OH)}$^bayerreagenttestofalky
 %%sf%%
 $\ce{R-C#CH->[NH_{4}OH+AgNO_{3}][or Ag(NH_{3})2OH] R-C#CAg + H_{2}O +NH_{4}NO_{3}}$^tollenstest
 
-- [x] The reagent is called "Ammoniacal Silver Nitrate in basic mediuma
+-  The reagent is called "Ammoniacal Silver Nitrate in basic medium
 - **Observation**- $\ce{R-C#CAg}$ is a white precipitate so white color appears
 - **What this tells us**- That terminal alkyne is present in mixture
-- **Note**- Many functional groups show tollen's test so we will be kinda unsure whether its alkyne of something else ( Ex- Aniline and Phenol also show this test )
+- **Note**- Many functional groups show tollen's test so we will be kinda unsure whether its alkyne of something else 
+	-  For example, aniline, phenol, aldehyde, ketone, hemiacetal and alpha hydroxy ketone also show this test
 %%ef%%
 
 ## Cuprous Chloride Test ( Test for terminal alkynes )
