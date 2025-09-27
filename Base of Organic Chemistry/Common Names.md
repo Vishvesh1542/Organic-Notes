@@ -283,3 +283,48 @@ C-C(-C)=C-C(=O)-C
 ```smiles
 Cl-C(-Cl)(-Cl)-C(=O)
 ```
+%%ef%%
+
+# Salicylaldehyde
+%%sf%%
+```smiles
+
+```
+```smiles
+C1(O)=C(C(=O))-C=C-C=C1
+```
+%%ef%%
+
+# Salicylic acid
+%%sf%%
+```smiles
+C1(O)=C(C(=O)O)-C=C-C=C1
+```
+%%ef%%
+
+# Oil of Winter Green
+%%sf%%
+```smiles
+C1(O)=C(C(=O)OC)-C=C-C=C1
+```
+%%ef%%
+
+# Benzoquinone
+%%sf%%
+```smiles
+O=C1-C=C-C(=O)-C=C1
+```
+%%ef%%
+
+# Acetophenone
+%%sf%%
+```smiles
+C1=C-C=C-C=C1-C(=O)-C
+```
+%%ef%%
+
+# Benzophenone
+%%sf%%
+```smiles
+C1=C-C=C-C=C1-C(=O)-C1=C-C=C-C=C1
+```
