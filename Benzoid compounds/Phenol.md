@@ -74,11 +74,11 @@ $\ce{Ph-OH->[dil.HNO_{3}][H_{2}SO_{4}]}$ %%qf%% $\ce{o-Nitro Phenol + p-Nitro Ph
 
 ## Sulphonation
 
-$\ce{Ph-OH->[conc. fooming H_{2}SO_{4}]}$ %%qf%% $\ce{o-hydroxy sulphonic acid + p-hydroxy sulphonic acid}$^sulphonationofphenol
+$\ce{Ph-OH->[conc. fooming H_{2}SO_{4}]}$ %%qf%% $\ce{o-hydroxy Benzene sulphonic acid + p-hydroxy  Benzene sulphonic acid}$^sulphonationofphenol
 
 ## Bromination
 
-$\ce{Ph-OH ->[Br_{2}][H_{2}O]}$ %%qf%% $\ce{2,4,6-tribromo Phenol}$^tribrominationofphenol
+$\ce{Ph-OH ->[Br_{2}][H_{2}O]}$ %%qf%% $\ce{2,4,6-tribromo Phenol( white ppt )}$^tribrominationofphenol
 
 - Again due to $\ce{H_{2}O}$ Phenoxide ion forms that's why tri substituted product
 - if you don't want that add $\ce{CCl_{4}}$
