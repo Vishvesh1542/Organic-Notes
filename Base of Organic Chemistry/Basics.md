@@ -2,6 +2,7 @@
 node_size: 25
 ---
 Study these first if you want to understand anything 
+HAHHAHAHAHA
 
 [[SN¹ Mechanism]]
 [[SN² Mechanism]]
