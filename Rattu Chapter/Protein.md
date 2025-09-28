@@ -18,8 +18,13 @@ Building blocks of life (and) OUR INSANITY
 | Trypotophan   | Serine        |
 | Valine        | Tyrinsine     |
 
-# Structure
+# Structures
 
 | Structure   | Name      |
 | ----------- | --------- |
 | ![[Acetal]] | It works! |
+
+# Properties
+
+- All 20 amino acids are $\ce{\alpha}$-Amino acids and all are found naturally in nature
+- all amino acids have $\ce{L}$- configuration

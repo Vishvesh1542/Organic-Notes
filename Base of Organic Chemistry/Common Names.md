@@ -328,3 +328,11 @@ C1=C-C=C-C=C1-C(=O)-C
 ```smiles
 C1=C-C=C-C=C1-C(=O)-C1=C-C=C-C=C1
 ```
+%%ef%%
+
+# Phthalimide
+%%sf%%
+```smiles
+ N1C(=O)C2=C(C=C-C=C2)C1=O
+```
+%%ef%%
