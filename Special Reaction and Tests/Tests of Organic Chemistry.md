@@ -69,3 +69,26 @@ $\ce{R-C(=O)-CH_{3} + 4NaOH + 3I_{2}-> 3NaI + R-C(=O)-O^{-}Na+ + CHI_{3}}$^iodof
 %%ef%%
 
 For more info see [[Halo-form reaction]]
+
+## Liebermann Nitroso Test
+%%sf%%
+$\ce{R_{2}/Ar_{2}-NH->[HNO_{2}]R_{2}/Ar_{2}-N-N=O( yellow oily liquid )}$^liebermannnitrosotest
+
+- R and Ar is any Alkyl or Aryl group
+- **Observation**- Yellow oily liquid is formed
+- **What this tells us**- That the molecule is a secondary amine
+%%ef%%
+
+## Coupling Reaction
+%%sf%%
+$\ce{Ph-[N#N]+Cl- + Ph-G -> Ph-N=N-Ph-G ( para )}$^couplingreactiontest
+
+- G can be any special group and has special color based on it
+- **Observation-** Colored Compound forms
+- **What this tells us-** Based on G the color differs
+	 - $\ce{G=OH \implies oragne colour, reaction done in \ 9-10 pH}$
+	 - $\ce{G=NH_{2} \implies yellow colour, reaction done in \ 4-5 pH}$
+	 - $\ce{Ph-G=\alpha-napthol \implies some colour, reaction done in \ 9-10 pH}$
+	 - $\ce{Ph-G=\beta-Napthol \implies Scarlett Red colour, reaction done in \ 9-10 pH}$
+- **Note-** This reaction is HIHGLY pH sensitive so don't mess with it, also at $\ce{N=N}$ always cis trans exist
+%%ef%%

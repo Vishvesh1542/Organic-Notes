@@ -35,5 +35,6 @@ $\ce{Ph-NH_{2}->[Br_{2}][H_{2}O]}$ %%qf%% $\ce{2,4,6-tribromo Aniline ( white pp
 $\ce{Ph-NH_{2}->[NaNO_{2},conc. HCl][273K - 278K]}$ %%qf%% $\ce{Ph-[N#N]+Cl-}$
 
 - this thing has so many damn reactions, many of which were given in other sections, but here are some more
+- Also giving $\ce{NaNO_{2},HCl}$ is same as giving $\ce{NO+ or HNO_{2}}$
 
 $\ce{Ph-[N#N]+Cl-->[H_{3}PO_{2} or CH_{3}CH_{2}OH]}$ %%qf%% $\ce{C_{6}H_{6} + H_{3}PO_{3} or CH_{3}C(=O)H +N_{2} + HCl}$^reductionofBDC
